@@ -157,6 +157,10 @@ public partial class WeaponPaints
 	private void OnCommandSkinRefresh(CCSPlayerController? player, CommandInfo command)
 	{
 		if (!Config.Additional.CommandWpEnabled || !Config.Additional.SkinEnabled || !_gBCommandsAllowed) return;
+		if (player != null)
+		{
+			return;
+		}
 
 		var args = command.GetArg(1);
 			

@@ -590,6 +590,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-995.png"
     },
     {
+        "id": "1000",
+        "name": "Πάσο επιχείρησης Payback",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1000.png"
+    },
+    {
         "id": "1001",
         "name": "Νόμισμα πρόκλησης επιχείρησης Payback",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1001.png"
@@ -638,6 +643,11 @@
         "id": "1010",
         "name": "Νόμισμα χάρτη Library",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1010.png"
+    },
+    {
+        "id": "1012",
+        "name": "Πάσο επιχείρησης Bravo",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1012.png"
     },
     {
         "id": "1013",
@@ -690,6 +700,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1022.png"
     },
     {
+        "id": "1023",
+        "name": "Πάσο επιχείρησης Phoenix",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1023.png"
+    },
+    {
         "id": "1024",
         "name": "Νόμισμα πρόκλησης επιχείρησης Phoenix",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1024.png"
@@ -703,6 +718,11 @@
         "id": "1026",
         "name": "Χρυσό νόμισμα επιχείρησης Phoenix",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1026.png"
+    },
+    {
+        "id": "1027",
+        "name": "Πάσο πλήρους πρόσβασης επιχείρησης Breakout",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1027.png"
     },
     {
         "id": "1028",
@@ -1015,6 +1035,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1089.png"
     },
     {
+        "id": "1315",
+        "name": "Πάσο πρόσβασης επιχείρησης Vanguard",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1315.png"
+    },
+    {
         "id": "1316",
         "name": "Νόμισμα πρόκλησης επιχείρησης Vanguard",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1316.png"
@@ -1028,6 +1053,11 @@
         "id": "1318",
         "name": "Χρυσό νόμισμα επιχείρησης Vanguard",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1318.png"
+    },
+    {
+        "id": "1326",
+        "name": "Πάσο πρόσβασης επιχείρησης Bloodhound",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1326.png"
     },
     {
         "id": "1327",
@@ -1053,6 +1083,11 @@
         "id": "1332",
         "name": "Μετάλλιο υπηρεσίας 2015",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1332.png"
+    },
+    {
+        "id": "1335",
+        "name": "Πάσο πρόσβασης επιχείρησης Wildfire",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1335.png"
     },
     {
         "id": "1336",
@@ -1098,6 +1133,11 @@
         "id": "1344",
         "name": "Μετάλλιο υπηρεσίας 2016",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1344.png"
+    },
+    {
+        "id": "1352",
+        "name": "Πάσο πρόσβασης επιχείρησης Hydra",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1352.png"
     },
     {
         "id": "1357",
@@ -1215,6 +1255,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4356.png"
     },
     {
+        "id": "4549",
+        "name": "Πάσο Επιχείρησης Shattered Web",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4549.png"
+    },
+    {
         "id": "4550",
         "name": "Νόμισμα προκλήσεων Επιχείρησης Shattered Web",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4550.png"
@@ -1233,6 +1278,11 @@
         "id": "4553",
         "name": "Διαμαντένιο νόμισμα Επιχείρησης Shattered Web",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4553.png"
+    },
+    {
+        "id": "4554",
+        "name": "Πάσο θεατή - Katowice 2019",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4554.png"
     },
     {
         "id": "4555",
@@ -1255,6 +1305,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4558.png"
     },
     {
+        "id": "4622",
+        "name": "Πάσο θεατή - Βερολίνο 2019",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4622.png"
+    },
+    {
         "id": "4623",
         "name": "Νόμισμα Βερολίνο 2019",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4623.png"
@@ -1273,6 +1328,16 @@
         "id": "4626",
         "name": "Διαμαντένιο νόμισμα Βερολίνο 2019",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4626.png"
+    },
+    {
+        "id": "4627",
+        "name": "Πάσο θεατή Βερολίνο 2019 + 3 Μάρκες σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4627.png"
+    },
+    {
+        "id": "4628",
+        "name": "Μάρκα σουβενίρ Βερολίνο 2019",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4628.png"
     },
     {
         "id": "4674",
@@ -1360,6 +1425,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4692.png"
     },
     {
+        "id": "4699",
+        "name": "Premium πάσο επιχείρησης Broken Fang",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4699.png"
+    },
+    {
         "id": "4700",
         "name": "Νόμισμα προκλήσεων επιχείρησης Broken Fang",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4700.png"
@@ -1410,6 +1480,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4742.png"
     },
     {
+        "id": "4758",
+        "name": "Επιχείρηση Riptide – Premium πάσο",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4758.png"
+    },
+    {
         "id": "4759",
         "name": "Νόμισμα πρόκλησης Επιχείρησης Riptide",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4759.png"
@@ -1430,6 +1505,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4762.png"
     },
     {
+        "id": "4796",
+        "name": "Πάσο Θεατή – Στοκχόλμη 2021",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4796.png"
+    },
+    {
         "id": "4797",
         "name": "Νόμισμα Στοκχόλμη 2021",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4797.png"
@@ -1448,6 +1528,16 @@
         "id": "4800",
         "name": "Διαμαντένιο Νόμισμα – Στοκχόλμη 2021",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4800.png"
+    },
+    {
+        "id": "4801",
+        "name": "Πάσο Θεατή Στοκχόλμη 2021 + 3 Μάρκες Σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4801.png"
+    },
+    {
+        "id": "4802",
+        "name": "Μάρκα Σουβενίρ – Στοκχόλμη 2021",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4802.png"
     },
     {
         "id": "4819",
@@ -1480,6 +1570,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4824.png"
     },
     {
+        "id": "4825",
+        "name": "Πάσο Θεατή Αμβέρσα 2022",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4825.png"
+    },
+    {
         "id": "4826",
         "name": "Νόμισμα Αμβέρσα 2022",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4826.png"
@@ -1500,6 +1595,21 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4829.png"
     },
     {
+        "id": "4830",
+        "name": "Πάσο Θεατή Αμβέρσα 2022 + 3 Μάρκες Σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4830.png"
+    },
+    {
+        "id": "4831",
+        "name": "Μάρκα Σουβενίρ Αμβέρσα 2022",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4831.png"
+    },
+    {
+        "id": "4850",
+        "name": "Πάσο Θεατή Ρίο 2022",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4850.png"
+    },
+    {
         "id": "4851",
         "name": "Νόμισμα Ρίο 2022",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4851.png"
@@ -1518,6 +1628,16 @@
         "id": "4854",
         "name": "Διαμαντένιο Νόμισμα Ρίο 2022",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4854.png"
+    },
+    {
+        "id": "4855",
+        "name": "Πάσο Θεατή Ρίο 2022 + 3 Μάρκες Σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4855.png"
+    },
+    {
+        "id": "4856",
+        "name": "Μάρκα Σουβενίρ Ρίο 2022",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4856.png"
     },
     {
         "id": "4873",
@@ -1550,6 +1670,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4878.png"
     },
     {
+        "id": "4883",
+        "name": "Πάσο Θεατή Παρίσι 2023",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4883.png"
+    },
+    {
         "id": "4884",
         "name": "Νόμισμα Παρίσι 2023",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4884.png"
@@ -1568,6 +1693,16 @@
         "id": "4887",
         "name": "Διαμαντένιο Νόμισμα Παρίσι 2023",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4887.png"
+    },
+    {
+        "id": "4888",
+        "name": "Πάσο Θεατή Παρίσι 2023 + 3 Μάρκες Σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4888.png"
+    },
+    {
+        "id": "4889",
+        "name": "Μάρκα Σουβενίρ Παρίσι 2023",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4889.png"
     },
     {
         "id": "4906",
@@ -1600,6 +1735,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4911.png"
     },
     {
+        "id": "4916",
+        "name": "Πάσο Θεατή Κοπεγχάγη 2024",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4916.png"
+    },
+    {
         "id": "4917",
         "name": "Νόμισμα Κοπεγχάγη 2024",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4917.png"
@@ -1618,6 +1758,16 @@
         "id": "4920",
         "name": "Διαμαντένιο Νόμισμα Κοπεγχάγη 2024",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4920.png"
+    },
+    {
+        "id": "4921",
+        "name": "Πάσο Θεατή Κοπεγχάγη 2024 + 3 Μάρκες Σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4921.png"
+    },
+    {
+        "id": "4922",
+        "name": "Πακέτο Σουβενίρ Κοπεγχάγη 2024",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4922.png"
     },
     {
         "id": "4933",
@@ -1695,6 +1845,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4956.png"
     },
     {
+        "id": "4957",
+        "name": "Πάσο Θεατή Σαγκάη 2024",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4957.png"
+    },
+    {
         "id": "4958",
         "name": "Νόμισμα Σαγκάη 2024",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4958.png"
@@ -1713,6 +1868,16 @@
         "id": "4961",
         "name": "Διαμαντένιο Νόμισμα Σαγκάη 2024",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4961.png"
+    },
+    {
+        "id": "4962",
+        "name": "Πάσο Θεατή Σαγκάη 2024 + 3 Μάρκες Σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4962.png"
+    },
+    {
+        "id": "4963",
+        "name": "Πακέτο Σουβενίρ Σαγκάη 2024",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4963.png"
     },
     {
         "id": "4974",
@@ -1940,6 +2105,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5022.png"
     },
     {
+        "id": "5110",
+        "name": "Πάσο Θεατή Όστιν 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5110.png"
+    },
+    {
         "id": "5111",
         "name": "Νόμισμα Όστιν 2025",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5111.png"
@@ -1958,6 +2128,16 @@
         "id": "5114",
         "name": "Διαμαντένιο Νόμισμα Όστιν 2025",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5114.png"
+    },
+    {
+        "id": "5115",
+        "name": "Πάσο Θεατή Όστιν 2025 + 3 Μάρκες Σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5115.png"
+    },
+    {
+        "id": "5116",
+        "name": "Πακέτο Σουβενίρ Όστιν 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5116.png"
     },
     {
         "id": "5127",
@@ -2183,6 +2363,316 @@
         "id": "5175",
         "name": "Μετάλλιο Premier – Σεζόν Τρία",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5175.png"
+    },
+    {
+        "id": "5177",
+        "name": "Νόμισμα χάρτη Golden",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5177.png"
+    },
+    {
+        "id": "5178",
+        "name": "Νόμισμα χάρτη Rooftop",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5178.png"
+    },
+    {
+        "id": "5179",
+        "name": "Νόμισμα χάρτη Palacio",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5179.png"
+    },
+    {
+        "id": "5180",
+        "name": "Νόμισμα χάρτη [Αφαιρέθηκε]",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5180.png"
+    },
+    {
+        "id": "5209",
+        "name": "Πάσο Θεατή Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5209.png"
+    },
+    {
+        "id": "5210",
+        "name": "Νόμισμα Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5210.png"
+    },
+    {
+        "id": "5211",
+        "name": "Ασημένιο Νόμισμα Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5211.png"
+    },
+    {
+        "id": "5212",
+        "name": "Χρυσό Νόμισμα Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5212.png"
+    },
+    {
+        "id": "5213",
+        "name": "Διαμαντένιο Νόμισμα Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5213.png"
+    },
+    {
+        "id": "5214",
+        "name": "Πάσο Θεατή Βουδαπέστη 2025 + 3 Μάρκες Σουβενίρ",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5214.png"
+    },
+    {
+        "id": "5215",
+        "name": "Πακέτο Σουβενίρ Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5215.png"
+    },
+    {
+        "id": "5226",
+        "name": "Πρωταθλητής στο StarLadder Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5226.png"
+    },
+    {
+        "id": "5227",
+        "name": "Φιναλίστ στο StarLadder Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5227.png"
+    },
+    {
+        "id": "5228",
+        "name": "Ημιφιναλίστ στο StarLadder Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5228.png"
+    },
+    {
+        "id": "5229",
+        "name": "Προημιφιναλίστ στο StarLadder Βουδαπέστη 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5229.png"
+    },
+    {
+        "id": "5234",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5234.png"
+    },
+    {
+        "id": "5235",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5235.png"
+    },
+    {
+        "id": "5236",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5236.png"
+    },
+    {
+        "id": "5237",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5237.png"
+    },
+    {
+        "id": "5238",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5238.png"
+    },
+    {
+        "id": "5239",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5239.png"
+    },
+    {
+        "id": "5240",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5240.png"
+    },
+    {
+        "id": "5241",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5241.png"
+    },
+    {
+        "id": "5242",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5242.png"
+    },
+    {
+        "id": "5243",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5243.png"
+    },
+    {
+        "id": "5244",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5244.png"
+    },
+    {
+        "id": "5245",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5245.png"
+    },
+    {
+        "id": "5246",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5246.png"
+    },
+    {
+        "id": "5247",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5247.png"
+    },
+    {
+        "id": "5248",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5248.png"
+    },
+    {
+        "id": "5249",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5249.png"
+    },
+    {
+        "id": "5250",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5250.png"
+    },
+    {
+        "id": "5251",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5251.png"
+    },
+    {
+        "id": "5252",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5252.png"
+    },
+    {
+        "id": "5253",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5253.png"
+    },
+    {
+        "id": "5254",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5254.png"
+    },
+    {
+        "id": "5255",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5255.png"
+    },
+    {
+        "id": "5256",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5256.png"
+    },
+    {
+        "id": "5257",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5257.png"
+    },
+    {
+        "id": "5258",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5258.png"
+    },
+    {
+        "id": "5259",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5259.png"
+    },
+    {
+        "id": "5260",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5260.png"
+    },
+    {
+        "id": "5261",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5261.png"
+    },
+    {
+        "id": "5262",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5262.png"
+    },
+    {
+        "id": "5263",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5263.png"
+    },
+    {
+        "id": "5264",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5264.png"
+    },
+    {
+        "id": "5265",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5265.png"
+    },
+    {
+        "id": "5266",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5266.png"
+    },
+    {
+        "id": "5267",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5267.png"
+    },
+    {
+        "id": "5268",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5268.png"
+    },
+    {
+        "id": "5269",
+        "name": "Premier Season Four Medal",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5269.png"
+    },
+    {
+        "id": "5270",
+        "name": "Μετάλλιο υπηρεσίας 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5270.png"
+    },
+    {
+        "id": "5271",
+        "name": "Μετάλλιο υπηρεσίας 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5271.png"
+    },
+    {
+        "id": "5272",
+        "name": "Μετάλλιο υπηρεσίας 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5272.png"
+    },
+    {
+        "id": "5273",
+        "name": "Μετάλλιο υπηρεσίας 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5273.png"
+    },
+    {
+        "id": "5274",
+        "name": "Μετάλλιο υπηρεσίας 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5274.png"
+    },
+    {
+        "id": "5275",
+        "name": "Μετάλλιο υπηρεσίας 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5275.png"
+    },
+    {
+        "id": "5276",
+        "name": "Νόμισμα χάρτη Warden",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5276.png"
+    },
+    {
+        "id": "5277",
+        "name": "Νόμισμα χάρτη Stronghold",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5277.png"
+    },
+    {
+        "id": "5278",
+        "name": "Νόμισμα χάρτη Alpine",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5278.png"
+    },
+    {
+        "id": "5279",
+        "name": "Νόμισμα χάρτη Poseidon",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5279.png"
+    },
+    {
+        "id": "5280",
+        "name": "Νόμισμα χάρτη Sanctum",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5280.png"
     },
     {
         "id": "6001",

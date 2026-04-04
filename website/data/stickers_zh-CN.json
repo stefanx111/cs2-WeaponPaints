@@ -1105,29 +1105,9 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-231.png"
     },
     {
-        "id": "232",
-        "name": "印花 | 3DMAX | 2014年 DreamHack 锦标赛",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-232.png"
-    },
-    {
         "id": "233",
         "name": "印花 | Copenhagen Wolves | 2014年 DreamHack 锦标赛",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-233.png"
-    },
-    {
-        "id": "234",
-        "name": "印花 | dAT team | 2014年 DreamHack 锦标赛",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-234.png"
-    },
-    {
-        "id": "235",
-        "name": "印花 | London Conspiracy | 2014年 DreamHack 锦标赛",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-235.png"
-    },
-    {
-        "id": "236",
-        "name": "印花 | mousesports | 2014年 DreamHack 锦标赛",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-236.png"
     },
     {
         "id": "237",
@@ -4925,44 +4905,9 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-998.png"
     },
     {
-        "id": "999",
-        "name": "印花 | 狙击手（闪亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-999.png"
-    },
-    {
-        "id": "1000",
-        "name": "印花 | 安包匪（闪亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1000.png"
-    },
-    {
-        "id": "1001",
-        "name": "印花 | 手雷大师（闪亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1001.png"
-    },
-    {
-        "id": "1002",
-        "name": "印花 | 队长（闪亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1002.png"
-    },
-    {
-        "id": "1003",
-        "name": "印花 | 掷弹手（闪亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1003.png"
-    },
-    {
-        "id": "1004",
-        "name": "印花 | 偷包忍者（闪亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1004.png"
-    },
-    {
         "id": "1005",
         "name": "印花 | 职业哥（闪亮）",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1005.png"
-    },
-    {
-        "id": "1006",
-        "name": "印花 | 辅助（闪亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1006.png"
     },
     {
         "id": "1007",
@@ -21536,12 +21481,12 @@
     },
     {
         "id": "4657",
-        "name": "印花 | Hello CZ75",
+        "name": "印花 | Hello CZ75自动型",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-4657.png"
     },
     {
         "id": "4658",
-        "name": "印花 | Hello CZ75（金色）",
+        "name": "印花 | Hello CZ75自动型（金色）",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-4658.png"
     },
     {
@@ -21566,12 +21511,12 @@
     },
     {
         "id": "4663",
-        "name": "印花 | Hello M4A1消音型",
+        "name": "印花 | Hello M4A1消音版",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-4663.png"
     },
     {
         "id": "4664",
-        "name": "印花 | Hello M4A1消音型（金色）",
+        "name": "印花 | Hello M4A1消音版（金色）",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-4664.png"
     },
     {
@@ -37406,22 +37351,22 @@
     },
     {
         "id": "8024",
-        "name": "印花 | Perfect World | 2024年上海锦标赛",
+        "name": "印花 | 完美世界 | 2024年上海锦标赛",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-8024.png"
     },
     {
         "id": "8025",
-        "name": "印花 | Perfect World（闪耀）| 2024年上海锦标赛",
+        "name": "印花 | 完美世界（闪耀）| 2024年上海锦标赛",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-8025.png"
     },
     {
         "id": "8026",
-        "name": "印花 | Perfect World（全息）| 2024年上海锦标赛",
+        "name": "印花 | 完美世界（全息）| 2024年上海锦标赛",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-8026.png"
     },
     {
         "id": "8027",
-        "name": "印花 | Perfect World（金色）| 2024年上海锦标赛",
+        "name": "印花 | 完美世界（金色）| 2024年上海锦标赛",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-8027.png"
     },
     {
@@ -44248,5 +44193,4155 @@
         "id": "9450",
         "name": "印花 | ropz（金色，冠军）| 2025年奥斯汀锦标赛",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9450.png"
+    },
+    {
+        "id": "9451",
+        "name": "印花 | 红苹果",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9451.png"
+    },
+    {
+        "id": "9452",
+        "name": "印花 | 立体主义分子",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9452.png"
+    },
+    {
+        "id": "9453",
+        "name": "印花 | 法洛之眼",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9453.png"
+    },
+    {
+        "id": "9454",
+        "name": "印花 | 褪色芒果",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9454.png"
+    },
+    {
+        "id": "9455",
+        "name": "印花 | 手套就位",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9455.png"
+    },
+    {
+        "id": "9456",
+        "name": "印花 | 锁定",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9456.png"
+    },
+    {
+        "id": "9457",
+        "name": "印花 | 拟态胶囊",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9457.png"
+    },
+    {
+        "id": "9458",
+        "name": "印花 | 噗噗狗",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9458.png"
+    },
+    {
+        "id": "9459",
+        "name": "印花 | 停火",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9459.png"
+    },
+    {
+        "id": "9460",
+        "name": "印花 | 爱弹寄语",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9460.png"
+    },
+    {
+        "id": "9461",
+        "name": "印花 | 骷髅刺客",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9461.png"
+    },
+    {
+        "id": "9462",
+        "name": "印花 | 罪恶光标",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9462.png"
+    },
+    {
+        "id": "9463",
+        "name": "印花 | CT足迹（闪耀）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9463.png"
+    },
+    {
+        "id": "9464",
+        "name": "印花 | 过载（闪耀）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9464.png"
+    },
+    {
+        "id": "9465",
+        "name": "印花 | T足迹（闪耀）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9465.png"
+    },
+    {
+        "id": "9466",
+        "name": "印花 | 炸弹已安放（全息）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9466.png"
+    },
+    {
+        "id": "9467",
+        "name": "印花 | 镀铬颅骨（全息）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9467.png"
+    },
+    {
+        "id": "9468",
+        "name": "印花 | 可爱捏（全息）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9468.png"
+    },
+    {
+        "id": "9469",
+        "name": "印花 | 证据（全息）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9469.png"
+    },
+    {
+        "id": "9470",
+        "name": "印花 | 蛙怪（全息）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9470.png"
+    },
+    {
+        "id": "9471",
+        "name": "印花 | 谢绝出租（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9471.png"
+    },
+    {
+        "id": "9472",
+        "name": "印花 | 大眼朝天（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9472.png"
+    },
+    {
+        "id": "9473",
+        "name": "印花 | 跟新的一样（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9473.png"
+    },
+    {
+        "id": "9474",
+        "name": "印花 | 禁止触碰（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9474.png"
+    },
+    {
+        "id": "9475",
+        "name": "印花 | 克拉斯沃特国王（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9475.png"
+    },
+    {
+        "id": "9476",
+        "name": "印花 | 爱娃女王（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9476.png"
+    },
+    {
+        "id": "9477",
+        "name": "印花 | 数码打击（透镜）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9477.png"
+    },
+    {
+        "id": "9478",
+        "name": "印花 | 霓虹MVP（透镜）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9478.png"
+    },
+    {
+        "id": "9479",
+        "name": "印花 | 冲云一击（透镜）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9479.png"
+    },
+    {
+        "id": "9480",
+        "name": "印花 | 克拉维斯",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9480.png"
+    },
+    {
+        "id": "9481",
+        "name": "印花 | 洛雷娜",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9481.png"
+    },
+    {
+        "id": "9482",
+        "name": "印花 | 卢卡斯",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9482.png"
+    },
+    {
+        "id": "9483",
+        "name": "印花 | 克拉维斯（全息）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9483.png"
+    },
+    {
+        "id": "9484",
+        "name": "印花 | 洛雷娜（全息）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9484.png"
+    },
+    {
+        "id": "9485",
+        "name": "印花 | 卢卡斯（全息）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9485.png"
+    },
+    {
+        "id": "9486",
+        "name": "印花 | 克拉维斯（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9486.png"
+    },
+    {
+        "id": "9487",
+        "name": "印花 | 洛雷娜（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9487.png"
+    },
+    {
+        "id": "9488",
+        "name": "印花 | 卢卡斯（闪亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9488.png"
+    },
+    {
+        "id": "9489",
+        "name": "印花 | FURIA | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9489.png"
+    },
+    {
+        "id": "9490",
+        "name": "印花 | FURIA（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9490.png"
+    },
+    {
+        "id": "9491",
+        "name": "印花 | FURIA（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9491.png"
+    },
+    {
+        "id": "9492",
+        "name": "印花 | FURIA（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9492.png"
+    },
+    {
+        "id": "9493",
+        "name": "印花 | Vitality | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9493.png"
+    },
+    {
+        "id": "9494",
+        "name": "印花 | Vitality（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9494.png"
+    },
+    {
+        "id": "9495",
+        "name": "印花 | Vitality（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9495.png"
+    },
+    {
+        "id": "9496",
+        "name": "印花 | Vitality（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9496.png"
+    },
+    {
+        "id": "9497",
+        "name": "印花 | Falcons | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9497.png"
+    },
+    {
+        "id": "9498",
+        "name": "印花 | Falcons（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9498.png"
+    },
+    {
+        "id": "9499",
+        "name": "印花 | Falcons（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9499.png"
+    },
+    {
+        "id": "9500",
+        "name": "印花 | Falcons（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9500.png"
+    },
+    {
+        "id": "9501",
+        "name": "印花 | The MongolZ | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9501.png"
+    },
+    {
+        "id": "9502",
+        "name": "印花 | The MongolZ（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9502.png"
+    },
+    {
+        "id": "9503",
+        "name": "印花 | The MongolZ（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9503.png"
+    },
+    {
+        "id": "9504",
+        "name": "印花 | The MongolZ（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9504.png"
+    },
+    {
+        "id": "9505",
+        "name": "印花 | MOUZ | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9505.png"
+    },
+    {
+        "id": "9506",
+        "name": "印花 | MOUZ（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9506.png"
+    },
+    {
+        "id": "9507",
+        "name": "印花 | MOUZ（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9507.png"
+    },
+    {
+        "id": "9508",
+        "name": "印花 | MOUZ（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9508.png"
+    },
+    {
+        "id": "9509",
+        "name": "印花 | Team Spirit | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9509.png"
+    },
+    {
+        "id": "9510",
+        "name": "印花 | Team Spirit（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9510.png"
+    },
+    {
+        "id": "9511",
+        "name": "印花 | Team Spirit（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9511.png"
+    },
+    {
+        "id": "9512",
+        "name": "印花 | Team Spirit（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9512.png"
+    },
+    {
+        "id": "9513",
+        "name": "印花 | G2 Esports | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9513.png"
+    },
+    {
+        "id": "9514",
+        "name": "印花 | G2 Esports（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9514.png"
+    },
+    {
+        "id": "9515",
+        "name": "印花 | G2 Esports（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9515.png"
+    },
+    {
+        "id": "9516",
+        "name": "印花 | G2 Esports（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9516.png"
+    },
+    {
+        "id": "9517",
+        "name": "印花 | paiN Gaming | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9517.png"
+    },
+    {
+        "id": "9518",
+        "name": "印花 | paiN Gaming（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9518.png"
+    },
+    {
+        "id": "9519",
+        "name": "印花 | paiN Gaming（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9519.png"
+    },
+    {
+        "id": "9520",
+        "name": "印花 | paiN Gaming（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9520.png"
+    },
+    {
+        "id": "9521",
+        "name": "印花 | Aurora | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9521.png"
+    },
+    {
+        "id": "9522",
+        "name": "印花 | Aurora（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9522.png"
+    },
+    {
+        "id": "9523",
+        "name": "印花 | Aurora（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9523.png"
+    },
+    {
+        "id": "9524",
+        "name": "印花 | Aurora（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9524.png"
+    },
+    {
+        "id": "9525",
+        "name": "印花 | Natus Vincere | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9525.png"
+    },
+    {
+        "id": "9526",
+        "name": "印花 | Natus Vincere（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9526.png"
+    },
+    {
+        "id": "9527",
+        "name": "印花 | Natus Vincere（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9527.png"
+    },
+    {
+        "id": "9528",
+        "name": "印花 | Natus Vincere（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9528.png"
+    },
+    {
+        "id": "9529",
+        "name": "印花 | Team Liquid | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9529.png"
+    },
+    {
+        "id": "9530",
+        "name": "印花 | Team Liquid（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9530.png"
+    },
+    {
+        "id": "9531",
+        "name": "印花 | Team Liquid（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9531.png"
+    },
+    {
+        "id": "9532",
+        "name": "印花 | Team Liquid（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9532.png"
+    },
+    {
+        "id": "9533",
+        "name": "印花 | 3DMAX | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9533.png"
+    },
+    {
+        "id": "9534",
+        "name": "印花 | 3DMAX（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9534.png"
+    },
+    {
+        "id": "9535",
+        "name": "印花 | 3DMAX（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9535.png"
+    },
+    {
+        "id": "9536",
+        "name": "印花 | 3DMAX（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9536.png"
+    },
+    {
+        "id": "9537",
+        "name": "印花 | Astralis | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9537.png"
+    },
+    {
+        "id": "9538",
+        "name": "印花 | Astralis（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9538.png"
+    },
+    {
+        "id": "9539",
+        "name": "印花 | Astralis（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9539.png"
+    },
+    {
+        "id": "9540",
+        "name": "印花 | Astralis（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9540.png"
+    },
+    {
+        "id": "9541",
+        "name": "印花 | TYLOO | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9541.png"
+    },
+    {
+        "id": "9542",
+        "name": "印花 | TYLOO（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9542.png"
+    },
+    {
+        "id": "9543",
+        "name": "印花 | TYLOO（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9543.png"
+    },
+    {
+        "id": "9544",
+        "name": "印花 | TYLOO（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9544.png"
+    },
+    {
+        "id": "9545",
+        "name": "印花 | MIBR | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9545.png"
+    },
+    {
+        "id": "9546",
+        "name": "印花 | MIBR（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9546.png"
+    },
+    {
+        "id": "9547",
+        "name": "印花 | MIBR（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9547.png"
+    },
+    {
+        "id": "9548",
+        "name": "印花 | MIBR（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9548.png"
+    },
+    {
+        "id": "9549",
+        "name": "印花 | Passion UA | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9549.png"
+    },
+    {
+        "id": "9550",
+        "name": "印花 | Passion UA（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9550.png"
+    },
+    {
+        "id": "9551",
+        "name": "印花 | Passion UA（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9551.png"
+    },
+    {
+        "id": "9552",
+        "name": "印花 | Passion UA（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9552.png"
+    },
+    {
+        "id": "9553",
+        "name": "印花 | Legacy | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9553.png"
+    },
+    {
+        "id": "9554",
+        "name": "印花 | Legacy（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9554.png"
+    },
+    {
+        "id": "9555",
+        "name": "印花 | Legacy（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9555.png"
+    },
+    {
+        "id": "9556",
+        "name": "印花 | Legacy（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9556.png"
+    },
+    {
+        "id": "9557",
+        "name": "印花 | FaZe Clan | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9557.png"
+    },
+    {
+        "id": "9558",
+        "name": "印花 | FaZe Clan（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9558.png"
+    },
+    {
+        "id": "9559",
+        "name": "印花 | FaZe Clan（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9559.png"
+    },
+    {
+        "id": "9560",
+        "name": "印花 | FaZe Clan（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9560.png"
+    },
+    {
+        "id": "9561",
+        "name": "印花 | B8 | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9561.png"
+    },
+    {
+        "id": "9562",
+        "name": "印花 | B8（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9562.png"
+    },
+    {
+        "id": "9563",
+        "name": "印花 | B8（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9563.png"
+    },
+    {
+        "id": "9564",
+        "name": "印花 | B8（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9564.png"
+    },
+    {
+        "id": "9565",
+        "name": "印花 | GamerLegion | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9565.png"
+    },
+    {
+        "id": "9566",
+        "name": "印花 | GamerLegion（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9566.png"
+    },
+    {
+        "id": "9567",
+        "name": "印花 | GamerLegion（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9567.png"
+    },
+    {
+        "id": "9568",
+        "name": "印花 | GamerLegion（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9568.png"
+    },
+    {
+        "id": "9569",
+        "name": "印花 | Fnatic | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9569.png"
+    },
+    {
+        "id": "9570",
+        "name": "印花 | Fnatic（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9570.png"
+    },
+    {
+        "id": "9571",
+        "name": "印花 | Fnatic（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9571.png"
+    },
+    {
+        "id": "9572",
+        "name": "印花 | Fnatic（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9572.png"
+    },
+    {
+        "id": "9573",
+        "name": "印花 | Parivision | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9573.png"
+    },
+    {
+        "id": "9574",
+        "name": "印花 | Parivision（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9574.png"
+    },
+    {
+        "id": "9575",
+        "name": "印花 | Parivision（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9575.png"
+    },
+    {
+        "id": "9576",
+        "name": "印花 | Parivision（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9576.png"
+    },
+    {
+        "id": "9577",
+        "name": "印花 | Ninjas in Pyjamas | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9577.png"
+    },
+    {
+        "id": "9578",
+        "name": "印花 | Ninjas in Pyjamas（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9578.png"
+    },
+    {
+        "id": "9579",
+        "name": "印花 | Ninjas in Pyjamas（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9579.png"
+    },
+    {
+        "id": "9580",
+        "name": "印花 | Ninjas in Pyjamas（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9580.png"
+    },
+    {
+        "id": "9581",
+        "name": "印花 | Imperial Esports | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9581.png"
+    },
+    {
+        "id": "9582",
+        "name": "印花 | Imperial Esports（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9582.png"
+    },
+    {
+        "id": "9583",
+        "name": "印花 | Imperial Esports（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9583.png"
+    },
+    {
+        "id": "9584",
+        "name": "印花 | Imperial Esports（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9584.png"
+    },
+    {
+        "id": "9585",
+        "name": "印花 | Flyquest | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9585.png"
+    },
+    {
+        "id": "9586",
+        "name": "印花 | Flyquest（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9586.png"
+    },
+    {
+        "id": "9587",
+        "name": "印花 | Flyquest（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9587.png"
+    },
+    {
+        "id": "9588",
+        "name": "印花 | Flyquest（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9588.png"
+    },
+    {
+        "id": "9589",
+        "name": "印花 | Lynn Vision | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9589.png"
+    },
+    {
+        "id": "9590",
+        "name": "印花 | Lynn Vision（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9590.png"
+    },
+    {
+        "id": "9591",
+        "name": "印花 | Lynn Vision（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9591.png"
+    },
+    {
+        "id": "9592",
+        "name": "印花 | Lynn Vision（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9592.png"
+    },
+    {
+        "id": "9593",
+        "name": "印花 | M80 | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9593.png"
+    },
+    {
+        "id": "9594",
+        "name": "印花 | M80（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9594.png"
+    },
+    {
+        "id": "9595",
+        "name": "印花 | M80（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9595.png"
+    },
+    {
+        "id": "9596",
+        "name": "印花 | M80（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9596.png"
+    },
+    {
+        "id": "9597",
+        "name": "印花 | Fluxo | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9597.png"
+    },
+    {
+        "id": "9598",
+        "name": "印花 | Fluxo（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9598.png"
+    },
+    {
+        "id": "9599",
+        "name": "印花 | Fluxo（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9599.png"
+    },
+    {
+        "id": "9600",
+        "name": "印花 | Fluxo（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9600.png"
+    },
+    {
+        "id": "9601",
+        "name": "印花 | RED Canids | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9601.png"
+    },
+    {
+        "id": "9602",
+        "name": "印花 | RED Canids（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9602.png"
+    },
+    {
+        "id": "9603",
+        "name": "印花 | RED Canids（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9603.png"
+    },
+    {
+        "id": "9604",
+        "name": "印花 | RED Canids（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9604.png"
+    },
+    {
+        "id": "9605",
+        "name": "印花 | The Huns | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9605.png"
+    },
+    {
+        "id": "9606",
+        "name": "印花 | The Huns（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9606.png"
+    },
+    {
+        "id": "9607",
+        "name": "印花 | The Huns（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9607.png"
+    },
+    {
+        "id": "9608",
+        "name": "印花 | The Huns（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9608.png"
+    },
+    {
+        "id": "9609",
+        "name": "印花 | NRG | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9609.png"
+    },
+    {
+        "id": "9610",
+        "name": "印花 | NRG（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9610.png"
+    },
+    {
+        "id": "9611",
+        "name": "印花 | NRG（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9611.png"
+    },
+    {
+        "id": "9612",
+        "name": "印花 | NRG（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9612.png"
+    },
+    {
+        "id": "9613",
+        "name": "印花 | Rare Atom | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9613.png"
+    },
+    {
+        "id": "9614",
+        "name": "印花 | Rare Atom（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9614.png"
+    },
+    {
+        "id": "9615",
+        "name": "印花 | Rare Atom（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9615.png"
+    },
+    {
+        "id": "9616",
+        "name": "印花 | Rare Atom（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9616.png"
+    },
+    {
+        "id": "9617",
+        "name": "印花 | StarLadder | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9617.png"
+    },
+    {
+        "id": "9618",
+        "name": "印花 | StarLadder（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9618.png"
+    },
+    {
+        "id": "9619",
+        "name": "印花 | StarLadder（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9619.png"
+    },
+    {
+        "id": "9620",
+        "name": "印花 | StarLadder（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9620.png"
+    },
+    {
+        "id": "9654",
+        "name": "印花 | FalleN | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9654.png"
+    },
+    {
+        "id": "9655",
+        "name": "印花 | FalleN（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9655.png"
+    },
+    {
+        "id": "9656",
+        "name": "印花 | FalleN（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9656.png"
+    },
+    {
+        "id": "9657",
+        "name": "印花 | FalleN（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9657.png"
+    },
+    {
+        "id": "9658",
+        "name": "印花 | KSCERATO | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9658.png"
+    },
+    {
+        "id": "9659",
+        "name": "印花 | KSCERATO（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9659.png"
+    },
+    {
+        "id": "9660",
+        "name": "印花 | KSCERATO（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9660.png"
+    },
+    {
+        "id": "9661",
+        "name": "印花 | KSCERATO（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9661.png"
+    },
+    {
+        "id": "9662",
+        "name": "印花 | molodoy | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9662.png"
+    },
+    {
+        "id": "9663",
+        "name": "印花 | molodoy（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9663.png"
+    },
+    {
+        "id": "9664",
+        "name": "印花 | molodoy（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9664.png"
+    },
+    {
+        "id": "9665",
+        "name": "印花 | molodoy（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9665.png"
+    },
+    {
+        "id": "9666",
+        "name": "印花 | YEKINDAR | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9666.png"
+    },
+    {
+        "id": "9667",
+        "name": "印花 | YEKINDAR（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9667.png"
+    },
+    {
+        "id": "9668",
+        "name": "印花 | YEKINDAR（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9668.png"
+    },
+    {
+        "id": "9669",
+        "name": "印花 | YEKINDAR（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9669.png"
+    },
+    {
+        "id": "9670",
+        "name": "印花 | yuurih | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9670.png"
+    },
+    {
+        "id": "9671",
+        "name": "印花 | yuurih（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9671.png"
+    },
+    {
+        "id": "9672",
+        "name": "印花 | yuurih（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9672.png"
+    },
+    {
+        "id": "9673",
+        "name": "印花 | yuurih（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9673.png"
+    },
+    {
+        "id": "9674",
+        "name": "印花 | apEX | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9674.png"
+    },
+    {
+        "id": "9675",
+        "name": "印花 | apEX（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9675.png"
+    },
+    {
+        "id": "9676",
+        "name": "印花 | apEX（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9676.png"
+    },
+    {
+        "id": "9677",
+        "name": "印花 | apEX（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9677.png"
+    },
+    {
+        "id": "9678",
+        "name": "印花 | FlameZ | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9678.png"
+    },
+    {
+        "id": "9679",
+        "name": "印花 | FlameZ（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9679.png"
+    },
+    {
+        "id": "9680",
+        "name": "印花 | FlameZ（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9680.png"
+    },
+    {
+        "id": "9681",
+        "name": "印花 | FlameZ（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9681.png"
+    },
+    {
+        "id": "9682",
+        "name": "印花 | mezii | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9682.png"
+    },
+    {
+        "id": "9683",
+        "name": "印花 | mezii（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9683.png"
+    },
+    {
+        "id": "9684",
+        "name": "印花 | mezii（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9684.png"
+    },
+    {
+        "id": "9685",
+        "name": "印花 | mezii（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9685.png"
+    },
+    {
+        "id": "9686",
+        "name": "印花 | ropz | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9686.png"
+    },
+    {
+        "id": "9687",
+        "name": "印花 | ropz（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9687.png"
+    },
+    {
+        "id": "9688",
+        "name": "印花 | ropz（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9688.png"
+    },
+    {
+        "id": "9689",
+        "name": "印花 | ropz（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9689.png"
+    },
+    {
+        "id": "9690",
+        "name": "印花 | ZywOo | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9690.png"
+    },
+    {
+        "id": "9691",
+        "name": "印花 | ZywOo（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9691.png"
+    },
+    {
+        "id": "9692",
+        "name": "印花 | ZywOo（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9692.png"
+    },
+    {
+        "id": "9693",
+        "name": "印花 | ZywOo（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9693.png"
+    },
+    {
+        "id": "9694",
+        "name": "印花 | kyousuke | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9694.png"
+    },
+    {
+        "id": "9695",
+        "name": "印花 | kyousuke（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9695.png"
+    },
+    {
+        "id": "9696",
+        "name": "印花 | kyousuke（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9696.png"
+    },
+    {
+        "id": "9697",
+        "name": "印花 | kyousuke（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9697.png"
+    },
+    {
+        "id": "9698",
+        "name": "印花 | kyxsan | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9698.png"
+    },
+    {
+        "id": "9699",
+        "name": "印花 | kyxsan（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9699.png"
+    },
+    {
+        "id": "9700",
+        "name": "印花 | kyxsan（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9700.png"
+    },
+    {
+        "id": "9701",
+        "name": "印花 | kyxsan（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9701.png"
+    },
+    {
+        "id": "9702",
+        "name": "印花 | m0NESY | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9702.png"
+    },
+    {
+        "id": "9703",
+        "name": "印花 | m0NESY（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9703.png"
+    },
+    {
+        "id": "9704",
+        "name": "印花 | m0NESY（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9704.png"
+    },
+    {
+        "id": "9705",
+        "name": "印花 | m0NESY（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9705.png"
+    },
+    {
+        "id": "9706",
+        "name": "印花 | NiKo | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9706.png"
+    },
+    {
+        "id": "9707",
+        "name": "印花 | NiKo（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9707.png"
+    },
+    {
+        "id": "9708",
+        "name": "印花 | NiKo（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9708.png"
+    },
+    {
+        "id": "9709",
+        "name": "印花 | NiKo（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9709.png"
+    },
+    {
+        "id": "9710",
+        "name": "印花 | TeSeS | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9710.png"
+    },
+    {
+        "id": "9711",
+        "name": "印花 | TeSeS（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9711.png"
+    },
+    {
+        "id": "9712",
+        "name": "印花 | TeSeS（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9712.png"
+    },
+    {
+        "id": "9713",
+        "name": "印花 | TeSeS（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9713.png"
+    },
+    {
+        "id": "9714",
+        "name": "印花 | 910 | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9714.png"
+    },
+    {
+        "id": "9715",
+        "name": "印花 | 910（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9715.png"
+    },
+    {
+        "id": "9716",
+        "name": "印花 | 910（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9716.png"
+    },
+    {
+        "id": "9717",
+        "name": "印花 | 910（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9717.png"
+    },
+    {
+        "id": "9718",
+        "name": "印花 | bLitz | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9718.png"
+    },
+    {
+        "id": "9719",
+        "name": "印花 | bLitz（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9719.png"
+    },
+    {
+        "id": "9720",
+        "name": "印花 | bLitz（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9720.png"
+    },
+    {
+        "id": "9721",
+        "name": "印花 | bLitz（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9721.png"
+    },
+    {
+        "id": "9722",
+        "name": "印花 | mzinho | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9722.png"
+    },
+    {
+        "id": "9723",
+        "name": "印花 | mzinho（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9723.png"
+    },
+    {
+        "id": "9724",
+        "name": "印花 | mzinho（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9724.png"
+    },
+    {
+        "id": "9725",
+        "name": "印花 | mzinho（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9725.png"
+    },
+    {
+        "id": "9726",
+        "name": "印花 | Senzu | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9726.png"
+    },
+    {
+        "id": "9727",
+        "name": "印花 | Senzu（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9727.png"
+    },
+    {
+        "id": "9728",
+        "name": "印花 | Senzu（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9728.png"
+    },
+    {
+        "id": "9729",
+        "name": "印花 | Senzu（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9729.png"
+    },
+    {
+        "id": "9730",
+        "name": "印花 | Techno4K | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9730.png"
+    },
+    {
+        "id": "9731",
+        "name": "印花 | Techno4K（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9731.png"
+    },
+    {
+        "id": "9732",
+        "name": "印花 | Techno4K（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9732.png"
+    },
+    {
+        "id": "9733",
+        "name": "印花 | Techno4K（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9733.png"
+    },
+    {
+        "id": "9734",
+        "name": "印花 | Brollan | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9734.png"
+    },
+    {
+        "id": "9735",
+        "name": "印花 | Brollan（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9735.png"
+    },
+    {
+        "id": "9736",
+        "name": "印花 | Brollan（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9736.png"
+    },
+    {
+        "id": "9737",
+        "name": "印花 | Brollan（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9737.png"
+    },
+    {
+        "id": "9738",
+        "name": "印花 | Jimpphat | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9738.png"
+    },
+    {
+        "id": "9739",
+        "name": "印花 | Jimpphat（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9739.png"
+    },
+    {
+        "id": "9740",
+        "name": "印花 | Jimpphat（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9740.png"
+    },
+    {
+        "id": "9741",
+        "name": "印花 | Jimpphat（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9741.png"
+    },
+    {
+        "id": "9742",
+        "name": "印花 | Spinx | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9742.png"
+    },
+    {
+        "id": "9743",
+        "name": "印花 | Spinx（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9743.png"
+    },
+    {
+        "id": "9744",
+        "name": "印花 | Spinx（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9744.png"
+    },
+    {
+        "id": "9745",
+        "name": "印花 | Spinx（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9745.png"
+    },
+    {
+        "id": "9746",
+        "name": "印花 | torzsi | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9746.png"
+    },
+    {
+        "id": "9747",
+        "name": "印花 | torzsi（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9747.png"
+    },
+    {
+        "id": "9748",
+        "name": "印花 | torzsi（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9748.png"
+    },
+    {
+        "id": "9749",
+        "name": "印花 | torzsi（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9749.png"
+    },
+    {
+        "id": "9750",
+        "name": "印花 | xertioN | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9750.png"
+    },
+    {
+        "id": "9751",
+        "name": "印花 | xertioN（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9751.png"
+    },
+    {
+        "id": "9752",
+        "name": "印花 | xertioN（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9752.png"
+    },
+    {
+        "id": "9753",
+        "name": "印花 | xertioN（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9753.png"
+    },
+    {
+        "id": "9754",
+        "name": "印花 | chopper | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9754.png"
+    },
+    {
+        "id": "9755",
+        "name": "印花 | chopper（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9755.png"
+    },
+    {
+        "id": "9756",
+        "name": "印花 | chopper（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9756.png"
+    },
+    {
+        "id": "9757",
+        "name": "印花 | chopper（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9757.png"
+    },
+    {
+        "id": "9758",
+        "name": "印花 | donk | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9758.png"
+    },
+    {
+        "id": "9759",
+        "name": "印花 | donk（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9759.png"
+    },
+    {
+        "id": "9760",
+        "name": "印花 | donk（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9760.png"
+    },
+    {
+        "id": "9761",
+        "name": "印花 | donk（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9761.png"
+    },
+    {
+        "id": "9762",
+        "name": "印花 | sh1ro | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9762.png"
+    },
+    {
+        "id": "9763",
+        "name": "印花 | sh1ro（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9763.png"
+    },
+    {
+        "id": "9764",
+        "name": "印花 | sh1ro（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9764.png"
+    },
+    {
+        "id": "9765",
+        "name": "印花 | sh1ro（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9765.png"
+    },
+    {
+        "id": "9766",
+        "name": "印花 | zont1x | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9766.png"
+    },
+    {
+        "id": "9767",
+        "name": "印花 | zont1x（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9767.png"
+    },
+    {
+        "id": "9768",
+        "name": "印花 | zont1x（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9768.png"
+    },
+    {
+        "id": "9769",
+        "name": "印花 | zont1x（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9769.png"
+    },
+    {
+        "id": "9770",
+        "name": "印花 | zweih | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9770.png"
+    },
+    {
+        "id": "9771",
+        "name": "印花 | zweih（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9771.png"
+    },
+    {
+        "id": "9772",
+        "name": "印花 | zweih（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9772.png"
+    },
+    {
+        "id": "9773",
+        "name": "印花 | zweih（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9773.png"
+    },
+    {
+        "id": "9774",
+        "name": "印花 | Heavygod | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9774.png"
+    },
+    {
+        "id": "9775",
+        "name": "印花 | Heavygod（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9775.png"
+    },
+    {
+        "id": "9776",
+        "name": "印花 | Heavygod（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9776.png"
+    },
+    {
+        "id": "9777",
+        "name": "印花 | Heavygod（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9777.png"
+    },
+    {
+        "id": "9778",
+        "name": "印花 | huNter- | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9778.png"
+    },
+    {
+        "id": "9779",
+        "name": "印花 | huNter-（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9779.png"
+    },
+    {
+        "id": "9780",
+        "name": "印花 | huNter-（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9780.png"
+    },
+    {
+        "id": "9781",
+        "name": "印花 | huNter-（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9781.png"
+    },
+    {
+        "id": "9782",
+        "name": "印花 | malbsMd | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9782.png"
+    },
+    {
+        "id": "9783",
+        "name": "印花 | malbsMd（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9783.png"
+    },
+    {
+        "id": "9784",
+        "name": "印花 | malbsMd（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9784.png"
+    },
+    {
+        "id": "9785",
+        "name": "印花 | malbsMd（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9785.png"
+    },
+    {
+        "id": "9786",
+        "name": "印花 | MATYS | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9786.png"
+    },
+    {
+        "id": "9787",
+        "name": "印花 | MATYS（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9787.png"
+    },
+    {
+        "id": "9788",
+        "name": "印花 | MATYS（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9788.png"
+    },
+    {
+        "id": "9789",
+        "name": "印花 | MATYS（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9789.png"
+    },
+    {
+        "id": "9790",
+        "name": "印花 | SunPayus | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9790.png"
+    },
+    {
+        "id": "9791",
+        "name": "印花 | SunPayus（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9791.png"
+    },
+    {
+        "id": "9792",
+        "name": "印花 | SunPayus（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9792.png"
+    },
+    {
+        "id": "9793",
+        "name": "印花 | SunPayus（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9793.png"
+    },
+    {
+        "id": "9794",
+        "name": "印花 | biguzera | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9794.png"
+    },
+    {
+        "id": "9795",
+        "name": "印花 | biguzera（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9795.png"
+    },
+    {
+        "id": "9796",
+        "name": "印花 | biguzera（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9796.png"
+    },
+    {
+        "id": "9797",
+        "name": "印花 | biguzera（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9797.png"
+    },
+    {
+        "id": "9798",
+        "name": "印花 | dav1deuS | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9798.png"
+    },
+    {
+        "id": "9799",
+        "name": "印花 | dav1deuS（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9799.png"
+    },
+    {
+        "id": "9800",
+        "name": "印花 | dav1deuS（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9800.png"
+    },
+    {
+        "id": "9801",
+        "name": "印花 | dav1deuS（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9801.png"
+    },
+    {
+        "id": "9802",
+        "name": "印花 | dgt | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9802.png"
+    },
+    {
+        "id": "9803",
+        "name": "印花 | dgt（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9803.png"
+    },
+    {
+        "id": "9804",
+        "name": "印花 | dgt（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9804.png"
+    },
+    {
+        "id": "9805",
+        "name": "印花 | dgt（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9805.png"
+    },
+    {
+        "id": "9806",
+        "name": "印花 | NQZ | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9806.png"
+    },
+    {
+        "id": "9807",
+        "name": "印花 | NQZ（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9807.png"
+    },
+    {
+        "id": "9808",
+        "name": "印花 | NQZ（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9808.png"
+    },
+    {
+        "id": "9809",
+        "name": "印花 | NQZ（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9809.png"
+    },
+    {
+        "id": "9810",
+        "name": "印花 | snow | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9810.png"
+    },
+    {
+        "id": "9811",
+        "name": "印花 | snow（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9811.png"
+    },
+    {
+        "id": "9812",
+        "name": "印花 | snow（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9812.png"
+    },
+    {
+        "id": "9813",
+        "name": "印花 | snow（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9813.png"
+    },
+    {
+        "id": "9814",
+        "name": "印花 | jottAAA | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9814.png"
+    },
+    {
+        "id": "9815",
+        "name": "印花 | jottAAA（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9815.png"
+    },
+    {
+        "id": "9816",
+        "name": "印花 | jottAAA（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9816.png"
+    },
+    {
+        "id": "9817",
+        "name": "印花 | jottAAA（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9817.png"
+    },
+    {
+        "id": "9818",
+        "name": "印花 | MAJ3R | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9818.png"
+    },
+    {
+        "id": "9819",
+        "name": "印花 | MAJ3R（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9819.png"
+    },
+    {
+        "id": "9820",
+        "name": "印花 | MAJ3R（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9820.png"
+    },
+    {
+        "id": "9821",
+        "name": "印花 | MAJ3R（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9821.png"
+    },
+    {
+        "id": "9822",
+        "name": "印花 | Wicadia | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9822.png"
+    },
+    {
+        "id": "9823",
+        "name": "印花 | Wicadia（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9823.png"
+    },
+    {
+        "id": "9824",
+        "name": "印花 | Wicadia（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9824.png"
+    },
+    {
+        "id": "9825",
+        "name": "印花 | Wicadia（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9825.png"
+    },
+    {
+        "id": "9826",
+        "name": "印花 | woxic | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9826.png"
+    },
+    {
+        "id": "9827",
+        "name": "印花 | woxic（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9827.png"
+    },
+    {
+        "id": "9828",
+        "name": "印花 | woxic（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9828.png"
+    },
+    {
+        "id": "9829",
+        "name": "印花 | woxic（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9829.png"
+    },
+    {
+        "id": "9830",
+        "name": "印花 | XANTARES | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9830.png"
+    },
+    {
+        "id": "9831",
+        "name": "印花 | XANTARES（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9831.png"
+    },
+    {
+        "id": "9832",
+        "name": "印花 | XANTARES（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9832.png"
+    },
+    {
+        "id": "9833",
+        "name": "印花 | XANTARES（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9833.png"
+    },
+    {
+        "id": "9834",
+        "name": "印花 | Aleksib | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9834.png"
+    },
+    {
+        "id": "9835",
+        "name": "印花 | Aleksib（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9835.png"
+    },
+    {
+        "id": "9836",
+        "name": "印花 | Aleksib（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9836.png"
+    },
+    {
+        "id": "9837",
+        "name": "印花 | Aleksib（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9837.png"
+    },
+    {
+        "id": "9838",
+        "name": "印花 | b1t | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9838.png"
+    },
+    {
+        "id": "9839",
+        "name": "印花 | b1t（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9839.png"
+    },
+    {
+        "id": "9840",
+        "name": "印花 | b1t（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9840.png"
+    },
+    {
+        "id": "9841",
+        "name": "印花 | b1t（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9841.png"
+    },
+    {
+        "id": "9842",
+        "name": "印花 | iM | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9842.png"
+    },
+    {
+        "id": "9843",
+        "name": "印花 | iM（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9843.png"
+    },
+    {
+        "id": "9844",
+        "name": "印花 | iM（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9844.png"
+    },
+    {
+        "id": "9845",
+        "name": "印花 | iM（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9845.png"
+    },
+    {
+        "id": "9846",
+        "name": "印花 | makazze | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9846.png"
+    },
+    {
+        "id": "9847",
+        "name": "印花 | makazze（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9847.png"
+    },
+    {
+        "id": "9848",
+        "name": "印花 | makazze（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9848.png"
+    },
+    {
+        "id": "9849",
+        "name": "印花 | makazze（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9849.png"
+    },
+    {
+        "id": "9850",
+        "name": "印花 | w0nderful | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9850.png"
+    },
+    {
+        "id": "9851",
+        "name": "印花 | w0nderful（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9851.png"
+    },
+    {
+        "id": "9852",
+        "name": "印花 | w0nderful（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9852.png"
+    },
+    {
+        "id": "9853",
+        "name": "印花 | w0nderful（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9853.png"
+    },
+    {
+        "id": "9854",
+        "name": "印花 | EliGE | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9854.png"
+    },
+    {
+        "id": "9855",
+        "name": "印花 | EliGE（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9855.png"
+    },
+    {
+        "id": "9856",
+        "name": "印花 | EliGE（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9856.png"
+    },
+    {
+        "id": "9857",
+        "name": "印花 | EliGE（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9857.png"
+    },
+    {
+        "id": "9858",
+        "name": "印花 | NAF | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9858.png"
+    },
+    {
+        "id": "9859",
+        "name": "印花 | NAF（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9859.png"
+    },
+    {
+        "id": "9860",
+        "name": "印花 | NAF（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9860.png"
+    },
+    {
+        "id": "9861",
+        "name": "印花 | NAF（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9861.png"
+    },
+    {
+        "id": "9862",
+        "name": "印花 | NertZ | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9862.png"
+    },
+    {
+        "id": "9863",
+        "name": "印花 | NertZ（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9863.png"
+    },
+    {
+        "id": "9864",
+        "name": "印花 | NertZ（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9864.png"
+    },
+    {
+        "id": "9865",
+        "name": "印花 | NertZ（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9865.png"
+    },
+    {
+        "id": "9866",
+        "name": "印花 | siuhy | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9866.png"
+    },
+    {
+        "id": "9867",
+        "name": "印花 | siuhy（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9867.png"
+    },
+    {
+        "id": "9868",
+        "name": "印花 | siuhy（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9868.png"
+    },
+    {
+        "id": "9869",
+        "name": "印花 | siuhy（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9869.png"
+    },
+    {
+        "id": "9870",
+        "name": "印花 | ultimate | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9870.png"
+    },
+    {
+        "id": "9871",
+        "name": "印花 | ultimate（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9871.png"
+    },
+    {
+        "id": "9872",
+        "name": "印花 | ultimate（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9872.png"
+    },
+    {
+        "id": "9873",
+        "name": "印花 | ultimate（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9873.png"
+    },
+    {
+        "id": "9874",
+        "name": "印花 | bodyy | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9874.png"
+    },
+    {
+        "id": "9875",
+        "name": "印花 | bodyy（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9875.png"
+    },
+    {
+        "id": "9876",
+        "name": "印花 | bodyy（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9876.png"
+    },
+    {
+        "id": "9877",
+        "name": "印花 | bodyy（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9877.png"
+    },
+    {
+        "id": "9878",
+        "name": "印花 | Ex3rcice | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9878.png"
+    },
+    {
+        "id": "9879",
+        "name": "印花 | Ex3rcice（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9879.png"
+    },
+    {
+        "id": "9880",
+        "name": "印花 | Ex3rcice（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9880.png"
+    },
+    {
+        "id": "9881",
+        "name": "印花 | Ex3rcice（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9881.png"
+    },
+    {
+        "id": "9882",
+        "name": "印花 | Graviti | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9882.png"
+    },
+    {
+        "id": "9883",
+        "name": "印花 | Graviti（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9883.png"
+    },
+    {
+        "id": "9884",
+        "name": "印花 | Graviti（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9884.png"
+    },
+    {
+        "id": "9885",
+        "name": "印花 | Graviti（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9885.png"
+    },
+    {
+        "id": "9886",
+        "name": "印花 | Lucky | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9886.png"
+    },
+    {
+        "id": "9887",
+        "name": "印花 | Lucky（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9887.png"
+    },
+    {
+        "id": "9888",
+        "name": "印花 | Lucky（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9888.png"
+    },
+    {
+        "id": "9889",
+        "name": "印花 | Lucky（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9889.png"
+    },
+    {
+        "id": "9890",
+        "name": "印花 | Maka | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9890.png"
+    },
+    {
+        "id": "9891",
+        "name": "印花 | Maka（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9891.png"
+    },
+    {
+        "id": "9892",
+        "name": "印花 | Maka（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9892.png"
+    },
+    {
+        "id": "9893",
+        "name": "印花 | Maka（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9893.png"
+    },
+    {
+        "id": "9894",
+        "name": "印花 | device | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9894.png"
+    },
+    {
+        "id": "9895",
+        "name": "印花 | device（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9895.png"
+    },
+    {
+        "id": "9896",
+        "name": "印花 | device（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9896.png"
+    },
+    {
+        "id": "9897",
+        "name": "印花 | device（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9897.png"
+    },
+    {
+        "id": "9898",
+        "name": "印花 | HooXi | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9898.png"
+    },
+    {
+        "id": "9899",
+        "name": "印花 | HooXi（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9899.png"
+    },
+    {
+        "id": "9900",
+        "name": "印花 | HooXi（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9900.png"
+    },
+    {
+        "id": "9901",
+        "name": "印花 | HooXi（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9901.png"
+    },
+    {
+        "id": "9902",
+        "name": "印花 | jabbi | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9902.png"
+    },
+    {
+        "id": "9903",
+        "name": "印花 | jabbi（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9903.png"
+    },
+    {
+        "id": "9904",
+        "name": "印花 | jabbi（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9904.png"
+    },
+    {
+        "id": "9905",
+        "name": "印花 | jabbi（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9905.png"
+    },
+    {
+        "id": "9906",
+        "name": "印花 | Magisk | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9906.png"
+    },
+    {
+        "id": "9907",
+        "name": "印花 | Magisk（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9907.png"
+    },
+    {
+        "id": "9908",
+        "name": "印花 | Magisk（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9908.png"
+    },
+    {
+        "id": "9909",
+        "name": "印花 | Magisk（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9909.png"
+    },
+    {
+        "id": "9910",
+        "name": "印花 | Staehr | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9910.png"
+    },
+    {
+        "id": "9911",
+        "name": "印花 | Staehr（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9911.png"
+    },
+    {
+        "id": "9912",
+        "name": "印花 | Staehr（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9912.png"
+    },
+    {
+        "id": "9913",
+        "name": "印花 | Staehr（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9913.png"
+    },
+    {
+        "id": "9914",
+        "name": "印花 | Attacker | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9914.png"
+    },
+    {
+        "id": "9915",
+        "name": "印花 | Attacker（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9915.png"
+    },
+    {
+        "id": "9916",
+        "name": "印花 | Attacker（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9916.png"
+    },
+    {
+        "id": "9917",
+        "name": "印花 | Attacker（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9917.png"
+    },
+    {
+        "id": "9918",
+        "name": "印花 | JamYoung | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9918.png"
+    },
+    {
+        "id": "9919",
+        "name": "印花 | JamYoung（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9919.png"
+    },
+    {
+        "id": "9920",
+        "name": "印花 | JamYoung（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9920.png"
+    },
+    {
+        "id": "9921",
+        "name": "印花 | JamYoung（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9921.png"
+    },
+    {
+        "id": "9922",
+        "name": "印花 | Jee | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9922.png"
+    },
+    {
+        "id": "9923",
+        "name": "印花 | Jee（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9923.png"
+    },
+    {
+        "id": "9924",
+        "name": "印花 | Jee（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9924.png"
+    },
+    {
+        "id": "9925",
+        "name": "印花 | Jee（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9925.png"
+    },
+    {
+        "id": "9926",
+        "name": "印花 | Mercury | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9926.png"
+    },
+    {
+        "id": "9927",
+        "name": "印花 | Mercury（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9927.png"
+    },
+    {
+        "id": "9928",
+        "name": "印花 | Mercury（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9928.png"
+    },
+    {
+        "id": "9929",
+        "name": "印花 | Mercury（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9929.png"
+    },
+    {
+        "id": "9930",
+        "name": "印花 | Moseyuh | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9930.png"
+    },
+    {
+        "id": "9931",
+        "name": "印花 | Moseyuh（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9931.png"
+    },
+    {
+        "id": "9932",
+        "name": "印花 | Moseyuh（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9932.png"
+    },
+    {
+        "id": "9933",
+        "name": "印花 | Moseyuh（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9933.png"
+    },
+    {
+        "id": "9934",
+        "name": "印花 | brnz4n | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9934.png"
+    },
+    {
+        "id": "9935",
+        "name": "印花 | brnz4n（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9935.png"
+    },
+    {
+        "id": "9936",
+        "name": "印花 | brnz4n（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9936.png"
+    },
+    {
+        "id": "9937",
+        "name": "印花 | brnz4n（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9937.png"
+    },
+    {
+        "id": "9938",
+        "name": "印花 | exit | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9938.png"
+    },
+    {
+        "id": "9939",
+        "name": "印花 | exit（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9939.png"
+    },
+    {
+        "id": "9940",
+        "name": "印花 | exit（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9940.png"
+    },
+    {
+        "id": "9941",
+        "name": "印花 | exit（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9941.png"
+    },
+    {
+        "id": "9942",
+        "name": "印花 | insani | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9942.png"
+    },
+    {
+        "id": "9943",
+        "name": "印花 | insani（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9943.png"
+    },
+    {
+        "id": "9944",
+        "name": "印花 | insani（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9944.png"
+    },
+    {
+        "id": "9945",
+        "name": "印花 | insani（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9945.png"
+    },
+    {
+        "id": "9946",
+        "name": "印花 | kl1m | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9946.png"
+    },
+    {
+        "id": "9947",
+        "name": "印花 | kl1m（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9947.png"
+    },
+    {
+        "id": "9948",
+        "name": "印花 | kl1m（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9948.png"
+    },
+    {
+        "id": "9949",
+        "name": "印花 | kl1m（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9949.png"
+    },
+    {
+        "id": "9950",
+        "name": "印花 | qikert | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9950.png"
+    },
+    {
+        "id": "9951",
+        "name": "印花 | qikert（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9951.png"
+    },
+    {
+        "id": "9952",
+        "name": "印花 | qikert（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9952.png"
+    },
+    {
+        "id": "9953",
+        "name": "印花 | qikert（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9953.png"
+    },
+    {
+        "id": "9954",
+        "name": "印花 | Grim | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9954.png"
+    },
+    {
+        "id": "9955",
+        "name": "印花 | Grim（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9955.png"
+    },
+    {
+        "id": "9956",
+        "name": "印花 | Grim（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9956.png"
+    },
+    {
+        "id": "9957",
+        "name": "印花 | Grim（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9957.png"
+    },
+    {
+        "id": "9958",
+        "name": "印花 | hallzerk | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9958.png"
+    },
+    {
+        "id": "9959",
+        "name": "印花 | hallzerk（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9959.png"
+    },
+    {
+        "id": "9960",
+        "name": "印花 | hallzerk（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9960.png"
+    },
+    {
+        "id": "9961",
+        "name": "印花 | hallzerk（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9961.png"
+    },
+    {
+        "id": "9962",
+        "name": "印花 | JT | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9962.png"
+    },
+    {
+        "id": "9963",
+        "name": "印花 | JT（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9963.png"
+    },
+    {
+        "id": "9964",
+        "name": "印花 | JT（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9964.png"
+    },
+    {
+        "id": "9965",
+        "name": "印花 | JT（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9965.png"
+    },
+    {
+        "id": "9966",
+        "name": "印花 | Kvem | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9966.png"
+    },
+    {
+        "id": "9967",
+        "name": "印花 | Kvem（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9967.png"
+    },
+    {
+        "id": "9968",
+        "name": "印花 | Kvem（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9968.png"
+    },
+    {
+        "id": "9969",
+        "name": "印花 | Kvem（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9969.png"
+    },
+    {
+        "id": "9970",
+        "name": "印花 | nicx | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9970.png"
+    },
+    {
+        "id": "9971",
+        "name": "印花 | nicx（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9971.png"
+    },
+    {
+        "id": "9972",
+        "name": "印花 | nicx（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9972.png"
+    },
+    {
+        "id": "9973",
+        "name": "印花 | nicx（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9973.png"
+    },
+    {
+        "id": "9974",
+        "name": "印花 | dumau | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9974.png"
+    },
+    {
+        "id": "9975",
+        "name": "印花 | dumau（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9975.png"
+    },
+    {
+        "id": "9976",
+        "name": "印花 | dumau（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9976.png"
+    },
+    {
+        "id": "9977",
+        "name": "印花 | dumau（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9977.png"
+    },
+    {
+        "id": "9978",
+        "name": "印花 | latto | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9978.png"
+    },
+    {
+        "id": "9979",
+        "name": "印花 | latto（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9979.png"
+    },
+    {
+        "id": "9980",
+        "name": "印花 | latto（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9980.png"
+    },
+    {
+        "id": "9981",
+        "name": "印花 | latto（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9981.png"
+    },
+    {
+        "id": "9982",
+        "name": "印花 | lux | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9982.png"
+    },
+    {
+        "id": "9983",
+        "name": "印花 | lux（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9983.png"
+    },
+    {
+        "id": "9984",
+        "name": "印花 | lux（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9984.png"
+    },
+    {
+        "id": "9985",
+        "name": "印花 | lux（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9985.png"
+    },
+    {
+        "id": "9986",
+        "name": "印花 | n1ssim | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9986.png"
+    },
+    {
+        "id": "9987",
+        "name": "印花 | n1ssim（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9987.png"
+    },
+    {
+        "id": "9988",
+        "name": "印花 | n1ssim（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9988.png"
+    },
+    {
+        "id": "9989",
+        "name": "印花 | n1ssim（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9989.png"
+    },
+    {
+        "id": "9990",
+        "name": "印花 | saadzin | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9990.png"
+    },
+    {
+        "id": "9991",
+        "name": "印花 | saadzin（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9991.png"
+    },
+    {
+        "id": "9992",
+        "name": "印花 | saadzin（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9992.png"
+    },
+    {
+        "id": "9993",
+        "name": "印花 | saadzin（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9993.png"
+    },
+    {
+        "id": "9994",
+        "name": "印花 | broky | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9994.png"
+    },
+    {
+        "id": "9995",
+        "name": "印花 | broky（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9995.png"
+    },
+    {
+        "id": "9996",
+        "name": "印花 | broky（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9996.png"
+    },
+    {
+        "id": "9997",
+        "name": "印花 | broky（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9997.png"
+    },
+    {
+        "id": "9998",
+        "name": "印花 | frozen | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9998.png"
+    },
+    {
+        "id": "9999",
+        "name": "印花 | frozen（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9999.png"
+    },
+    {
+        "id": "10000",
+        "name": "印花 | frozen（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10000.png"
+    },
+    {
+        "id": "10001",
+        "name": "印花 | frozen（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10001.png"
+    },
+    {
+        "id": "10002",
+        "name": "印花 | jcobbb | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10002.png"
+    },
+    {
+        "id": "10003",
+        "name": "印花 | jcobbb（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10003.png"
+    },
+    {
+        "id": "10004",
+        "name": "印花 | jcobbb（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10004.png"
+    },
+    {
+        "id": "10005",
+        "name": "印花 | jcobbb（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10005.png"
+    },
+    {
+        "id": "10006",
+        "name": "印花 | karrigan | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10006.png"
+    },
+    {
+        "id": "10007",
+        "name": "印花 | karrigan（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10007.png"
+    },
+    {
+        "id": "10008",
+        "name": "印花 | karrigan（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10008.png"
+    },
+    {
+        "id": "10009",
+        "name": "印花 | karrigan（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10009.png"
+    },
+    {
+        "id": "10010",
+        "name": "印花 | rain | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10010.png"
+    },
+    {
+        "id": "10011",
+        "name": "印花 | rain（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10011.png"
+    },
+    {
+        "id": "10012",
+        "name": "印花 | rain（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10012.png"
+    },
+    {
+        "id": "10013",
+        "name": "印花 | rain（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10013.png"
+    },
+    {
+        "id": "10014",
+        "name": "印花 | alex666 | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10014.png"
+    },
+    {
+        "id": "10015",
+        "name": "印花 | alex666（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10015.png"
+    },
+    {
+        "id": "10016",
+        "name": "印花 | alex666（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10016.png"
+    },
+    {
+        "id": "10017",
+        "name": "印花 | alex666（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10017.png"
+    },
+    {
+        "id": "10018",
+        "name": "印花 | esenthial | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10018.png"
+    },
+    {
+        "id": "10019",
+        "name": "印花 | esenthial（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10019.png"
+    },
+    {
+        "id": "10020",
+        "name": "印花 | esenthial（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10020.png"
+    },
+    {
+        "id": "10021",
+        "name": "印花 | esenthial（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10021.png"
+    },
+    {
+        "id": "10022",
+        "name": "印花 | headtr1ck | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10022.png"
+    },
+    {
+        "id": "10023",
+        "name": "印花 | headtr1ck（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10023.png"
+    },
+    {
+        "id": "10024",
+        "name": "印花 | headtr1ck（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10024.png"
+    },
+    {
+        "id": "10025",
+        "name": "印花 | headtr1ck（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10025.png"
+    },
+    {
+        "id": "10026",
+        "name": "印花 | kensizor | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10026.png"
+    },
+    {
+        "id": "10027",
+        "name": "印花 | kensizor（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10027.png"
+    },
+    {
+        "id": "10028",
+        "name": "印花 | kensizor（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10028.png"
+    },
+    {
+        "id": "10029",
+        "name": "印花 | kensizor（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10029.png"
+    },
+    {
+        "id": "10030",
+        "name": "印花 | npl | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10030.png"
+    },
+    {
+        "id": "10031",
+        "name": "印花 | npl（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10031.png"
+    },
+    {
+        "id": "10032",
+        "name": "印花 | npl（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10032.png"
+    },
+    {
+        "id": "10033",
+        "name": "印花 | npl（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10033.png"
+    },
+    {
+        "id": "10034",
+        "name": "印花 | Kursy | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10034.png"
+    },
+    {
+        "id": "10035",
+        "name": "印花 | Kursy（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10035.png"
+    },
+    {
+        "id": "10036",
+        "name": "印花 | Kursy（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10036.png"
+    },
+    {
+        "id": "10037",
+        "name": "印花 | Kursy（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10037.png"
+    },
+    {
+        "id": "10038",
+        "name": "印花 | PR | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10038.png"
+    },
+    {
+        "id": "10039",
+        "name": "印花 | PR（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10039.png"
+    },
+    {
+        "id": "10040",
+        "name": "印花 | PR（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10040.png"
+    },
+    {
+        "id": "10041",
+        "name": "印花 | PR（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10041.png"
+    },
+    {
+        "id": "10042",
+        "name": "印花 | REZ | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10042.png"
+    },
+    {
+        "id": "10043",
+        "name": "印花 | REZ（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10043.png"
+    },
+    {
+        "id": "10044",
+        "name": "印花 | REZ（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10044.png"
+    },
+    {
+        "id": "10045",
+        "name": "印花 | REZ（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10045.png"
+    },
+    {
+        "id": "10046",
+        "name": "印花 | Tauson | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10046.png"
+    },
+    {
+        "id": "10047",
+        "name": "印花 | Tauson（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10047.png"
+    },
+    {
+        "id": "10048",
+        "name": "印花 | Tauson（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10048.png"
+    },
+    {
+        "id": "10049",
+        "name": "印花 | Tauson（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10049.png"
+    },
+    {
+        "id": "10050",
+        "name": "印花 | ztr | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10050.png"
+    },
+    {
+        "id": "10051",
+        "name": "印花 | ztr（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10051.png"
+    },
+    {
+        "id": "10052",
+        "name": "印花 | ztr（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10052.png"
+    },
+    {
+        "id": "10053",
+        "name": "印花 | ztr（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10053.png"
+    },
+    {
+        "id": "10054",
+        "name": "印花 | blameF | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10054.png"
+    },
+    {
+        "id": "10055",
+        "name": "印花 | blameF（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10055.png"
+    },
+    {
+        "id": "10056",
+        "name": "印花 | blameF（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10056.png"
+    },
+    {
+        "id": "10057",
+        "name": "印花 | blameF（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10057.png"
+    },
+    {
+        "id": "10058",
+        "name": "印花 | Cypher | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10058.png"
+    },
+    {
+        "id": "10059",
+        "name": "印花 | Cypher（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10059.png"
+    },
+    {
+        "id": "10060",
+        "name": "印花 | Cypher（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10060.png"
+    },
+    {
+        "id": "10061",
+        "name": "印花 | Cypher（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10061.png"
+    },
+    {
+        "id": "10062",
+        "name": "印花 | fEAR | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10062.png"
+    },
+    {
+        "id": "10063",
+        "name": "印花 | fEAR（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10063.png"
+    },
+    {
+        "id": "10064",
+        "name": "印花 | fEAR（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10064.png"
+    },
+    {
+        "id": "10065",
+        "name": "印花 | fEAR（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10065.png"
+    },
+    {
+        "id": "10066",
+        "name": "印花 | jambo | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10066.png"
+    },
+    {
+        "id": "10067",
+        "name": "印花 | jambo（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10067.png"
+    },
+    {
+        "id": "10068",
+        "name": "印花 | jambo（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10068.png"
+    },
+    {
+        "id": "10069",
+        "name": "印花 | jambo（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10069.png"
+    },
+    {
+        "id": "10070",
+        "name": "印花 | KRIMZ | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10070.png"
+    },
+    {
+        "id": "10071",
+        "name": "印花 | KRIMZ（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10071.png"
+    },
+    {
+        "id": "10072",
+        "name": "印花 | KRIMZ（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10072.png"
+    },
+    {
+        "id": "10073",
+        "name": "印花 | KRIMZ（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10073.png"
+    },
+    {
+        "id": "10074",
+        "name": "印花 | AW | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10074.png"
+    },
+    {
+        "id": "10075",
+        "name": "印花 | AW（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10075.png"
+    },
+    {
+        "id": "10076",
+        "name": "印花 | AW（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10076.png"
+    },
+    {
+        "id": "10077",
+        "name": "印花 | AW（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10077.png"
+    },
+    {
+        "id": "10078",
+        "name": "印花 | BELCHONOKK | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10078.png"
+    },
+    {
+        "id": "10079",
+        "name": "印花 | BELCHONOKK（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10079.png"
+    },
+    {
+        "id": "10080",
+        "name": "印花 | BELCHONOKK（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10080.png"
+    },
+    {
+        "id": "10081",
+        "name": "印花 | BELCHONOKK（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10081.png"
+    },
+    {
+        "id": "10082",
+        "name": "印花 | Jame | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10082.png"
+    },
+    {
+        "id": "10083",
+        "name": "印花 | Jame（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10083.png"
+    },
+    {
+        "id": "10084",
+        "name": "印花 | Jame（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10084.png"
+    },
+    {
+        "id": "10085",
+        "name": "印花 | Jame（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10085.png"
+    },
+    {
+        "id": "10086",
+        "name": "印花 | nota | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10086.png"
+    },
+    {
+        "id": "10087",
+        "name": "印花 | nota（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10087.png"
+    },
+    {
+        "id": "10088",
+        "name": "印花 | nota（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10088.png"
+    },
+    {
+        "id": "10089",
+        "name": "印花 | nota（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10089.png"
+    },
+    {
+        "id": "10090",
+        "name": "印花 | xiELO | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10090.png"
+    },
+    {
+        "id": "10091",
+        "name": "印花 | xiELO（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10091.png"
+    },
+    {
+        "id": "10092",
+        "name": "印花 | xiELO（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10092.png"
+    },
+    {
+        "id": "10093",
+        "name": "印花 | xiELO（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10093.png"
+    },
+    {
+        "id": "10094",
+        "name": "印花 | ewjerkz | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10094.png"
+    },
+    {
+        "id": "10095",
+        "name": "印花 | ewjerkz（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10095.png"
+    },
+    {
+        "id": "10096",
+        "name": "印花 | ewjerkz（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10096.png"
+    },
+    {
+        "id": "10097",
+        "name": "印花 | ewjerkz（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10097.png"
+    },
+    {
+        "id": "10098",
+        "name": "印花 | r1nkle | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10098.png"
+    },
+    {
+        "id": "10099",
+        "name": "印花 | r1nkle（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10099.png"
+    },
+    {
+        "id": "10100",
+        "name": "印花 | r1nkle（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10100.png"
+    },
+    {
+        "id": "10101",
+        "name": "印花 | r1nkle（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10101.png"
+    },
+    {
+        "id": "10102",
+        "name": "印花 | sjuush | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10102.png"
+    },
+    {
+        "id": "10103",
+        "name": "印花 | sjuush（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10103.png"
+    },
+    {
+        "id": "10104",
+        "name": "印花 | sjuush（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10104.png"
+    },
+    {
+        "id": "10105",
+        "name": "印花 | sjuush（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10105.png"
+    },
+    {
+        "id": "10106",
+        "name": "印花 | Snappi | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10106.png"
+    },
+    {
+        "id": "10107",
+        "name": "印花 | Snappi（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10107.png"
+    },
+    {
+        "id": "10108",
+        "name": "印花 | Snappi（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10108.png"
+    },
+    {
+        "id": "10109",
+        "name": "印花 | Snappi（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10109.png"
+    },
+    {
+        "id": "10110",
+        "name": "印花 | xKacpersky | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10110.png"
+    },
+    {
+        "id": "10111",
+        "name": "印花 | xKacpersky（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10111.png"
+    },
+    {
+        "id": "10112",
+        "name": "印花 | xKacpersky（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10112.png"
+    },
+    {
+        "id": "10113",
+        "name": "印花 | xKacpersky（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10113.png"
+    },
+    {
+        "id": "10114",
+        "name": "印花 | chelo | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10114.png"
+    },
+    {
+        "id": "10115",
+        "name": "印花 | chelo（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10115.png"
+    },
+    {
+        "id": "10116",
+        "name": "印花 | chelo（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10116.png"
+    },
+    {
+        "id": "10117",
+        "name": "印花 | chelo（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10117.png"
+    },
+    {
+        "id": "10118",
+        "name": "印花 | noway | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10118.png"
+    },
+    {
+        "id": "10119",
+        "name": "印花 | noway（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10119.png"
+    },
+    {
+        "id": "10120",
+        "name": "印花 | noway（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10120.png"
+    },
+    {
+        "id": "10121",
+        "name": "印花 | noway（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10121.png"
+    },
+    {
+        "id": "10122",
+        "name": "印花 | skullz | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10122.png"
+    },
+    {
+        "id": "10123",
+        "name": "印花 | skullz（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10123.png"
+    },
+    {
+        "id": "10124",
+        "name": "印花 | skullz（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10124.png"
+    },
+    {
+        "id": "10125",
+        "name": "印花 | skullz（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10125.png"
+    },
+    {
+        "id": "10126",
+        "name": "印花 | TRY | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10126.png"
+    },
+    {
+        "id": "10127",
+        "name": "印花 | TRY（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10127.png"
+    },
+    {
+        "id": "10128",
+        "name": "印花 | TRY（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10128.png"
+    },
+    {
+        "id": "10129",
+        "name": "印花 | TRY（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10129.png"
+    },
+    {
+        "id": "10130",
+        "name": "印花 | VINI | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10130.png"
+    },
+    {
+        "id": "10131",
+        "name": "印花 | VINI（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10131.png"
+    },
+    {
+        "id": "10132",
+        "name": "印花 | VINI（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10132.png"
+    },
+    {
+        "id": "10133",
+        "name": "印花 | VINI（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10133.png"
+    },
+    {
+        "id": "10134",
+        "name": "印花 | INS | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10134.png"
+    },
+    {
+        "id": "10135",
+        "name": "印花 | INS（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10135.png"
+    },
+    {
+        "id": "10136",
+        "name": "印花 | INS（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10136.png"
+    },
+    {
+        "id": "10137",
+        "name": "印花 | INS（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10137.png"
+    },
+    {
+        "id": "10138",
+        "name": "印花 | jks | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10138.png"
+    },
+    {
+        "id": "10139",
+        "name": "印花 | jks（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10139.png"
+    },
+    {
+        "id": "10140",
+        "name": "印花 | jks（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10140.png"
+    },
+    {
+        "id": "10141",
+        "name": "印花 | jks（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10141.png"
+    },
+    {
+        "id": "10142",
+        "name": "印花 | nettik | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10142.png"
+    },
+    {
+        "id": "10143",
+        "name": "印花 | nettik（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10143.png"
+    },
+    {
+        "id": "10144",
+        "name": "印花 | nettik（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10144.png"
+    },
+    {
+        "id": "10145",
+        "name": "印花 | nettik（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10145.png"
+    },
+    {
+        "id": "10146",
+        "name": "印花 | regali | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10146.png"
+    },
+    {
+        "id": "10147",
+        "name": "印花 | regali（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10147.png"
+    },
+    {
+        "id": "10148",
+        "name": "印花 | regali（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10148.png"
+    },
+    {
+        "id": "10149",
+        "name": "印花 | regali（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10149.png"
+    },
+    {
+        "id": "10150",
+        "name": "印花 | vexite | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10150.png"
+    },
+    {
+        "id": "10151",
+        "name": "印花 | vexite（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10151.png"
+    },
+    {
+        "id": "10152",
+        "name": "印花 | vexite（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10152.png"
+    },
+    {
+        "id": "10153",
+        "name": "印花 | vexite（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10153.png"
+    },
+    {
+        "id": "10154",
+        "name": "印花 | C4LLM3SU3 | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10154.png"
+    },
+    {
+        "id": "10155",
+        "name": "印花 | C4LLM3SU3（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10155.png"
+    },
+    {
+        "id": "10156",
+        "name": "印花 | C4LLM3SU3（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10156.png"
+    },
+    {
+        "id": "10157",
+        "name": "印花 | C4LLM3SU3（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10157.png"
+    },
+    {
+        "id": "10158",
+        "name": "印花 | EmiliaQAQ | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10158.png"
+    },
+    {
+        "id": "10159",
+        "name": "印花 | EmiliaQAQ（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10159.png"
+    },
+    {
+        "id": "10160",
+        "name": "印花 | EmiliaQAQ（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10160.png"
+    },
+    {
+        "id": "10161",
+        "name": "印花 | EmiliaQAQ（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10161.png"
+    },
+    {
+        "id": "10162",
+        "name": "印花 | Starry | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10162.png"
+    },
+    {
+        "id": "10163",
+        "name": "印花 | Starry（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10163.png"
+    },
+    {
+        "id": "10164",
+        "name": "印花 | Starry（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10164.png"
+    },
+    {
+        "id": "10165",
+        "name": "印花 | Starry（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10165.png"
+    },
+    {
+        "id": "10166",
+        "name": "印花 | westmelon | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10166.png"
+    },
+    {
+        "id": "10167",
+        "name": "印花 | westmelon（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10167.png"
+    },
+    {
+        "id": "10168",
+        "name": "印花 | westmelon（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10168.png"
+    },
+    {
+        "id": "10169",
+        "name": "印花 | westmelon（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10169.png"
+    },
+    {
+        "id": "10170",
+        "name": "印花 | z4KR | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10170.png"
+    },
+    {
+        "id": "10171",
+        "name": "印花 | z4KR（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10171.png"
+    },
+    {
+        "id": "10172",
+        "name": "印花 | z4KR（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10172.png"
+    },
+    {
+        "id": "10173",
+        "name": "印花 | z4KR（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10173.png"
+    },
+    {
+        "id": "10174",
+        "name": "印花 | HexT | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10174.png"
+    },
+    {
+        "id": "10175",
+        "name": "印花 | HexT（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10175.png"
+    },
+    {
+        "id": "10176",
+        "name": "印花 | HexT（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10176.png"
+    },
+    {
+        "id": "10177",
+        "name": "印花 | HexT（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10177.png"
+    },
+    {
+        "id": "10178",
+        "name": "印花 | Lake | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10178.png"
+    },
+    {
+        "id": "10179",
+        "name": "印花 | Lake（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10179.png"
+    },
+    {
+        "id": "10180",
+        "name": "印花 | Lake（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10180.png"
+    },
+    {
+        "id": "10181",
+        "name": "印花 | Lake（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10181.png"
+    },
+    {
+        "id": "10182",
+        "name": "印花 | s1n | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10182.png"
+    },
+    {
+        "id": "10183",
+        "name": "印花 | s1n（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10183.png"
+    },
+    {
+        "id": "10184",
+        "name": "印花 | s1n（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10184.png"
+    },
+    {
+        "id": "10185",
+        "name": "印花 | s1n（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10185.png"
+    },
+    {
+        "id": "10186",
+        "name": "印花 | slaxz- | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10186.png"
+    },
+    {
+        "id": "10187",
+        "name": "印花 | slaxz-（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10187.png"
+    },
+    {
+        "id": "10188",
+        "name": "印花 | slaxz-（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10188.png"
+    },
+    {
+        "id": "10189",
+        "name": "印花 | slaxz-（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10189.png"
+    },
+    {
+        "id": "10190",
+        "name": "印花 | Swisher | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10190.png"
+    },
+    {
+        "id": "10191",
+        "name": "印花 | Swisher（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10191.png"
+    },
+    {
+        "id": "10192",
+        "name": "印花 | Swisher（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10192.png"
+    },
+    {
+        "id": "10193",
+        "name": "印花 | Swisher（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10193.png"
+    },
+    {
+        "id": "10194",
+        "name": "印花 | arT | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10194.png"
+    },
+    {
+        "id": "10195",
+        "name": "印花 | arT（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10195.png"
+    },
+    {
+        "id": "10196",
+        "name": "印花 | arT（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10196.png"
+    },
+    {
+        "id": "10197",
+        "name": "印花 | arT（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10197.png"
+    },
+    {
+        "id": "10198",
+        "name": "印花 | decenty | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10198.png"
+    },
+    {
+        "id": "10199",
+        "name": "印花 | decenty（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10199.png"
+    },
+    {
+        "id": "10200",
+        "name": "印花 | decenty（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10200.png"
+    },
+    {
+        "id": "10201",
+        "name": "印花 | decenty（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10201.png"
+    },
+    {
+        "id": "10202",
+        "name": "印花 | kye | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10202.png"
+    },
+    {
+        "id": "10203",
+        "name": "印花 | kye（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10203.png"
+    },
+    {
+        "id": "10204",
+        "name": "印花 | kye（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10204.png"
+    },
+    {
+        "id": "10205",
+        "name": "印花 | kye（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10205.png"
+    },
+    {
+        "id": "10206",
+        "name": "印花 | Lucaozy | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10206.png"
+    },
+    {
+        "id": "10207",
+        "name": "印花 | Lucaozy（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10207.png"
+    },
+    {
+        "id": "10208",
+        "name": "印花 | Lucaozy（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10208.png"
+    },
+    {
+        "id": "10209",
+        "name": "印花 | Lucaozy（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10209.png"
+    },
+    {
+        "id": "10210",
+        "name": "印花 | zevy | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10210.png"
+    },
+    {
+        "id": "10211",
+        "name": "印花 | zevy（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10211.png"
+    },
+    {
+        "id": "10212",
+        "name": "印花 | zevy（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10212.png"
+    },
+    {
+        "id": "10213",
+        "name": "印花 | zevy（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10213.png"
+    },
+    {
+        "id": "10214",
+        "name": "印花 | chayJESUS | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10214.png"
+    },
+    {
+        "id": "10215",
+        "name": "印花 | chayJESUS（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10215.png"
+    },
+    {
+        "id": "10216",
+        "name": "印花 | chayJESUS（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10216.png"
+    },
+    {
+        "id": "10217",
+        "name": "印花 | chayJESUS（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10217.png"
+    },
+    {
+        "id": "10218",
+        "name": "印花 | drop | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10218.png"
+    },
+    {
+        "id": "10219",
+        "name": "印花 | drop（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10219.png"
+    },
+    {
+        "id": "10220",
+        "name": "印花 | drop（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10220.png"
+    },
+    {
+        "id": "10221",
+        "name": "印花 | drop（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10221.png"
+    },
+    {
+        "id": "10222",
+        "name": "印花 | History | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10222.png"
+    },
+    {
+        "id": "10223",
+        "name": "印花 | History（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10223.png"
+    },
+    {
+        "id": "10224",
+        "name": "印花 | History（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10224.png"
+    },
+    {
+        "id": "10225",
+        "name": "印花 | History（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10225.png"
+    },
+    {
+        "id": "10226",
+        "name": "印花 | kauez | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10226.png"
+    },
+    {
+        "id": "10227",
+        "name": "印花 | kauez（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10227.png"
+    },
+    {
+        "id": "10228",
+        "name": "印花 | kauez（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10228.png"
+    },
+    {
+        "id": "10229",
+        "name": "印花 | kauez（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10229.png"
+    },
+    {
+        "id": "10230",
+        "name": "印花 | venomzera | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10230.png"
+    },
+    {
+        "id": "10231",
+        "name": "印花 | venomzera（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10231.png"
+    },
+    {
+        "id": "10232",
+        "name": "印花 | venomzera（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10232.png"
+    },
+    {
+        "id": "10233",
+        "name": "印花 | venomzera（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10233.png"
+    },
+    {
+        "id": "10234",
+        "name": "印花 | Bart4k | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10234.png"
+    },
+    {
+        "id": "10235",
+        "name": "印花 | Bart4k（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10235.png"
+    },
+    {
+        "id": "10236",
+        "name": "印花 | Bart4k（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10236.png"
+    },
+    {
+        "id": "10237",
+        "name": "印花 | Bart4k（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10237.png"
+    },
+    {
+        "id": "10238",
+        "name": "印花 | cobra | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10238.png"
+    },
+    {
+        "id": "10239",
+        "name": "印花 | cobra（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10239.png"
+    },
+    {
+        "id": "10240",
+        "name": "印花 | cobra（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10240.png"
+    },
+    {
+        "id": "10241",
+        "name": "印花 | cobra（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10241.png"
+    },
+    {
+        "id": "10242",
+        "name": "印花 | nin9 | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10242.png"
+    },
+    {
+        "id": "10243",
+        "name": "印花 | nin9（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10243.png"
+    },
+    {
+        "id": "10244",
+        "name": "印花 | nin9（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10244.png"
+    },
+    {
+        "id": "10245",
+        "name": "印花 | nin9（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10245.png"
+    },
+    {
+        "id": "10246",
+        "name": "印花 | sk0R | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10246.png"
+    },
+    {
+        "id": "10247",
+        "name": "印花 | sk0R（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10247.png"
+    },
+    {
+        "id": "10248",
+        "name": "印花 | sk0R（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10248.png"
+    },
+    {
+        "id": "10249",
+        "name": "印花 | sk0R（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10249.png"
+    },
+    {
+        "id": "10250",
+        "name": "印花 | xerolte | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10250.png"
+    },
+    {
+        "id": "10251",
+        "name": "印花 | xerolte（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10251.png"
+    },
+    {
+        "id": "10252",
+        "name": "印花 | xerolte（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10252.png"
+    },
+    {
+        "id": "10253",
+        "name": "印花 | xerolte（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10253.png"
+    },
+    {
+        "id": "10254",
+        "name": "印花 | br0 | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10254.png"
+    },
+    {
+        "id": "10255",
+        "name": "印花 | br0（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10255.png"
+    },
+    {
+        "id": "10256",
+        "name": "印花 | br0（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10256.png"
+    },
+    {
+        "id": "10257",
+        "name": "印花 | br0（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10257.png"
+    },
+    {
+        "id": "10258",
+        "name": "印花 | jeorge | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10258.png"
+    },
+    {
+        "id": "10259",
+        "name": "印花 | jeorge（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10259.png"
+    },
+    {
+        "id": "10260",
+        "name": "印花 | jeorge（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10260.png"
+    },
+    {
+        "id": "10261",
+        "name": "印花 | jeorge（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10261.png"
+    },
+    {
+        "id": "10262",
+        "name": "印花 | nitr0 | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10262.png"
+    },
+    {
+        "id": "10263",
+        "name": "印花 | nitr0（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10263.png"
+    },
+    {
+        "id": "10264",
+        "name": "印花 | nitr0（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10264.png"
+    },
+    {
+        "id": "10265",
+        "name": "印花 | nitr0（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10265.png"
+    },
+    {
+        "id": "10266",
+        "name": "印花 | Sonic | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10266.png"
+    },
+    {
+        "id": "10267",
+        "name": "印花 | Sonic（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10267.png"
+    },
+    {
+        "id": "10268",
+        "name": "印花 | Sonic（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10268.png"
+    },
+    {
+        "id": "10269",
+        "name": "印花 | Sonic（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10269.png"
+    },
+    {
+        "id": "10270",
+        "name": "印花 | XotiC | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10270.png"
+    },
+    {
+        "id": "10271",
+        "name": "印花 | XotiC（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10271.png"
+    },
+    {
+        "id": "10272",
+        "name": "印花 | XotiC（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10272.png"
+    },
+    {
+        "id": "10273",
+        "name": "印花 | XotiC（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10273.png"
+    },
+    {
+        "id": "10274",
+        "name": "印花 | ChildKing | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10274.png"
+    },
+    {
+        "id": "10275",
+        "name": "印花 | ChildKing（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10275.png"
+    },
+    {
+        "id": "10276",
+        "name": "印花 | ChildKing（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10276.png"
+    },
+    {
+        "id": "10277",
+        "name": "印花 | ChildKing（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10277.png"
+    },
+    {
+        "id": "10278",
+        "name": "印花 | L1haNg | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10278.png"
+    },
+    {
+        "id": "10279",
+        "name": "印花 | L1haNg（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10279.png"
+    },
+    {
+        "id": "10280",
+        "name": "印花 | L1haNg（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10280.png"
+    },
+    {
+        "id": "10281",
+        "name": "印花 | L1haNg（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10281.png"
+    },
+    {
+        "id": "10282",
+        "name": "印花 | Marek | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10282.png"
+    },
+    {
+        "id": "10283",
+        "name": "印花 | Marek（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10283.png"
+    },
+    {
+        "id": "10284",
+        "name": "印花 | Marek（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10284.png"
+    },
+    {
+        "id": "10285",
+        "name": "印花 | Marek（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10285.png"
+    },
+    {
+        "id": "10286",
+        "name": "印花 | Summer | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10286.png"
+    },
+    {
+        "id": "10287",
+        "name": "印花 | Summer（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10287.png"
+    },
+    {
+        "id": "10288",
+        "name": "印花 | Summer（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10288.png"
+    },
+    {
+        "id": "10289",
+        "name": "印花 | Summer（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10289.png"
+    },
+    {
+        "id": "10290",
+        "name": "印花 | Tiger | 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10290.png"
+    },
+    {
+        "id": "10291",
+        "name": "印花 | Tiger（刺绣）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10291.png"
+    },
+    {
+        "id": "10292",
+        "name": "印花 | Tiger（全息）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10292.png"
+    },
+    {
+        "id": "10293",
+        "name": "印花 | Tiger（金色）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10293.png"
+    },
+    {
+        "id": "10294",
+        "name": "印花 | apEX（冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10294.png"
+    },
+    {
+        "id": "10295",
+        "name": "印花 | apEX（刺绣，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10295.png"
+    },
+    {
+        "id": "10296",
+        "name": "印花 | apEX（全息，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10296.png"
+    },
+    {
+        "id": "10297",
+        "name": "印花 | apEX（金色，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10297.png"
+    },
+    {
+        "id": "10298",
+        "name": "印花 | FlameZ（冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10298.png"
+    },
+    {
+        "id": "10299",
+        "name": "印花 | FlameZ（刺绣，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10299.png"
+    },
+    {
+        "id": "10300",
+        "name": "印花 | FlameZ（全息，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10300.png"
+    },
+    {
+        "id": "10301",
+        "name": "印花 | FlameZ（金色，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10301.png"
+    },
+    {
+        "id": "10302",
+        "name": "印花 | mezii（冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10302.png"
+    },
+    {
+        "id": "10303",
+        "name": "印花 | mezii（刺绣，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10303.png"
+    },
+    {
+        "id": "10304",
+        "name": "印花 | mezii（全息，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10304.png"
+    },
+    {
+        "id": "10305",
+        "name": "印花 | mezii（金色，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10305.png"
+    },
+    {
+        "id": "10306",
+        "name": "印花 | ropz（冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10306.png"
+    },
+    {
+        "id": "10307",
+        "name": "印花 | ropz（刺绣，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10307.png"
+    },
+    {
+        "id": "10308",
+        "name": "印花 | ropz（全息，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10308.png"
+    },
+    {
+        "id": "10309",
+        "name": "印花 | ropz（金色，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10309.png"
+    },
+    {
+        "id": "10310",
+        "name": "印花 | ZywOo（冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10310.png"
+    },
+    {
+        "id": "10311",
+        "name": "印花 | ZywOo（刺绣，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10311.png"
+    },
+    {
+        "id": "10312",
+        "name": "印花 | ZywOo（全息，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10312.png"
+    },
+    {
+        "id": "10313",
+        "name": "印花 | ZywOo（金色，冠军）| 2025年布达佩斯锦标赛",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10313.png"
     }
 ]

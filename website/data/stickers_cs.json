@@ -1105,29 +1105,9 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-231.png"
     },
     {
-        "id": "232",
-        "name": "Samolepka | 3DMAX | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-232.png"
-    },
-    {
         "id": "233",
         "name": "Samolepka | Copenhagen Wolves | DreamHack 2014",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-233.png"
-    },
-    {
-        "id": "234",
-        "name": "Samolepka | dAT team | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-234.png"
-    },
-    {
-        "id": "235",
-        "name": "Samolepka | London Conspiracy | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-235.png"
-    },
-    {
-        "id": "236",
-        "name": "Samolepka | mousesports | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-236.png"
     },
     {
         "id": "237",
@@ -4925,44 +4905,9 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-998.png"
     },
     {
-        "id": "999",
-        "name": "Samolepka | Awper (speciální)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-999.png"
-    },
-    {
-        "id": "1000",
-        "name": "Samolepka | Bomber (speciální)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1000.png"
-    },
-    {
-        "id": "1001",
-        "name": "Samolepka | Fragger (speciální)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1001.png"
-    },
-    {
-        "id": "1002",
-        "name": "Samolepka | Leader (speciální)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1002.png"
-    },
-    {
-        "id": "1003",
-        "name": "Samolepka | Nader (speciální)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1003.png"
-    },
-    {
-        "id": "1004",
-        "name": "Samolepka | Ninja (speciální)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1004.png"
-    },
-    {
         "id": "1005",
         "name": "Samolepka | Pro (speciální)",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1005.png"
-    },
-    {
-        "id": "1006",
-        "name": "Samolepka | Support (speciální)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1006.png"
     },
     {
         "id": "1007",
@@ -44248,5 +44193,4155 @@
         "id": "9450",
         "name": "Samolepka | ropz (šampion, zlatá) | BLAST.tv Austin 2025",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9450.png"
+    },
+    {
+        "id": "9451",
+        "name": "Samolepka | Candy Apples",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9451.png"
+    },
+    {
+        "id": "9452",
+        "name": "Samolepka | Cubix Connexion",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9452.png"
+    },
+    {
+        "id": "9453",
+        "name": "Samolepka | Eyes of Farlow",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9453.png"
+    },
+    {
+        "id": "9454",
+        "name": "Samolepka | Fade Mangos",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9454.png"
+    },
+    {
+        "id": "9455",
+        "name": "Samolepka | Gloves On",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9455.png"
+    },
+    {
+        "id": "9456",
+        "name": "Samolepka | Lock In",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9456.png"
+    },
+    {
+        "id": "9457",
+        "name": "Samolepka | Mimicapsule",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9457.png"
+    },
+    {
+        "id": "9458",
+        "name": "Samolepka | Pop Pup",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9458.png"
+    },
+    {
+        "id": "9459",
+        "name": "Samolepka | POTS",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9459.png"
+    },
+    {
+        "id": "9460",
+        "name": "Samolepka | Sent With Love",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9460.png"
+    },
+    {
+        "id": "9461",
+        "name": "Samolepka | Skelly Stabby",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9461.png"
+    },
+    {
+        "id": "9462",
+        "name": "Samolepka | Vice Cursor",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9462.png"
+    },
+    {
+        "id": "9463",
+        "name": "Samolepka | CT Tracks (třpytivá)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9463.png"
+    },
+    {
+        "id": "9464",
+        "name": "Samolepka | Overloaded (třpytivá)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9464.png"
+    },
+    {
+        "id": "9465",
+        "name": "Samolepka | T Tracks (třpytivá)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9465.png"
+    },
+    {
+        "id": "9466",
+        "name": "Samolepka | Bomb Planted (holografická)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9466.png"
+    },
+    {
+        "id": "9467",
+        "name": "Samolepka | Chrome Dome (holografická)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9467.png"
+    },
+    {
+        "id": "9468",
+        "name": "Samolepka | Cutie (holografická)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9468.png"
+    },
+    {
+        "id": "9469",
+        "name": "Samolepka | Evidence (holografická)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9469.png"
+    },
+    {
+        "id": "9470",
+        "name": "Samolepka | Froggles (holografická)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9470.png"
+    },
+    {
+        "id": "9471",
+        "name": "Samolepka | Ain't A Rental (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9471.png"
+    },
+    {
+        "id": "9472",
+        "name": "Samolepka | Eyes In The Sky (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9472.png"
+    },
+    {
+        "id": "9473",
+        "name": "Samolepka | Good As New (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9473.png"
+    },
+    {
+        "id": "9474",
+        "name": "Samolepka | Hands Off (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9474.png"
+    },
+    {
+        "id": "9475",
+        "name": "Samolepka | King Crasswater (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9475.png"
+    },
+    {
+        "id": "9476",
+        "name": "Samolepka | Queen Ava (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9476.png"
+    },
+    {
+        "id": "9477",
+        "name": "Samolepka | Digi-Strike (proměnlivá)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9477.png"
+    },
+    {
+        "id": "9478",
+        "name": "Samolepka | Neon MVP (proměnlivá)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9478.png"
+    },
+    {
+        "id": "9479",
+        "name": "Samolepka | BullHit (proměnlivá)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9479.png"
+    },
+    {
+        "id": "9480",
+        "name": "Samolepka | Clavis",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9480.png"
+    },
+    {
+        "id": "9481",
+        "name": "Samolepka | Lorena",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9481.png"
+    },
+    {
+        "id": "9482",
+        "name": "Samolepka | Lucas",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9482.png"
+    },
+    {
+        "id": "9483",
+        "name": "Samolepka | Clavis (holografická)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9483.png"
+    },
+    {
+        "id": "9484",
+        "name": "Samolepka | Lorena (holografická)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9484.png"
+    },
+    {
+        "id": "9485",
+        "name": "Samolepka | Lucas (holografická)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9485.png"
+    },
+    {
+        "id": "9486",
+        "name": "Samolepka | Clavis (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9486.png"
+    },
+    {
+        "id": "9487",
+        "name": "Samolepka | Lorena (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9487.png"
+    },
+    {
+        "id": "9488",
+        "name": "Samolepka | Lucas (speciální)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9488.png"
+    },
+    {
+        "id": "9489",
+        "name": "Samolepka | FURIA | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9489.png"
+    },
+    {
+        "id": "9490",
+        "name": "Samolepka | FURIA (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9490.png"
+    },
+    {
+        "id": "9491",
+        "name": "Samolepka | FURIA (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9491.png"
+    },
+    {
+        "id": "9492",
+        "name": "Samolepka | FURIA (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9492.png"
+    },
+    {
+        "id": "9493",
+        "name": "Samolepka | Vitality | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9493.png"
+    },
+    {
+        "id": "9494",
+        "name": "Samolepka | Vitality (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9494.png"
+    },
+    {
+        "id": "9495",
+        "name": "Samolepka | Vitality (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9495.png"
+    },
+    {
+        "id": "9496",
+        "name": "Samolepka | Vitality (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9496.png"
+    },
+    {
+        "id": "9497",
+        "name": "Samolepka | Falcons | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9497.png"
+    },
+    {
+        "id": "9498",
+        "name": "Samolepka | Falcons (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9498.png"
+    },
+    {
+        "id": "9499",
+        "name": "Samolepka | Falcons (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9499.png"
+    },
+    {
+        "id": "9500",
+        "name": "Samolepka | Falcons (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9500.png"
+    },
+    {
+        "id": "9501",
+        "name": "Samolepka | The Mongolz | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9501.png"
+    },
+    {
+        "id": "9502",
+        "name": "Samolepka | The Mongolz (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9502.png"
+    },
+    {
+        "id": "9503",
+        "name": "Samolepka | The Mongolz (holografická) | StarLadder StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9503.png"
+    },
+    {
+        "id": "9504",
+        "name": "Samolepka | The Mongolz (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9504.png"
+    },
+    {
+        "id": "9505",
+        "name": "Samolepka | MOUZ | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9505.png"
+    },
+    {
+        "id": "9506",
+        "name": "Samolepka | MOUZ (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9506.png"
+    },
+    {
+        "id": "9507",
+        "name": "Samolepka | MOUZ (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9507.png"
+    },
+    {
+        "id": "9508",
+        "name": "Samolepka | MOUZ (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9508.png"
+    },
+    {
+        "id": "9509",
+        "name": "Samolepka | Team Spirit | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9509.png"
+    },
+    {
+        "id": "9510",
+        "name": "Samolepka | Team Spirit (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9510.png"
+    },
+    {
+        "id": "9511",
+        "name": "Samolepka | Team Spirit (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9511.png"
+    },
+    {
+        "id": "9512",
+        "name": "Samolepka | Team Spirit (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9512.png"
+    },
+    {
+        "id": "9513",
+        "name": "Samolepka | G2 esports | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9513.png"
+    },
+    {
+        "id": "9514",
+        "name": "Samolepka | G2 esports (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9514.png"
+    },
+    {
+        "id": "9515",
+        "name": "Samolepka | G2 esports (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9515.png"
+    },
+    {
+        "id": "9516",
+        "name": "Samolepka | G2 esports (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9516.png"
+    },
+    {
+        "id": "9517",
+        "name": "Samolepka | paiN Gaming | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9517.png"
+    },
+    {
+        "id": "9518",
+        "name": "Samolepka | paiN Gaming (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9518.png"
+    },
+    {
+        "id": "9519",
+        "name": "Samolepka | paiN Gaming (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9519.png"
+    },
+    {
+        "id": "9520",
+        "name": "Samolepka | paiN Gaming (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9520.png"
+    },
+    {
+        "id": "9521",
+        "name": "Samolepka | Aurora | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9521.png"
+    },
+    {
+        "id": "9522",
+        "name": "Samolepka | Aurora (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9522.png"
+    },
+    {
+        "id": "9523",
+        "name": "Samolepka | Aurora (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9523.png"
+    },
+    {
+        "id": "9524",
+        "name": "Samolepka | Aurora (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9524.png"
+    },
+    {
+        "id": "9525",
+        "name": "Samolepka | Natus Vincere | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9525.png"
+    },
+    {
+        "id": "9526",
+        "name": "Samolepka | Natus Vincere (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9526.png"
+    },
+    {
+        "id": "9527",
+        "name": "Samolepka | Natus Vincere (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9527.png"
+    },
+    {
+        "id": "9528",
+        "name": "Samolepka | Natus Vincere (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9528.png"
+    },
+    {
+        "id": "9529",
+        "name": "Samolepka | Team Liquid | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9529.png"
+    },
+    {
+        "id": "9530",
+        "name": "Samolepka | Team Liquid (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9530.png"
+    },
+    {
+        "id": "9531",
+        "name": "Samolepka | Team Liquid (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9531.png"
+    },
+    {
+        "id": "9532",
+        "name": "Samolepka | Team Liquid (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9532.png"
+    },
+    {
+        "id": "9533",
+        "name": "Samolepka | 3DMAX | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9533.png"
+    },
+    {
+        "id": "9534",
+        "name": "Samolepka | 3DMAX (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9534.png"
+    },
+    {
+        "id": "9535",
+        "name": "Samolepka | 3DMAX (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9535.png"
+    },
+    {
+        "id": "9536",
+        "name": "Samolepka | 3DMAX (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9536.png"
+    },
+    {
+        "id": "9537",
+        "name": "Samolepka | Astralis | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9537.png"
+    },
+    {
+        "id": "9538",
+        "name": "Samolepka | Astralis (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9538.png"
+    },
+    {
+        "id": "9539",
+        "name": "Samolepka | Astralis (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9539.png"
+    },
+    {
+        "id": "9540",
+        "name": "Samolepka | Astralis (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9540.png"
+    },
+    {
+        "id": "9541",
+        "name": "Samolepka | TYLOO | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9541.png"
+    },
+    {
+        "id": "9542",
+        "name": "Samolepka | TYLOO (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9542.png"
+    },
+    {
+        "id": "9543",
+        "name": "Samolepka | TYLOO (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9543.png"
+    },
+    {
+        "id": "9544",
+        "name": "Samolepka | TYLOO (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9544.png"
+    },
+    {
+        "id": "9545",
+        "name": "Samolepka | MIBR | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9545.png"
+    },
+    {
+        "id": "9546",
+        "name": "Samolepka | MIBR (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9546.png"
+    },
+    {
+        "id": "9547",
+        "name": "Samolepka | MIBR (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9547.png"
+    },
+    {
+        "id": "9548",
+        "name": "Samolepka | MIBR (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9548.png"
+    },
+    {
+        "id": "9549",
+        "name": "Samolepka | Passion UA | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9549.png"
+    },
+    {
+        "id": "9550",
+        "name": "Samolepka | Passion UA (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9550.png"
+    },
+    {
+        "id": "9551",
+        "name": "Samolepka | Passion UA (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9551.png"
+    },
+    {
+        "id": "9552",
+        "name": "Samolepka | Passion UA (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9552.png"
+    },
+    {
+        "id": "9553",
+        "name": "Samolepka | Legacy | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9553.png"
+    },
+    {
+        "id": "9554",
+        "name": "Samolepka | Legacy (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9554.png"
+    },
+    {
+        "id": "9555",
+        "name": "Samolepka | Legacy (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9555.png"
+    },
+    {
+        "id": "9556",
+        "name": "Samolepka | Legacy (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9556.png"
+    },
+    {
+        "id": "9557",
+        "name": "Samolepka | FaZe Clan | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9557.png"
+    },
+    {
+        "id": "9558",
+        "name": "Samolepka | FaZe Clan (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9558.png"
+    },
+    {
+        "id": "9559",
+        "name": "Samolepka | FaZe Clan (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9559.png"
+    },
+    {
+        "id": "9560",
+        "name": "Samolepka | FaZe Clan (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9560.png"
+    },
+    {
+        "id": "9561",
+        "name": "Samolepka | B8 | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9561.png"
+    },
+    {
+        "id": "9562",
+        "name": "Samolepka | B8 (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9562.png"
+    },
+    {
+        "id": "9563",
+        "name": "Samolepka | B8 (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9563.png"
+    },
+    {
+        "id": "9564",
+        "name": "Samolepka | B8 (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9564.png"
+    },
+    {
+        "id": "9565",
+        "name": "Samolepka | GamerLegion | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9565.png"
+    },
+    {
+        "id": "9566",
+        "name": "Samolepka | GamerLegion (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9566.png"
+    },
+    {
+        "id": "9567",
+        "name": "Samolepka | GamerLegion (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9567.png"
+    },
+    {
+        "id": "9568",
+        "name": "Samolepka | GamerLegion (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9568.png"
+    },
+    {
+        "id": "9569",
+        "name": "Samolepka | fnatic | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9569.png"
+    },
+    {
+        "id": "9570",
+        "name": "Samolepka | fnatic (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9570.png"
+    },
+    {
+        "id": "9571",
+        "name": "Samolepka | fnatic (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9571.png"
+    },
+    {
+        "id": "9572",
+        "name": "Samolepka | fnatic (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9572.png"
+    },
+    {
+        "id": "9573",
+        "name": "Samolepka | PARIVISION | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9573.png"
+    },
+    {
+        "id": "9574",
+        "name": "Samolepka | PARIVISION (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9574.png"
+    },
+    {
+        "id": "9575",
+        "name": "Samolepka | PARIVISION (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9575.png"
+    },
+    {
+        "id": "9576",
+        "name": "Samolepka | PARIVISION (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9576.png"
+    },
+    {
+        "id": "9577",
+        "name": "Samolepka | Ninjas in Pyjamas | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9577.png"
+    },
+    {
+        "id": "9578",
+        "name": "Samolepka | Ninjas in Pyjamas (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9578.png"
+    },
+    {
+        "id": "9579",
+        "name": "Samolepka | Ninjas in Pyjamas (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9579.png"
+    },
+    {
+        "id": "9580",
+        "name": "Samolepka | Ninjas in Pyjamas (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9580.png"
+    },
+    {
+        "id": "9581",
+        "name": "Samolepka | Imperial Esports | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9581.png"
+    },
+    {
+        "id": "9582",
+        "name": "Samolepka | Imperial Esports (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9582.png"
+    },
+    {
+        "id": "9583",
+        "name": "Samolepka | Imperial Esports (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9583.png"
+    },
+    {
+        "id": "9584",
+        "name": "Samolepka | Imperial Esports (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9584.png"
+    },
+    {
+        "id": "9585",
+        "name": "Samolepka | FlyQuest | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9585.png"
+    },
+    {
+        "id": "9586",
+        "name": "Samolepka | FlyQuest (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9586.png"
+    },
+    {
+        "id": "9587",
+        "name": "Samolepka | FlyQuest (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9587.png"
+    },
+    {
+        "id": "9588",
+        "name": "Samolepka | FlyQuest (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9588.png"
+    },
+    {
+        "id": "9589",
+        "name": "Samolepka | Lynn Vision | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9589.png"
+    },
+    {
+        "id": "9590",
+        "name": "Samolepka | Lynn Vision (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9590.png"
+    },
+    {
+        "id": "9591",
+        "name": "Samolepka | Lynn Vision (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9591.png"
+    },
+    {
+        "id": "9592",
+        "name": "Samolepka | Lynn Vision (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9592.png"
+    },
+    {
+        "id": "9593",
+        "name": "Samolepka | M80 | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9593.png"
+    },
+    {
+        "id": "9594",
+        "name": "Samolepka | M80 (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9594.png"
+    },
+    {
+        "id": "9595",
+        "name": "Samolepka | M80 (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9595.png"
+    },
+    {
+        "id": "9596",
+        "name": "Samolepka | M80 (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9596.png"
+    },
+    {
+        "id": "9597",
+        "name": "Samolepka | Fluxo | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9597.png"
+    },
+    {
+        "id": "9598",
+        "name": "Samolepka | Fluxo (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9598.png"
+    },
+    {
+        "id": "9599",
+        "name": "Samolepka | Fluxo (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9599.png"
+    },
+    {
+        "id": "9600",
+        "name": "Samolepka | Fluxo (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9600.png"
+    },
+    {
+        "id": "9601",
+        "name": "Samolepka | RED Canids | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9601.png"
+    },
+    {
+        "id": "9602",
+        "name": "Samolepka | RED Canids (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9602.png"
+    },
+    {
+        "id": "9603",
+        "name": "Samolepka | RED Canids (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9603.png"
+    },
+    {
+        "id": "9604",
+        "name": "Samolepka | RED Canids (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9604.png"
+    },
+    {
+        "id": "9605",
+        "name": "Samolepka | The Huns | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9605.png"
+    },
+    {
+        "id": "9606",
+        "name": "Samolepka | The Huns (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9606.png"
+    },
+    {
+        "id": "9607",
+        "name": "Samolepka | The Huns (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9607.png"
+    },
+    {
+        "id": "9608",
+        "name": "Samolepka | The Huns (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9608.png"
+    },
+    {
+        "id": "9609",
+        "name": "Samolepka | NRG | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9609.png"
+    },
+    {
+        "id": "9610",
+        "name": "Samolepka | NRG (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9610.png"
+    },
+    {
+        "id": "9611",
+        "name": "Samolepka | NRG (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9611.png"
+    },
+    {
+        "id": "9612",
+        "name": "Samolepka | NRG (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9612.png"
+    },
+    {
+        "id": "9613",
+        "name": "Samolepka | Rare Atom | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9613.png"
+    },
+    {
+        "id": "9614",
+        "name": "Samolepka | Rare Atom (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9614.png"
+    },
+    {
+        "id": "9615",
+        "name": "Samolepka | Rare Atom (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9615.png"
+    },
+    {
+        "id": "9616",
+        "name": "Samolepka | Rare Atom (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9616.png"
+    },
+    {
+        "id": "9617",
+        "name": "Samolepka | StarLadder | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9617.png"
+    },
+    {
+        "id": "9618",
+        "name": "Samolepka | StarLadder (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9618.png"
+    },
+    {
+        "id": "9619",
+        "name": "Samolepka | StarLadder (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9619.png"
+    },
+    {
+        "id": "9620",
+        "name": "Samolepka | StarLadder (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9620.png"
+    },
+    {
+        "id": "9654",
+        "name": "Samolepka | FalleN | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9654.png"
+    },
+    {
+        "id": "9655",
+        "name": "Samolepka | FalleN (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9655.png"
+    },
+    {
+        "id": "9656",
+        "name": "Samolepka | FalleN (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9656.png"
+    },
+    {
+        "id": "9657",
+        "name": "Samolepka | FalleN (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9657.png"
+    },
+    {
+        "id": "9658",
+        "name": "Samolepka | KSCERATO | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9658.png"
+    },
+    {
+        "id": "9659",
+        "name": "Samolepka | KSCERATO (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9659.png"
+    },
+    {
+        "id": "9660",
+        "name": "Samolepka | KSCERATO (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9660.png"
+    },
+    {
+        "id": "9661",
+        "name": "Samolepka | KSCERATO (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9661.png"
+    },
+    {
+        "id": "9662",
+        "name": "Samolepka | molodoy | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9662.png"
+    },
+    {
+        "id": "9663",
+        "name": "Samolepka | molodoy (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9663.png"
+    },
+    {
+        "id": "9664",
+        "name": "Samolepka | molodoy (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9664.png"
+    },
+    {
+        "id": "9665",
+        "name": "Samolepka | molodoy (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9665.png"
+    },
+    {
+        "id": "9666",
+        "name": "Samolepka | YEKINDAR | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9666.png"
+    },
+    {
+        "id": "9667",
+        "name": "Samolepka | YEKINDAR (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9667.png"
+    },
+    {
+        "id": "9668",
+        "name": "Samolepka | YEKINDAR (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9668.png"
+    },
+    {
+        "id": "9669",
+        "name": "Samolepka | YEKINDAR (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9669.png"
+    },
+    {
+        "id": "9670",
+        "name": "Samolepka | yuurih | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9670.png"
+    },
+    {
+        "id": "9671",
+        "name": "Samolepka | yuurih (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9671.png"
+    },
+    {
+        "id": "9672",
+        "name": "Samolepka | yuurih (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9672.png"
+    },
+    {
+        "id": "9673",
+        "name": "Samolepka | yuurih (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9673.png"
+    },
+    {
+        "id": "9674",
+        "name": "Samolepka | apEX | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9674.png"
+    },
+    {
+        "id": "9675",
+        "name": "Samolepka | apEX (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9675.png"
+    },
+    {
+        "id": "9676",
+        "name": "Samolepka | apEX (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9676.png"
+    },
+    {
+        "id": "9677",
+        "name": "Samolepka | apEX (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9677.png"
+    },
+    {
+        "id": "9678",
+        "name": "Samolepka | FlameZ | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9678.png"
+    },
+    {
+        "id": "9679",
+        "name": "Samolepka | FlameZ (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9679.png"
+    },
+    {
+        "id": "9680",
+        "name": "Samolepka | FlameZ (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9680.png"
+    },
+    {
+        "id": "9681",
+        "name": "Samolepka | FlameZ (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9681.png"
+    },
+    {
+        "id": "9682",
+        "name": "Samolepka | mezii | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9682.png"
+    },
+    {
+        "id": "9683",
+        "name": "Samolepka | mezii (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9683.png"
+    },
+    {
+        "id": "9684",
+        "name": "Samolepka | mezii (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9684.png"
+    },
+    {
+        "id": "9685",
+        "name": "Samolepka | mezii (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9685.png"
+    },
+    {
+        "id": "9686",
+        "name": "Samolepka | ropz | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9686.png"
+    },
+    {
+        "id": "9687",
+        "name": "Samolepka | ropz (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9687.png"
+    },
+    {
+        "id": "9688",
+        "name": "Samolepka | ropz (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9688.png"
+    },
+    {
+        "id": "9689",
+        "name": "Samolepka | ropz (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9689.png"
+    },
+    {
+        "id": "9690",
+        "name": "Samolepka | ZywOo | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9690.png"
+    },
+    {
+        "id": "9691",
+        "name": "Samolepka | ZywOo (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9691.png"
+    },
+    {
+        "id": "9692",
+        "name": "Samolepka | ZywOo (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9692.png"
+    },
+    {
+        "id": "9693",
+        "name": "Samolepka | ZywOo (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9693.png"
+    },
+    {
+        "id": "9694",
+        "name": "Samolepka | kyousuke | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9694.png"
+    },
+    {
+        "id": "9695",
+        "name": "Samolepka | kyousuke (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9695.png"
+    },
+    {
+        "id": "9696",
+        "name": "Samolepka | kyousuke (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9696.png"
+    },
+    {
+        "id": "9697",
+        "name": "Samolepka | kyousuke (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9697.png"
+    },
+    {
+        "id": "9698",
+        "name": "Samolepka | kyxsan | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9698.png"
+    },
+    {
+        "id": "9699",
+        "name": "Samolepka | kyxsan (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9699.png"
+    },
+    {
+        "id": "9700",
+        "name": "Samolepka | kyxsan (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9700.png"
+    },
+    {
+        "id": "9701",
+        "name": "Samolepka | kyxsan (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9701.png"
+    },
+    {
+        "id": "9702",
+        "name": "Samolepka | m0NESY | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9702.png"
+    },
+    {
+        "id": "9703",
+        "name": "Samolepka | m0NESY (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9703.png"
+    },
+    {
+        "id": "9704",
+        "name": "Samolepka | m0NESY (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9704.png"
+    },
+    {
+        "id": "9705",
+        "name": "Samolepka | m0NESY (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9705.png"
+    },
+    {
+        "id": "9706",
+        "name": "Samolepka | NiKo | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9706.png"
+    },
+    {
+        "id": "9707",
+        "name": "Samolepka | NiKo (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9707.png"
+    },
+    {
+        "id": "9708",
+        "name": "Samolepka | NiKo (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9708.png"
+    },
+    {
+        "id": "9709",
+        "name": "Samolepka | NiKo (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9709.png"
+    },
+    {
+        "id": "9710",
+        "name": "Samolepka | TeSeS | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9710.png"
+    },
+    {
+        "id": "9711",
+        "name": "Samolepka | TeSeS (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9711.png"
+    },
+    {
+        "id": "9712",
+        "name": "Samolepka | TeSeS (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9712.png"
+    },
+    {
+        "id": "9713",
+        "name": "Samolepka | TeSeS (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9713.png"
+    },
+    {
+        "id": "9714",
+        "name": "Samolepka | 910 | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9714.png"
+    },
+    {
+        "id": "9715",
+        "name": "Samolepka | 910 (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9715.png"
+    },
+    {
+        "id": "9716",
+        "name": "Samolepka | 910 (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9716.png"
+    },
+    {
+        "id": "9717",
+        "name": "Samolepka | 910 (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9717.png"
+    },
+    {
+        "id": "9718",
+        "name": "Samolepka | bLitz | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9718.png"
+    },
+    {
+        "id": "9719",
+        "name": "Samolepka | bLitz (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9719.png"
+    },
+    {
+        "id": "9720",
+        "name": "Samolepka | bLitz (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9720.png"
+    },
+    {
+        "id": "9721",
+        "name": "Samolepka | bLitz (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9721.png"
+    },
+    {
+        "id": "9722",
+        "name": "Samolepka | mzinho | StarLadder StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9722.png"
+    },
+    {
+        "id": "9723",
+        "name": "Samolepka | mzinho (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9723.png"
+    },
+    {
+        "id": "9724",
+        "name": "Samolepka | mzinho (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9724.png"
+    },
+    {
+        "id": "9725",
+        "name": "Samolepka | mzinho (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9725.png"
+    },
+    {
+        "id": "9726",
+        "name": "Samolepka | Senzu | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9726.png"
+    },
+    {
+        "id": "9727",
+        "name": "Samolepka | Senzu (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9727.png"
+    },
+    {
+        "id": "9728",
+        "name": "Samolepka | Senzu (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9728.png"
+    },
+    {
+        "id": "9729",
+        "name": "Samolepka | Senzu (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9729.png"
+    },
+    {
+        "id": "9730",
+        "name": "Samolepka | Techno4K | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9730.png"
+    },
+    {
+        "id": "9731",
+        "name": "Samolepka | Techno4K (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9731.png"
+    },
+    {
+        "id": "9732",
+        "name": "Samolepka | Techno4K (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9732.png"
+    },
+    {
+        "id": "9733",
+        "name": "Samolepka | Techno4K (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9733.png"
+    },
+    {
+        "id": "9734",
+        "name": "Samolepka | Brollan | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9734.png"
+    },
+    {
+        "id": "9735",
+        "name": "Samolepka | Brollan (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9735.png"
+    },
+    {
+        "id": "9736",
+        "name": "Samolepka | Brollan (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9736.png"
+    },
+    {
+        "id": "9737",
+        "name": "Samolepka | Brollan (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9737.png"
+    },
+    {
+        "id": "9738",
+        "name": "Samolepka | Jimpphat | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9738.png"
+    },
+    {
+        "id": "9739",
+        "name": "Samolepka | Jimpphat (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9739.png"
+    },
+    {
+        "id": "9740",
+        "name": "Samolepka | Jimpphat (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9740.png"
+    },
+    {
+        "id": "9741",
+        "name": "Samolepka | Jimpphat (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9741.png"
+    },
+    {
+        "id": "9742",
+        "name": "Samolepka | Spinx | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9742.png"
+    },
+    {
+        "id": "9743",
+        "name": "Samolepka | Spinx (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9743.png"
+    },
+    {
+        "id": "9744",
+        "name": "Samolepka | Spinx (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9744.png"
+    },
+    {
+        "id": "9745",
+        "name": "Samolepka | Spinx (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9745.png"
+    },
+    {
+        "id": "9746",
+        "name": "Samolepka | torzsi | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9746.png"
+    },
+    {
+        "id": "9747",
+        "name": "Samolepka | torzsi (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9747.png"
+    },
+    {
+        "id": "9748",
+        "name": "Samolepka | torzsi (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9748.png"
+    },
+    {
+        "id": "9749",
+        "name": "Samolepka | torzsi (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9749.png"
+    },
+    {
+        "id": "9750",
+        "name": "Samolepka | xertioN | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9750.png"
+    },
+    {
+        "id": "9751",
+        "name": "Samolepka | xertioN (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9751.png"
+    },
+    {
+        "id": "9752",
+        "name": "Samolepka | xertioN (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9752.png"
+    },
+    {
+        "id": "9753",
+        "name": "Samolepka | xertioN (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9753.png"
+    },
+    {
+        "id": "9754",
+        "name": "Samolepka | chopper | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9754.png"
+    },
+    {
+        "id": "9755",
+        "name": "Samolepka | chopper (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9755.png"
+    },
+    {
+        "id": "9756",
+        "name": "Samolepka | chopper (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9756.png"
+    },
+    {
+        "id": "9757",
+        "name": "Samolepka | chopper (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9757.png"
+    },
+    {
+        "id": "9758",
+        "name": "Samolepka | donk | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9758.png"
+    },
+    {
+        "id": "9759",
+        "name": "Samolepka | donk (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9759.png"
+    },
+    {
+        "id": "9760",
+        "name": "Samolepka | donk (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9760.png"
+    },
+    {
+        "id": "9761",
+        "name": "Samolepka | donk (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9761.png"
+    },
+    {
+        "id": "9762",
+        "name": "Samolepka | sh1ro | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9762.png"
+    },
+    {
+        "id": "9763",
+        "name": "Samolepka | sh1ro (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9763.png"
+    },
+    {
+        "id": "9764",
+        "name": "Samolepka | sh1ro (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9764.png"
+    },
+    {
+        "id": "9765",
+        "name": "Samolepka | sh1ro (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9765.png"
+    },
+    {
+        "id": "9766",
+        "name": "Samolepka | zont1x | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9766.png"
+    },
+    {
+        "id": "9767",
+        "name": "Samolepka | zont1x (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9767.png"
+    },
+    {
+        "id": "9768",
+        "name": "Samolepka | zont1x (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9768.png"
+    },
+    {
+        "id": "9769",
+        "name": "Samolepka | zont1x (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9769.png"
+    },
+    {
+        "id": "9770",
+        "name": "Samolepka | zweih | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9770.png"
+    },
+    {
+        "id": "9771",
+        "name": "Samolepka | zweih (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9771.png"
+    },
+    {
+        "id": "9772",
+        "name": "Samolepka | zweih (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9772.png"
+    },
+    {
+        "id": "9773",
+        "name": "Samolepka | zweih (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9773.png"
+    },
+    {
+        "id": "9774",
+        "name": "Samolepka | Heavygod | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9774.png"
+    },
+    {
+        "id": "9775",
+        "name": "Samolepka | Heavygod (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9775.png"
+    },
+    {
+        "id": "9776",
+        "name": "Samolepka | Heavygod (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9776.png"
+    },
+    {
+        "id": "9777",
+        "name": "Samolepka | Heavygod (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9777.png"
+    },
+    {
+        "id": "9778",
+        "name": "Samolepka | huNter- | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9778.png"
+    },
+    {
+        "id": "9779",
+        "name": "Samolepka | huNter- (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9779.png"
+    },
+    {
+        "id": "9780",
+        "name": "Samolepka | huNter- (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9780.png"
+    },
+    {
+        "id": "9781",
+        "name": "Samolepka | huNter- (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9781.png"
+    },
+    {
+        "id": "9782",
+        "name": "Samolepka | malbsMd | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9782.png"
+    },
+    {
+        "id": "9783",
+        "name": "Samolepka | malbsMd (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9783.png"
+    },
+    {
+        "id": "9784",
+        "name": "Samolepka | malbsMd (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9784.png"
+    },
+    {
+        "id": "9785",
+        "name": "Samolepka | malbsMd (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9785.png"
+    },
+    {
+        "id": "9786",
+        "name": "Samolepka | MATYS | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9786.png"
+    },
+    {
+        "id": "9787",
+        "name": "Samolepka | MATYS (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9787.png"
+    },
+    {
+        "id": "9788",
+        "name": "Samolepka | MATYS (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9788.png"
+    },
+    {
+        "id": "9789",
+        "name": "Samolepka | MATYS (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9789.png"
+    },
+    {
+        "id": "9790",
+        "name": "Samolepka | SunPayus | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9790.png"
+    },
+    {
+        "id": "9791",
+        "name": "Samolepka | SunPayus (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9791.png"
+    },
+    {
+        "id": "9792",
+        "name": "Samolepka | SunPayus (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9792.png"
+    },
+    {
+        "id": "9793",
+        "name": "Samolepka | SunPayus (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9793.png"
+    },
+    {
+        "id": "9794",
+        "name": "Samolepka | biguzera | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9794.png"
+    },
+    {
+        "id": "9795",
+        "name": "Samolepka | biguzera (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9795.png"
+    },
+    {
+        "id": "9796",
+        "name": "Samolepka | biguzera (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9796.png"
+    },
+    {
+        "id": "9797",
+        "name": "Samolepka | biguzera (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9797.png"
+    },
+    {
+        "id": "9798",
+        "name": "Samolepka | dav1deuS | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9798.png"
+    },
+    {
+        "id": "9799",
+        "name": "Samolepka | dav1deuS (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9799.png"
+    },
+    {
+        "id": "9800",
+        "name": "Samolepka | dav1deuS (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9800.png"
+    },
+    {
+        "id": "9801",
+        "name": "Samolepka | dav1deuS (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9801.png"
+    },
+    {
+        "id": "9802",
+        "name": "Samolepka | dgt | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9802.png"
+    },
+    {
+        "id": "9803",
+        "name": "Samolepka | dgt (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9803.png"
+    },
+    {
+        "id": "9804",
+        "name": "Samolepka | dgt (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9804.png"
+    },
+    {
+        "id": "9805",
+        "name": "Samolepka | dgt (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9805.png"
+    },
+    {
+        "id": "9806",
+        "name": "Samolepka | NQZ | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9806.png"
+    },
+    {
+        "id": "9807",
+        "name": "Samolepka | NQZ (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9807.png"
+    },
+    {
+        "id": "9808",
+        "name": "Samolepka | NQZ (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9808.png"
+    },
+    {
+        "id": "9809",
+        "name": "Samolepka | NQZ (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9809.png"
+    },
+    {
+        "id": "9810",
+        "name": "Samolepka | snow | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9810.png"
+    },
+    {
+        "id": "9811",
+        "name": "Samolepka | snow (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9811.png"
+    },
+    {
+        "id": "9812",
+        "name": "Samolepka | snow (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9812.png"
+    },
+    {
+        "id": "9813",
+        "name": "Samolepka | snow (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9813.png"
+    },
+    {
+        "id": "9814",
+        "name": "Samolepka | jottAAA | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9814.png"
+    },
+    {
+        "id": "9815",
+        "name": "Samolepka | jottAAA (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9815.png"
+    },
+    {
+        "id": "9816",
+        "name": "Samolepka | jottAAA (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9816.png"
+    },
+    {
+        "id": "9817",
+        "name": "Samolepka | jottAAA (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9817.png"
+    },
+    {
+        "id": "9818",
+        "name": "Samolepka | MAJ3R | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9818.png"
+    },
+    {
+        "id": "9819",
+        "name": "Samolepka | MAJ3R (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9819.png"
+    },
+    {
+        "id": "9820",
+        "name": "Samolepka | MAJ3R (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9820.png"
+    },
+    {
+        "id": "9821",
+        "name": "Samolepka | MAJ3R (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9821.png"
+    },
+    {
+        "id": "9822",
+        "name": "Samolepka | Wicadia | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9822.png"
+    },
+    {
+        "id": "9823",
+        "name": "Samolepka | Wicadia (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9823.png"
+    },
+    {
+        "id": "9824",
+        "name": "Samolepka | Wicadia (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9824.png"
+    },
+    {
+        "id": "9825",
+        "name": "Samolepka | Wicadia (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9825.png"
+    },
+    {
+        "id": "9826",
+        "name": "Samolepka | woxic | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9826.png"
+    },
+    {
+        "id": "9827",
+        "name": "Samolepka | woxic (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9827.png"
+    },
+    {
+        "id": "9828",
+        "name": "Samolepka | woxic (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9828.png"
+    },
+    {
+        "id": "9829",
+        "name": "Samolepka | woxic (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9829.png"
+    },
+    {
+        "id": "9830",
+        "name": "Samolepka | XANTARES | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9830.png"
+    },
+    {
+        "id": "9831",
+        "name": "Samolepka | XANTARES (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9831.png"
+    },
+    {
+        "id": "9832",
+        "name": "Samolepka | XANTARES (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9832.png"
+    },
+    {
+        "id": "9833",
+        "name": "Samolepka | XANTARES (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9833.png"
+    },
+    {
+        "id": "9834",
+        "name": "Samolepka | Aleksib | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9834.png"
+    },
+    {
+        "id": "9835",
+        "name": "Samolepka | Aleksib (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9835.png"
+    },
+    {
+        "id": "9836",
+        "name": "Samolepka | Aleksib (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9836.png"
+    },
+    {
+        "id": "9837",
+        "name": "Samolepka | Aleksib (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9837.png"
+    },
+    {
+        "id": "9838",
+        "name": "Samolepka | b1t | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9838.png"
+    },
+    {
+        "id": "9839",
+        "name": "Samolepka | b1t (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9839.png"
+    },
+    {
+        "id": "9840",
+        "name": "Samolepka | b1t (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9840.png"
+    },
+    {
+        "id": "9841",
+        "name": "Samolepka | b1t (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9841.png"
+    },
+    {
+        "id": "9842",
+        "name": "Samolepka | iM | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9842.png"
+    },
+    {
+        "id": "9843",
+        "name": "Samolepka | iM (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9843.png"
+    },
+    {
+        "id": "9844",
+        "name": "Samolepka | iM (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9844.png"
+    },
+    {
+        "id": "9845",
+        "name": "Samolepka | iM (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9845.png"
+    },
+    {
+        "id": "9846",
+        "name": "Samolepka | makazze | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9846.png"
+    },
+    {
+        "id": "9847",
+        "name": "Samolepka | makazze (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9847.png"
+    },
+    {
+        "id": "9848",
+        "name": "Samolepka | makazze (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9848.png"
+    },
+    {
+        "id": "9849",
+        "name": "Samolepka | makazze (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9849.png"
+    },
+    {
+        "id": "9850",
+        "name": "Samolepka | w0nderful | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9850.png"
+    },
+    {
+        "id": "9851",
+        "name": "Samolepka | w0nderful (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9851.png"
+    },
+    {
+        "id": "9852",
+        "name": "Samolepka | w0nderful (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9852.png"
+    },
+    {
+        "id": "9853",
+        "name": "Samolepka | w0nderful (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9853.png"
+    },
+    {
+        "id": "9854",
+        "name": "Samolepka | EliGE | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9854.png"
+    },
+    {
+        "id": "9855",
+        "name": "Samolepka | EliGE (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9855.png"
+    },
+    {
+        "id": "9856",
+        "name": "Samolepka | EliGE (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9856.png"
+    },
+    {
+        "id": "9857",
+        "name": "Samolepka | EliGE (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9857.png"
+    },
+    {
+        "id": "9858",
+        "name": "Samolepka | NAF | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9858.png"
+    },
+    {
+        "id": "9859",
+        "name": "Samolepka | NAF (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9859.png"
+    },
+    {
+        "id": "9860",
+        "name": "Samolepka | NAF (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9860.png"
+    },
+    {
+        "id": "9861",
+        "name": "Samolepka | NAF (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9861.png"
+    },
+    {
+        "id": "9862",
+        "name": "Samolepka | NertZ | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9862.png"
+    },
+    {
+        "id": "9863",
+        "name": "Samolepka | NertZ (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9863.png"
+    },
+    {
+        "id": "9864",
+        "name": "Samolepka | NertZ (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9864.png"
+    },
+    {
+        "id": "9865",
+        "name": "Samolepka | NertZ (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9865.png"
+    },
+    {
+        "id": "9866",
+        "name": "Samolepka | siuhy | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9866.png"
+    },
+    {
+        "id": "9867",
+        "name": "Samolepka | siuhy (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9867.png"
+    },
+    {
+        "id": "9868",
+        "name": "Samolepka | siuhy (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9868.png"
+    },
+    {
+        "id": "9869",
+        "name": "Samolepka | siuhy (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9869.png"
+    },
+    {
+        "id": "9870",
+        "name": "Samolepka | ultimate | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9870.png"
+    },
+    {
+        "id": "9871",
+        "name": "Samolepka | ultimate (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9871.png"
+    },
+    {
+        "id": "9872",
+        "name": "Samolepka | ultimate (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9872.png"
+    },
+    {
+        "id": "9873",
+        "name": "Samolepka | ultimate (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9873.png"
+    },
+    {
+        "id": "9874",
+        "name": "Samolepka | bodyy | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9874.png"
+    },
+    {
+        "id": "9875",
+        "name": "Samolepka | bodyy (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9875.png"
+    },
+    {
+        "id": "9876",
+        "name": "Samolepka | bodyy (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9876.png"
+    },
+    {
+        "id": "9877",
+        "name": "Samolepka | bodyy (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9877.png"
+    },
+    {
+        "id": "9878",
+        "name": "Samolepka | Ex3rcice | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9878.png"
+    },
+    {
+        "id": "9879",
+        "name": "Samolepka | Ex3rcice (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9879.png"
+    },
+    {
+        "id": "9880",
+        "name": "Samolepka | Ex3rcice (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9880.png"
+    },
+    {
+        "id": "9881",
+        "name": "Samolepka | Ex3rcice (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9881.png"
+    },
+    {
+        "id": "9882",
+        "name": "Samolepka | Graviti | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9882.png"
+    },
+    {
+        "id": "9883",
+        "name": "Samolepka | Graviti (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9883.png"
+    },
+    {
+        "id": "9884",
+        "name": "Samolepka | Graviti (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9884.png"
+    },
+    {
+        "id": "9885",
+        "name": "Samolepka | Graviti (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9885.png"
+    },
+    {
+        "id": "9886",
+        "name": "Samolepka | Lucky | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9886.png"
+    },
+    {
+        "id": "9887",
+        "name": "Samolepka | Lucky (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9887.png"
+    },
+    {
+        "id": "9888",
+        "name": "Samolepka | Lucky (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9888.png"
+    },
+    {
+        "id": "9889",
+        "name": "Samolepka | Lucky (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9889.png"
+    },
+    {
+        "id": "9890",
+        "name": "Samolepka | Maka | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9890.png"
+    },
+    {
+        "id": "9891",
+        "name": "Samolepka | Maka (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9891.png"
+    },
+    {
+        "id": "9892",
+        "name": "Samolepka | Maka (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9892.png"
+    },
+    {
+        "id": "9893",
+        "name": "Samolepka | Maka (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9893.png"
+    },
+    {
+        "id": "9894",
+        "name": "Samolepka | device | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9894.png"
+    },
+    {
+        "id": "9895",
+        "name": "Samolepka | device (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9895.png"
+    },
+    {
+        "id": "9896",
+        "name": "Samolepka | device (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9896.png"
+    },
+    {
+        "id": "9897",
+        "name": "Samolepka | device (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9897.png"
+    },
+    {
+        "id": "9898",
+        "name": "Samolepka | HooXi | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9898.png"
+    },
+    {
+        "id": "9899",
+        "name": "Samolepka | HooXi (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9899.png"
+    },
+    {
+        "id": "9900",
+        "name": "Samolepka | HooXi (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9900.png"
+    },
+    {
+        "id": "9901",
+        "name": "Samolepka | HooXi (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9901.png"
+    },
+    {
+        "id": "9902",
+        "name": "Samolepka | jabbi | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9902.png"
+    },
+    {
+        "id": "9903",
+        "name": "Samolepka | jabbi (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9903.png"
+    },
+    {
+        "id": "9904",
+        "name": "Samolepka | jabbi (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9904.png"
+    },
+    {
+        "id": "9905",
+        "name": "Samolepka | jabbi (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9905.png"
+    },
+    {
+        "id": "9906",
+        "name": "Samolepka | Magisk | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9906.png"
+    },
+    {
+        "id": "9907",
+        "name": "Samolepka | Magisk (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9907.png"
+    },
+    {
+        "id": "9908",
+        "name": "Samolepka | Magisk (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9908.png"
+    },
+    {
+        "id": "9909",
+        "name": "Samolepka | Magisk (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9909.png"
+    },
+    {
+        "id": "9910",
+        "name": "Samolepka | Staehr | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9910.png"
+    },
+    {
+        "id": "9911",
+        "name": "Samolepka | Staehr (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9911.png"
+    },
+    {
+        "id": "9912",
+        "name": "Samolepka | Staehr (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9912.png"
+    },
+    {
+        "id": "9913",
+        "name": "Samolepka | Staehr (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9913.png"
+    },
+    {
+        "id": "9914",
+        "name": "Samolepka | Attacker | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9914.png"
+    },
+    {
+        "id": "9915",
+        "name": "Samolepka | Attacker (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9915.png"
+    },
+    {
+        "id": "9916",
+        "name": "Samolepka | Attacker (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9916.png"
+    },
+    {
+        "id": "9917",
+        "name": "Samolepka | Attacker (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9917.png"
+    },
+    {
+        "id": "9918",
+        "name": "Samolepka | JamYoung | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9918.png"
+    },
+    {
+        "id": "9919",
+        "name": "Samolepka | JamYoung (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9919.png"
+    },
+    {
+        "id": "9920",
+        "name": "Samolepka | JamYoung (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9920.png"
+    },
+    {
+        "id": "9921",
+        "name": "Samolepka | JamYoung (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9921.png"
+    },
+    {
+        "id": "9922",
+        "name": "Samolepka | Jee | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9922.png"
+    },
+    {
+        "id": "9923",
+        "name": "Samolepka | Jee (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9923.png"
+    },
+    {
+        "id": "9924",
+        "name": "Samolepka | Jee (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9924.png"
+    },
+    {
+        "id": "9925",
+        "name": "Samolepka | Jee (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9925.png"
+    },
+    {
+        "id": "9926",
+        "name": "Samolepka | Mercury | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9926.png"
+    },
+    {
+        "id": "9927",
+        "name": "Samolepka | Mercury (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9927.png"
+    },
+    {
+        "id": "9928",
+        "name": "Samolepka | Mercury (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9928.png"
+    },
+    {
+        "id": "9929",
+        "name": "Samolepka | Mercury (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9929.png"
+    },
+    {
+        "id": "9930",
+        "name": "Samolepka | Moseyuh | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9930.png"
+    },
+    {
+        "id": "9931",
+        "name": "Samolepka | Moseyuh (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9931.png"
+    },
+    {
+        "id": "9932",
+        "name": "Samolepka | Moseyuh (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9932.png"
+    },
+    {
+        "id": "9933",
+        "name": "Samolepka | Moseyuh (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9933.png"
+    },
+    {
+        "id": "9934",
+        "name": "Samolepka | brnz4n | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9934.png"
+    },
+    {
+        "id": "9935",
+        "name": "Samolepka | brnz4n (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9935.png"
+    },
+    {
+        "id": "9936",
+        "name": "Samolepka | brnz4n (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9936.png"
+    },
+    {
+        "id": "9937",
+        "name": "Samolepka | brnz4n (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9937.png"
+    },
+    {
+        "id": "9938",
+        "name": "Samolepka | exit | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9938.png"
+    },
+    {
+        "id": "9939",
+        "name": "Samolepka | exit (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9939.png"
+    },
+    {
+        "id": "9940",
+        "name": "Samolepka | exit (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9940.png"
+    },
+    {
+        "id": "9941",
+        "name": "Samolepka | exit (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9941.png"
+    },
+    {
+        "id": "9942",
+        "name": "Samolepka | insani | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9942.png"
+    },
+    {
+        "id": "9943",
+        "name": "Samolepka | insani (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9943.png"
+    },
+    {
+        "id": "9944",
+        "name": "Samolepka | insani (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9944.png"
+    },
+    {
+        "id": "9945",
+        "name": "Samolepka | insani (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9945.png"
+    },
+    {
+        "id": "9946",
+        "name": "Samolepka | kl1m | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9946.png"
+    },
+    {
+        "id": "9947",
+        "name": "Samolepka | kl1m (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9947.png"
+    },
+    {
+        "id": "9948",
+        "name": "Samolepka | kl1m (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9948.png"
+    },
+    {
+        "id": "9949",
+        "name": "Samolepka | kl1m (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9949.png"
+    },
+    {
+        "id": "9950",
+        "name": "Samolepka | qikert | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9950.png"
+    },
+    {
+        "id": "9951",
+        "name": "Samolepka | qikert (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9951.png"
+    },
+    {
+        "id": "9952",
+        "name": "Samolepka | qikert (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9952.png"
+    },
+    {
+        "id": "9953",
+        "name": "Samolepka | qikert (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9953.png"
+    },
+    {
+        "id": "9954",
+        "name": "Samolepka | Grim | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9954.png"
+    },
+    {
+        "id": "9955",
+        "name": "Samolepka | Grim (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9955.png"
+    },
+    {
+        "id": "9956",
+        "name": "Samolepka | Grim (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9956.png"
+    },
+    {
+        "id": "9957",
+        "name": "Samolepka | Grim (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9957.png"
+    },
+    {
+        "id": "9958",
+        "name": "Samolepka | hallzerk | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9958.png"
+    },
+    {
+        "id": "9959",
+        "name": "Samolepka | hallzerk (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9959.png"
+    },
+    {
+        "id": "9960",
+        "name": "Samolepka | hallzerk (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9960.png"
+    },
+    {
+        "id": "9961",
+        "name": "Samolepka | hallzerk (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9961.png"
+    },
+    {
+        "id": "9962",
+        "name": "Samolepka | JT | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9962.png"
+    },
+    {
+        "id": "9963",
+        "name": "Samolepka | JT (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9963.png"
+    },
+    {
+        "id": "9964",
+        "name": "Samolepka | JT (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9964.png"
+    },
+    {
+        "id": "9965",
+        "name": "Samolepka | JT (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9965.png"
+    },
+    {
+        "id": "9966",
+        "name": "Samolepka | Kvem | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9966.png"
+    },
+    {
+        "id": "9967",
+        "name": "Samolepka | Kvem (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9967.png"
+    },
+    {
+        "id": "9968",
+        "name": "Samolepka | Kvem (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9968.png"
+    },
+    {
+        "id": "9969",
+        "name": "Samolepka | Kvem (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9969.png"
+    },
+    {
+        "id": "9970",
+        "name": "Samolepka | nicx | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9970.png"
+    },
+    {
+        "id": "9971",
+        "name": "Samolepka | nicx (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9971.png"
+    },
+    {
+        "id": "9972",
+        "name": "Samolepka | nicx (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9972.png"
+    },
+    {
+        "id": "9973",
+        "name": "Samolepka | nicx (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9973.png"
+    },
+    {
+        "id": "9974",
+        "name": "Samolepka | dumau | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9974.png"
+    },
+    {
+        "id": "9975",
+        "name": "Samolepka | dumau (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9975.png"
+    },
+    {
+        "id": "9976",
+        "name": "Samolepka | dumau (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9976.png"
+    },
+    {
+        "id": "9977",
+        "name": "Samolepka | dumau (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9977.png"
+    },
+    {
+        "id": "9978",
+        "name": "Samolepka | latto | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9978.png"
+    },
+    {
+        "id": "9979",
+        "name": "Samolepka | latto (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9979.png"
+    },
+    {
+        "id": "9980",
+        "name": "Samolepka | latto (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9980.png"
+    },
+    {
+        "id": "9981",
+        "name": "Samolepka | latto (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9981.png"
+    },
+    {
+        "id": "9982",
+        "name": "Samolepka | lux | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9982.png"
+    },
+    {
+        "id": "9983",
+        "name": "Samolepka | lux (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9983.png"
+    },
+    {
+        "id": "9984",
+        "name": "Samolepka | lux (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9984.png"
+    },
+    {
+        "id": "9985",
+        "name": "Samolepka | lux (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9985.png"
+    },
+    {
+        "id": "9986",
+        "name": "Samolepka | n1ssim | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9986.png"
+    },
+    {
+        "id": "9987",
+        "name": "Samolepka | n1ssim (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9987.png"
+    },
+    {
+        "id": "9988",
+        "name": "Samolepka | n1ssim (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9988.png"
+    },
+    {
+        "id": "9989",
+        "name": "Samolepka | n1ssim (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9989.png"
+    },
+    {
+        "id": "9990",
+        "name": "Samolepka | saadzin | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9990.png"
+    },
+    {
+        "id": "9991",
+        "name": "Samolepka | saadzin (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9991.png"
+    },
+    {
+        "id": "9992",
+        "name": "Samolepka | saadzin (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9992.png"
+    },
+    {
+        "id": "9993",
+        "name": "Samolepka | saadzin (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9993.png"
+    },
+    {
+        "id": "9994",
+        "name": "Samolepka | broky | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9994.png"
+    },
+    {
+        "id": "9995",
+        "name": "Samolepka | broky (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9995.png"
+    },
+    {
+        "id": "9996",
+        "name": "Samolepka | broky (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9996.png"
+    },
+    {
+        "id": "9997",
+        "name": "Samolepka | broky (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9997.png"
+    },
+    {
+        "id": "9998",
+        "name": "Samolepka | frozen | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9998.png"
+    },
+    {
+        "id": "9999",
+        "name": "Samolepka | frozen (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9999.png"
+    },
+    {
+        "id": "10000",
+        "name": "Samolepka | frozen (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10000.png"
+    },
+    {
+        "id": "10001",
+        "name": "Samolepka | frozen (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10001.png"
+    },
+    {
+        "id": "10002",
+        "name": "Samolepka | jcobbb | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10002.png"
+    },
+    {
+        "id": "10003",
+        "name": "Samolepka | jcobbb (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10003.png"
+    },
+    {
+        "id": "10004",
+        "name": "Samolepka | jcobbb (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10004.png"
+    },
+    {
+        "id": "10005",
+        "name": "Samolepka | jcobbb (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10005.png"
+    },
+    {
+        "id": "10006",
+        "name": "Samolepka | karrigan | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10006.png"
+    },
+    {
+        "id": "10007",
+        "name": "Samolepka | karrigan (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10007.png"
+    },
+    {
+        "id": "10008",
+        "name": "Samolepka | karrigan (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10008.png"
+    },
+    {
+        "id": "10009",
+        "name": "Samolepka | karrigan (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10009.png"
+    },
+    {
+        "id": "10010",
+        "name": "Samolepka | rain | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10010.png"
+    },
+    {
+        "id": "10011",
+        "name": "Samolepka | rain (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10011.png"
+    },
+    {
+        "id": "10012",
+        "name": "Samolepka | rain (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10012.png"
+    },
+    {
+        "id": "10013",
+        "name": "Samolepka | rain (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10013.png"
+    },
+    {
+        "id": "10014",
+        "name": "Samolepka | alex666 | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10014.png"
+    },
+    {
+        "id": "10015",
+        "name": "Samolepka | alex666 (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10015.png"
+    },
+    {
+        "id": "10016",
+        "name": "Samolepka | alex666 (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10016.png"
+    },
+    {
+        "id": "10017",
+        "name": "Samolepka | alex666 (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10017.png"
+    },
+    {
+        "id": "10018",
+        "name": "Samolepka | esenthial | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10018.png"
+    },
+    {
+        "id": "10019",
+        "name": "Samolepka | esenthial (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10019.png"
+    },
+    {
+        "id": "10020",
+        "name": "Samolepka | esenthial (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10020.png"
+    },
+    {
+        "id": "10021",
+        "name": "Samolepka | esenthial (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10021.png"
+    },
+    {
+        "id": "10022",
+        "name": "Samolepka | headtr1ck | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10022.png"
+    },
+    {
+        "id": "10023",
+        "name": "Samolepka | headtr1ck (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10023.png"
+    },
+    {
+        "id": "10024",
+        "name": "Samolepka | headtr1ck (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10024.png"
+    },
+    {
+        "id": "10025",
+        "name": "Samolepka | headtr1ck (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10025.png"
+    },
+    {
+        "id": "10026",
+        "name": "Samolepka | kensizor | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10026.png"
+    },
+    {
+        "id": "10027",
+        "name": "Samolepka | kensizor (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10027.png"
+    },
+    {
+        "id": "10028",
+        "name": "Samolepka | kensizor (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10028.png"
+    },
+    {
+        "id": "10029",
+        "name": "Samolepka | kensizor (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10029.png"
+    },
+    {
+        "id": "10030",
+        "name": "Samolepka | npl | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10030.png"
+    },
+    {
+        "id": "10031",
+        "name": "Samolepka | npl (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10031.png"
+    },
+    {
+        "id": "10032",
+        "name": "Samolepka | npl (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10032.png"
+    },
+    {
+        "id": "10033",
+        "name": "Samolepka | npl (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10033.png"
+    },
+    {
+        "id": "10034",
+        "name": "Samolepka | Kursy | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10034.png"
+    },
+    {
+        "id": "10035",
+        "name": "Samolepka | Kursy (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10035.png"
+    },
+    {
+        "id": "10036",
+        "name": "Samolepka | Kursy (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10036.png"
+    },
+    {
+        "id": "10037",
+        "name": "Samolepka | Kursy (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10037.png"
+    },
+    {
+        "id": "10038",
+        "name": "Samolepka | PR | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10038.png"
+    },
+    {
+        "id": "10039",
+        "name": "Samolepka | PR (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10039.png"
+    },
+    {
+        "id": "10040",
+        "name": "Samolepka | PR (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10040.png"
+    },
+    {
+        "id": "10041",
+        "name": "Samolepka | PR (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10041.png"
+    },
+    {
+        "id": "10042",
+        "name": "Samolepka | REZ | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10042.png"
+    },
+    {
+        "id": "10043",
+        "name": "Samolepka | REZ (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10043.png"
+    },
+    {
+        "id": "10044",
+        "name": "Samolepka | REZ (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10044.png"
+    },
+    {
+        "id": "10045",
+        "name": "Samolepka | REZ (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10045.png"
+    },
+    {
+        "id": "10046",
+        "name": "Samolepka | Tauson | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10046.png"
+    },
+    {
+        "id": "10047",
+        "name": "Samolepka | Tauson (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10047.png"
+    },
+    {
+        "id": "10048",
+        "name": "Samolepka | Tauson (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10048.png"
+    },
+    {
+        "id": "10049",
+        "name": "Samolepka | Tauson (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10049.png"
+    },
+    {
+        "id": "10050",
+        "name": "Samolepka | ztr | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10050.png"
+    },
+    {
+        "id": "10051",
+        "name": "Samolepka | ztr (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10051.png"
+    },
+    {
+        "id": "10052",
+        "name": "Samolepka | ztr (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10052.png"
+    },
+    {
+        "id": "10053",
+        "name": "Samolepka | ztr (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10053.png"
+    },
+    {
+        "id": "10054",
+        "name": "Samolepka | blameF | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10054.png"
+    },
+    {
+        "id": "10055",
+        "name": "Samolepka | blameF (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10055.png"
+    },
+    {
+        "id": "10056",
+        "name": "Samolepka | blameF (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10056.png"
+    },
+    {
+        "id": "10057",
+        "name": "Samolepka | blameF (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10057.png"
+    },
+    {
+        "id": "10058",
+        "name": "Samolepka | Cypher | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10058.png"
+    },
+    {
+        "id": "10059",
+        "name": "Samolepka | Cypher (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10059.png"
+    },
+    {
+        "id": "10060",
+        "name": "Samolepka | Cypher (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10060.png"
+    },
+    {
+        "id": "10061",
+        "name": "Samolepka | Cypher (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10061.png"
+    },
+    {
+        "id": "10062",
+        "name": "Samolepka | fEAR | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10062.png"
+    },
+    {
+        "id": "10063",
+        "name": "Samolepka | fEAR (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10063.png"
+    },
+    {
+        "id": "10064",
+        "name": "Samolepka | fEAR (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10064.png"
+    },
+    {
+        "id": "10065",
+        "name": "Samolepka | fEAR (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10065.png"
+    },
+    {
+        "id": "10066",
+        "name": "Samolepka | jambo | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10066.png"
+    },
+    {
+        "id": "10067",
+        "name": "Samolepka | jambo (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10067.png"
+    },
+    {
+        "id": "10068",
+        "name": "Samolepka | jambo (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10068.png"
+    },
+    {
+        "id": "10069",
+        "name": "Samolepka | jambo (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10069.png"
+    },
+    {
+        "id": "10070",
+        "name": "Samolepka | KRIMZ | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10070.png"
+    },
+    {
+        "id": "10071",
+        "name": "Samolepka | KRIMZ (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10071.png"
+    },
+    {
+        "id": "10072",
+        "name": "Samolepka | KRIMZ (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10072.png"
+    },
+    {
+        "id": "10073",
+        "name": "Samolepka | KRIMZ (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10073.png"
+    },
+    {
+        "id": "10074",
+        "name": "Samolepka | AW | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10074.png"
+    },
+    {
+        "id": "10075",
+        "name": "Samolepka | AW (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10075.png"
+    },
+    {
+        "id": "10076",
+        "name": "Samolepka | AW (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10076.png"
+    },
+    {
+        "id": "10077",
+        "name": "Samolepka | AW (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10077.png"
+    },
+    {
+        "id": "10078",
+        "name": "Samolepka | BELCHONOKK | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10078.png"
+    },
+    {
+        "id": "10079",
+        "name": "Samolepka | BELCHONOKK (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10079.png"
+    },
+    {
+        "id": "10080",
+        "name": "Samolepka | BELCHONOKK (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10080.png"
+    },
+    {
+        "id": "10081",
+        "name": "Samolepka | BELCHONOKK (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10081.png"
+    },
+    {
+        "id": "10082",
+        "name": "Samolepka | Jame | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10082.png"
+    },
+    {
+        "id": "10083",
+        "name": "Samolepka | Jame (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10083.png"
+    },
+    {
+        "id": "10084",
+        "name": "Samolepka | Jame (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10084.png"
+    },
+    {
+        "id": "10085",
+        "name": "Samolepka | Jame (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10085.png"
+    },
+    {
+        "id": "10086",
+        "name": "Samolepka | nota | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10086.png"
+    },
+    {
+        "id": "10087",
+        "name": "Samolepka | nota (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10087.png"
+    },
+    {
+        "id": "10088",
+        "name": "Samolepka | nota (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10088.png"
+    },
+    {
+        "id": "10089",
+        "name": "Samolepka | nota (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10089.png"
+    },
+    {
+        "id": "10090",
+        "name": "Samolepka | xiELO | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10090.png"
+    },
+    {
+        "id": "10091",
+        "name": "Samolepka | xiELO (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10091.png"
+    },
+    {
+        "id": "10092",
+        "name": "Samolepka | xiELO (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10092.png"
+    },
+    {
+        "id": "10093",
+        "name": "Samolepka | xiELO (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10093.png"
+    },
+    {
+        "id": "10094",
+        "name": "Samolepka | ewjerkz | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10094.png"
+    },
+    {
+        "id": "10095",
+        "name": "Samolepka | ewjerkz (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10095.png"
+    },
+    {
+        "id": "10096",
+        "name": "Samolepka | ewjerkz (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10096.png"
+    },
+    {
+        "id": "10097",
+        "name": "Samolepka | ewjerkz (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10097.png"
+    },
+    {
+        "id": "10098",
+        "name": "Samolepka | r1nkle | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10098.png"
+    },
+    {
+        "id": "10099",
+        "name": "Samolepka | r1nkle (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10099.png"
+    },
+    {
+        "id": "10100",
+        "name": "Samolepka | r1nkle (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10100.png"
+    },
+    {
+        "id": "10101",
+        "name": "Samolepka | r1nkle (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10101.png"
+    },
+    {
+        "id": "10102",
+        "name": "Samolepka | sjuush | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10102.png"
+    },
+    {
+        "id": "10103",
+        "name": "Samolepka | sjuush (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10103.png"
+    },
+    {
+        "id": "10104",
+        "name": "Samolepka | sjuush (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10104.png"
+    },
+    {
+        "id": "10105",
+        "name": "Samolepka | sjuush (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10105.png"
+    },
+    {
+        "id": "10106",
+        "name": "Samolepka | Snappi | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10106.png"
+    },
+    {
+        "id": "10107",
+        "name": "Samolepka | Snappi (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10107.png"
+    },
+    {
+        "id": "10108",
+        "name": "Samolepka | Snappi (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10108.png"
+    },
+    {
+        "id": "10109",
+        "name": "Samolepka | Snappi (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10109.png"
+    },
+    {
+        "id": "10110",
+        "name": "Samolepka | xKacpersky | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10110.png"
+    },
+    {
+        "id": "10111",
+        "name": "Samolepka | xKacpersky (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10111.png"
+    },
+    {
+        "id": "10112",
+        "name": "Samolepka | xKacpersky (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10112.png"
+    },
+    {
+        "id": "10113",
+        "name": "Samolepka | xKacpersky (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10113.png"
+    },
+    {
+        "id": "10114",
+        "name": "Samolepka | chelo | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10114.png"
+    },
+    {
+        "id": "10115",
+        "name": "Samolepka | chelo (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10115.png"
+    },
+    {
+        "id": "10116",
+        "name": "Samolepka | chelo (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10116.png"
+    },
+    {
+        "id": "10117",
+        "name": "Samolepka | chelo (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10117.png"
+    },
+    {
+        "id": "10118",
+        "name": "Samolepka | noway | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10118.png"
+    },
+    {
+        "id": "10119",
+        "name": "Samolepka | noway (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10119.png"
+    },
+    {
+        "id": "10120",
+        "name": "Samolepka | noway (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10120.png"
+    },
+    {
+        "id": "10121",
+        "name": "Samolepka | noway (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10121.png"
+    },
+    {
+        "id": "10122",
+        "name": "Samolepka | skullz | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10122.png"
+    },
+    {
+        "id": "10123",
+        "name": "Samolepka | skullz (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10123.png"
+    },
+    {
+        "id": "10124",
+        "name": "Samolepka | skullz (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10124.png"
+    },
+    {
+        "id": "10125",
+        "name": "Samolepka | skullz (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10125.png"
+    },
+    {
+        "id": "10126",
+        "name": "Samolepka | TRY | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10126.png"
+    },
+    {
+        "id": "10127",
+        "name": "Samolepka | TRY (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10127.png"
+    },
+    {
+        "id": "10128",
+        "name": "Samolepka | TRY (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10128.png"
+    },
+    {
+        "id": "10129",
+        "name": "Samolepka | TRY (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10129.png"
+    },
+    {
+        "id": "10130",
+        "name": "Samolepka | VINI | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10130.png"
+    },
+    {
+        "id": "10131",
+        "name": "Samolepka | VINI (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10131.png"
+    },
+    {
+        "id": "10132",
+        "name": "Samolepka | VINI (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10132.png"
+    },
+    {
+        "id": "10133",
+        "name": "Samolepka | VINI (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10133.png"
+    },
+    {
+        "id": "10134",
+        "name": "Samolepka | INS | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10134.png"
+    },
+    {
+        "id": "10135",
+        "name": "Samolepka | INS (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10135.png"
+    },
+    {
+        "id": "10136",
+        "name": "Samolepka | INS (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10136.png"
+    },
+    {
+        "id": "10137",
+        "name": "Samolepka | INS (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10137.png"
+    },
+    {
+        "id": "10138",
+        "name": "Samolepka | jks | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10138.png"
+    },
+    {
+        "id": "10139",
+        "name": "Samolepka | jks (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10139.png"
+    },
+    {
+        "id": "10140",
+        "name": "Samolepka | jks (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10140.png"
+    },
+    {
+        "id": "10141",
+        "name": "Samolepka | jks (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10141.png"
+    },
+    {
+        "id": "10142",
+        "name": "Samolepka | nettik | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10142.png"
+    },
+    {
+        "id": "10143",
+        "name": "Samolepka | nettik (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10143.png"
+    },
+    {
+        "id": "10144",
+        "name": "Samolepka | nettik (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10144.png"
+    },
+    {
+        "id": "10145",
+        "name": "Samolepka | nettik (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10145.png"
+    },
+    {
+        "id": "10146",
+        "name": "Samolepka | regali | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10146.png"
+    },
+    {
+        "id": "10147",
+        "name": "Samolepka | regali (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10147.png"
+    },
+    {
+        "id": "10148",
+        "name": "Samolepka | regali (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10148.png"
+    },
+    {
+        "id": "10149",
+        "name": "Samolepka | regali (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10149.png"
+    },
+    {
+        "id": "10150",
+        "name": "Samolepka | vexite | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10150.png"
+    },
+    {
+        "id": "10151",
+        "name": "Samolepka | vexite (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10151.png"
+    },
+    {
+        "id": "10152",
+        "name": "Samolepka | vexite (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10152.png"
+    },
+    {
+        "id": "10153",
+        "name": "Samolepka | vexite (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10153.png"
+    },
+    {
+        "id": "10154",
+        "name": "Samolepka | C4LLM3SU3 | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10154.png"
+    },
+    {
+        "id": "10155",
+        "name": "Samolepka | C4LLM3SU3 (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10155.png"
+    },
+    {
+        "id": "10156",
+        "name": "Samolepka | C4LLM3SU3 (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10156.png"
+    },
+    {
+        "id": "10157",
+        "name": "Samolepka | C4LLM3SU3 (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10157.png"
+    },
+    {
+        "id": "10158",
+        "name": "Samolepka | EmiliaQAQ | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10158.png"
+    },
+    {
+        "id": "10159",
+        "name": "Samolepka | EmiliaQAQ (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10159.png"
+    },
+    {
+        "id": "10160",
+        "name": "Samolepka | EmiliaQAQ (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10160.png"
+    },
+    {
+        "id": "10161",
+        "name": "Samolepka | EmiliaQAQ (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10161.png"
+    },
+    {
+        "id": "10162",
+        "name": "Samolepka | Starry | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10162.png"
+    },
+    {
+        "id": "10163",
+        "name": "Samolepka | Starry (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10163.png"
+    },
+    {
+        "id": "10164",
+        "name": "Samolepka | Starry (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10164.png"
+    },
+    {
+        "id": "10165",
+        "name": "Samolepka | Starry (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10165.png"
+    },
+    {
+        "id": "10166",
+        "name": "Samolepka | westmelon | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10166.png"
+    },
+    {
+        "id": "10167",
+        "name": "Samolepka | westmelon (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10167.png"
+    },
+    {
+        "id": "10168",
+        "name": "Samolepka | westmelon (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10168.png"
+    },
+    {
+        "id": "10169",
+        "name": "Samolepka | westmelon (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10169.png"
+    },
+    {
+        "id": "10170",
+        "name": "Samolepka | z4KR | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10170.png"
+    },
+    {
+        "id": "10171",
+        "name": "Samolepka | z4KR (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10171.png"
+    },
+    {
+        "id": "10172",
+        "name": "Samolepka | z4KR (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10172.png"
+    },
+    {
+        "id": "10173",
+        "name": "Samolepka | z4KR (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10173.png"
+    },
+    {
+        "id": "10174",
+        "name": "Samolepka | HexT | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10174.png"
+    },
+    {
+        "id": "10175",
+        "name": "Samolepka | HexT (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10175.png"
+    },
+    {
+        "id": "10176",
+        "name": "Samolepka | HexT (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10176.png"
+    },
+    {
+        "id": "10177",
+        "name": "Samolepka | HexT (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10177.png"
+    },
+    {
+        "id": "10178",
+        "name": "Samolepka | Lake | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10178.png"
+    },
+    {
+        "id": "10179",
+        "name": "Samolepka | Lake (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10179.png"
+    },
+    {
+        "id": "10180",
+        "name": "Samolepka | Lake (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10180.png"
+    },
+    {
+        "id": "10181",
+        "name": "Samolepka | Lake (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10181.png"
+    },
+    {
+        "id": "10182",
+        "name": "Samolepka | s1n | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10182.png"
+    },
+    {
+        "id": "10183",
+        "name": "Samolepka | s1n (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10183.png"
+    },
+    {
+        "id": "10184",
+        "name": "Samolepka | s1n (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10184.png"
+    },
+    {
+        "id": "10185",
+        "name": "Samolepka | s1n (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10185.png"
+    },
+    {
+        "id": "10186",
+        "name": "Samolepka | slaxz- | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10186.png"
+    },
+    {
+        "id": "10187",
+        "name": "Samolepka | slaxz- (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10187.png"
+    },
+    {
+        "id": "10188",
+        "name": "Samolepka | slaxz- (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10188.png"
+    },
+    {
+        "id": "10189",
+        "name": "Samolepka | slaxz- (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10189.png"
+    },
+    {
+        "id": "10190",
+        "name": "Samolepka | Swisher | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10190.png"
+    },
+    {
+        "id": "10191",
+        "name": "Samolepka | Swisher (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10191.png"
+    },
+    {
+        "id": "10192",
+        "name": "Samolepka | Swisher (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10192.png"
+    },
+    {
+        "id": "10193",
+        "name": "Samolepka | Swisher (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10193.png"
+    },
+    {
+        "id": "10194",
+        "name": "Samolepka | arT | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10194.png"
+    },
+    {
+        "id": "10195",
+        "name": "Samolepka | arT (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10195.png"
+    },
+    {
+        "id": "10196",
+        "name": "Samolepka | arT (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10196.png"
+    },
+    {
+        "id": "10197",
+        "name": "Samolepka | arT (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10197.png"
+    },
+    {
+        "id": "10198",
+        "name": "Samolepka | decenty | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10198.png"
+    },
+    {
+        "id": "10199",
+        "name": "Samolepka | decenty (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10199.png"
+    },
+    {
+        "id": "10200",
+        "name": "Samolepka | decenty (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10200.png"
+    },
+    {
+        "id": "10201",
+        "name": "Samolepka | decenty (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10201.png"
+    },
+    {
+        "id": "10202",
+        "name": "Samolepka | kye | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10202.png"
+    },
+    {
+        "id": "10203",
+        "name": "Samolepka | kye (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10203.png"
+    },
+    {
+        "id": "10204",
+        "name": "Samolepka | kye (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10204.png"
+    },
+    {
+        "id": "10205",
+        "name": "Samolepka | kye (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10205.png"
+    },
+    {
+        "id": "10206",
+        "name": "Samolepka | Lucaozy | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10206.png"
+    },
+    {
+        "id": "10207",
+        "name": "Samolepka | Lucaozy (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10207.png"
+    },
+    {
+        "id": "10208",
+        "name": "Samolepka | Lucaozy (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10208.png"
+    },
+    {
+        "id": "10209",
+        "name": "Samolepka | Lucaozy (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10209.png"
+    },
+    {
+        "id": "10210",
+        "name": "Samolepka | zevy | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10210.png"
+    },
+    {
+        "id": "10211",
+        "name": "Samolepka | zevy (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10211.png"
+    },
+    {
+        "id": "10212",
+        "name": "Samolepka | zevy (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10212.png"
+    },
+    {
+        "id": "10213",
+        "name": "Samolepka | zevy (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10213.png"
+    },
+    {
+        "id": "10214",
+        "name": "Samolepka | chayJESUS | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10214.png"
+    },
+    {
+        "id": "10215",
+        "name": "Samolepka | chayJESUS (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10215.png"
+    },
+    {
+        "id": "10216",
+        "name": "Samolepka | chayJESUS (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10216.png"
+    },
+    {
+        "id": "10217",
+        "name": "Samolepka | chayJESUS (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10217.png"
+    },
+    {
+        "id": "10218",
+        "name": "Samolepka | drop | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10218.png"
+    },
+    {
+        "id": "10219",
+        "name": "Samolepka | drop (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10219.png"
+    },
+    {
+        "id": "10220",
+        "name": "Samolepka | drop (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10220.png"
+    },
+    {
+        "id": "10221",
+        "name": "Samolepka | drop (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10221.png"
+    },
+    {
+        "id": "10222",
+        "name": "Samolepka | History | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10222.png"
+    },
+    {
+        "id": "10223",
+        "name": "Samolepka | History (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10223.png"
+    },
+    {
+        "id": "10224",
+        "name": "Samolepka | History (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10224.png"
+    },
+    {
+        "id": "10225",
+        "name": "Samolepka | History (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10225.png"
+    },
+    {
+        "id": "10226",
+        "name": "Samolepka | kauez | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10226.png"
+    },
+    {
+        "id": "10227",
+        "name": "Samolepka | kauez (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10227.png"
+    },
+    {
+        "id": "10228",
+        "name": "Samolepka | kauez (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10228.png"
+    },
+    {
+        "id": "10229",
+        "name": "Samolepka | kauez (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10229.png"
+    },
+    {
+        "id": "10230",
+        "name": "Samolepka | venomzera | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10230.png"
+    },
+    {
+        "id": "10231",
+        "name": "Samolepka | venomzera (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10231.png"
+    },
+    {
+        "id": "10232",
+        "name": "Samolepka | venomzera (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10232.png"
+    },
+    {
+        "id": "10233",
+        "name": "Samolepka | venomzera (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10233.png"
+    },
+    {
+        "id": "10234",
+        "name": "Samolepka | Bart4k | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10234.png"
+    },
+    {
+        "id": "10235",
+        "name": "Samolepka | Bart4k (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10235.png"
+    },
+    {
+        "id": "10236",
+        "name": "Samolepka | Bart4k (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10236.png"
+    },
+    {
+        "id": "10237",
+        "name": "Samolepka | Bart4k (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10237.png"
+    },
+    {
+        "id": "10238",
+        "name": "Samolepka | cobra | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10238.png"
+    },
+    {
+        "id": "10239",
+        "name": "Samolepka | cobra (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10239.png"
+    },
+    {
+        "id": "10240",
+        "name": "Samolepka | cobra (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10240.png"
+    },
+    {
+        "id": "10241",
+        "name": "Samolepka | cobra (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10241.png"
+    },
+    {
+        "id": "10242",
+        "name": "Samolepka | nin9 | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10242.png"
+    },
+    {
+        "id": "10243",
+        "name": "Samolepka | nin9 (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10243.png"
+    },
+    {
+        "id": "10244",
+        "name": "Samolepka | nin9 (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10244.png"
+    },
+    {
+        "id": "10245",
+        "name": "Samolepka | nin9 (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10245.png"
+    },
+    {
+        "id": "10246",
+        "name": "Samolepka | sk0R | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10246.png"
+    },
+    {
+        "id": "10247",
+        "name": "Samolepka | sk0R (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10247.png"
+    },
+    {
+        "id": "10248",
+        "name": "Samolepka | sk0R (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10248.png"
+    },
+    {
+        "id": "10249",
+        "name": "Samolepka | sk0R (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10249.png"
+    },
+    {
+        "id": "10250",
+        "name": "Samolepka | xerolte | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10250.png"
+    },
+    {
+        "id": "10251",
+        "name": "Samolepka | xerolte (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10251.png"
+    },
+    {
+        "id": "10252",
+        "name": "Samolepka | xerolte (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10252.png"
+    },
+    {
+        "id": "10253",
+        "name": "Samolepka | xerolte (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10253.png"
+    },
+    {
+        "id": "10254",
+        "name": "Samolepka | br0 | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10254.png"
+    },
+    {
+        "id": "10255",
+        "name": "Samolepka | br0 (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10255.png"
+    },
+    {
+        "id": "10256",
+        "name": "Samolepka | br0 (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10256.png"
+    },
+    {
+        "id": "10257",
+        "name": "Samolepka | br0 (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10257.png"
+    },
+    {
+        "id": "10258",
+        "name": "Samolepka | jeorge | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10258.png"
+    },
+    {
+        "id": "10259",
+        "name": "Samolepka | jeorge (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10259.png"
+    },
+    {
+        "id": "10260",
+        "name": "Samolepka | jeorge (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10260.png"
+    },
+    {
+        "id": "10261",
+        "name": "Samolepka | jeorge (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10261.png"
+    },
+    {
+        "id": "10262",
+        "name": "Samolepka | nitr0 | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10262.png"
+    },
+    {
+        "id": "10263",
+        "name": "Samolepka | nitr0 (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10263.png"
+    },
+    {
+        "id": "10264",
+        "name": "Samolepka | nitr0 (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10264.png"
+    },
+    {
+        "id": "10265",
+        "name": "Samolepka | nitr0 (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10265.png"
+    },
+    {
+        "id": "10266",
+        "name": "Samolepka | Sonic | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10266.png"
+    },
+    {
+        "id": "10267",
+        "name": "Samolepka | Sonic (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10267.png"
+    },
+    {
+        "id": "10268",
+        "name": "Samolepka | Sonic (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10268.png"
+    },
+    {
+        "id": "10269",
+        "name": "Samolepka | Sonic (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10269.png"
+    },
+    {
+        "id": "10270",
+        "name": "Samolepka | XotiC | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10270.png"
+    },
+    {
+        "id": "10271",
+        "name": "Samolepka | XotiC (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10271.png"
+    },
+    {
+        "id": "10272",
+        "name": "Samolepka | XotiC (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10272.png"
+    },
+    {
+        "id": "10273",
+        "name": "Samolepka | XotiC (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10273.png"
+    },
+    {
+        "id": "10274",
+        "name": "Samolepka | ChildKing | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10274.png"
+    },
+    {
+        "id": "10275",
+        "name": "Samolepka | ChildKing (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10275.png"
+    },
+    {
+        "id": "10276",
+        "name": "Samolepka | ChildKing (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10276.png"
+    },
+    {
+        "id": "10277",
+        "name": "Samolepka | ChildKing (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10277.png"
+    },
+    {
+        "id": "10278",
+        "name": "Samolepka | L1haNg | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10278.png"
+    },
+    {
+        "id": "10279",
+        "name": "Samolepka | L1haNg (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10279.png"
+    },
+    {
+        "id": "10280",
+        "name": "Samolepka | L1haNg (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10280.png"
+    },
+    {
+        "id": "10281",
+        "name": "Samolepka | L1haNg (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10281.png"
+    },
+    {
+        "id": "10282",
+        "name": "Samolepka | Marek | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10282.png"
+    },
+    {
+        "id": "10283",
+        "name": "Samolepka | Marek (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10283.png"
+    },
+    {
+        "id": "10284",
+        "name": "Samolepka | Marek (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10284.png"
+    },
+    {
+        "id": "10285",
+        "name": "Samolepka | Marek (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10285.png"
+    },
+    {
+        "id": "10286",
+        "name": "Samolepka | Summer | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10286.png"
+    },
+    {
+        "id": "10287",
+        "name": "Samolepka | Summer (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10287.png"
+    },
+    {
+        "id": "10288",
+        "name": "Samolepka | Summer (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10288.png"
+    },
+    {
+        "id": "10289",
+        "name": "Samolepka | Summer (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10289.png"
+    },
+    {
+        "id": "10290",
+        "name": "Samolepka | Tiger | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10290.png"
+    },
+    {
+        "id": "10291",
+        "name": "Samolepka | Tiger (vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10291.png"
+    },
+    {
+        "id": "10292",
+        "name": "Samolepka | Tiger (holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10292.png"
+    },
+    {
+        "id": "10293",
+        "name": "Samolepka | Tiger (zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10293.png"
+    },
+    {
+        "id": "10294",
+        "name": "Samolepka | apEX (šampion) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10294.png"
+    },
+    {
+        "id": "10295",
+        "name": "Samolepka | apEX (šampion, vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10295.png"
+    },
+    {
+        "id": "10296",
+        "name": "Samolepka | apEX (šampion, holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10296.png"
+    },
+    {
+        "id": "10297",
+        "name": "Samolepka | apEX (šampion, zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10297.png"
+    },
+    {
+        "id": "10298",
+        "name": "Samolepka | FlameZ (šampion) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10298.png"
+    },
+    {
+        "id": "10299",
+        "name": "Samolepka | FlameZ (šampion, vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10299.png"
+    },
+    {
+        "id": "10300",
+        "name": "Samolepka | FlameZ (šampion, holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10300.png"
+    },
+    {
+        "id": "10301",
+        "name": "Samolepka | FlameZ (šampion, zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10301.png"
+    },
+    {
+        "id": "10302",
+        "name": "Samolepka | mezii (šampion) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10302.png"
+    },
+    {
+        "id": "10303",
+        "name": "Samolepka | mezii (šampion, vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10303.png"
+    },
+    {
+        "id": "10304",
+        "name": "Samolepka | mezii (šampion, holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10304.png"
+    },
+    {
+        "id": "10305",
+        "name": "Samolepka | mezii (šampion, zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10305.png"
+    },
+    {
+        "id": "10306",
+        "name": "Samolepka | ropz (šampion) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10306.png"
+    },
+    {
+        "id": "10307",
+        "name": "Samolepka | ropz (šampion, vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10307.png"
+    },
+    {
+        "id": "10308",
+        "name": "Samolepka | ropz (šampion, holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10308.png"
+    },
+    {
+        "id": "10309",
+        "name": "Samolepka | ropz (šampion, zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10309.png"
+    },
+    {
+        "id": "10310",
+        "name": "Samolepka | ZywOo (šampion) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10310.png"
+    },
+    {
+        "id": "10311",
+        "name": "Samolepka | ZywOo (šampion, vyšívaná) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10311.png"
+    },
+    {
+        "id": "10312",
+        "name": "Samolepka | ZywOo (šampion, holografická) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10312.png"
+    },
+    {
+        "id": "10313",
+        "name": "Samolepka | ZywOo (šampion, zlatá) | StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10313.png"
     }
 ]

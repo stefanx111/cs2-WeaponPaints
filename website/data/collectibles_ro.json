@@ -590,6 +590,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-995.png"
     },
     {
+        "id": "1000",
+        "name": "Bilet pentru operațiunea Payback",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1000.png"
+    },
+    {
         "id": "1001",
         "name": "Monedă specială – Operațiunea Payback",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1001.png"
@@ -638,6 +643,11 @@
         "id": "1010",
         "name": "Moneda hărții Library",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1010.png"
+    },
+    {
+        "id": "1012",
+        "name": "Bilet pentru operațiunea Bravo",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1012.png"
     },
     {
         "id": "1013",
@@ -690,6 +700,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1022.png"
     },
     {
+        "id": "1023",
+        "name": "Bilet pentru operațiunea Phoenix",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1023.png"
+    },
+    {
         "id": "1024",
         "name": "Monedă specială – Operațiunea Phoenix",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1024.png"
@@ -703,6 +718,11 @@
         "id": "1026",
         "name": "Monedă de aur – Operațiunea Phoenix",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1026.png"
+    },
+    {
+        "id": "1027",
+        "name": "Bilet cu acces complet pentru operațiunea Breakout",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1027.png"
     },
     {
         "id": "1028",
@@ -1015,6 +1035,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1089.png"
     },
     {
+        "id": "1315",
+        "name": "Bilet de acces pentru operațiunea Vanguard",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1315.png"
+    },
+    {
         "id": "1316",
         "name": "Monedă specială – Operațiunea Vanguard",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1316.png"
@@ -1028,6 +1053,11 @@
         "id": "1318",
         "name": "Monedă de aur – Operațiunea Vanguard",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1318.png"
+    },
+    {
+        "id": "1326",
+        "name": "Bilet de acces pentru operațiunea Bloodhound",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1326.png"
     },
     {
         "id": "1327",
@@ -1053,6 +1083,11 @@
         "id": "1332",
         "name": "Medalie de merit 2015",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1332.png"
+    },
+    {
+        "id": "1335",
+        "name": "Bilet de acces pentru operațiunea Wildfire",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1335.png"
     },
     {
         "id": "1336",
@@ -1098,6 +1133,11 @@
         "id": "1344",
         "name": "Medalie de merit 2016",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1344.png"
+    },
+    {
+        "id": "1352",
+        "name": "Bilet de acces pentru operațiunea Hydra",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-1352.png"
     },
     {
         "id": "1357",
@@ -1215,6 +1255,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4356.png"
     },
     {
+        "id": "4549",
+        "name": "Bilet premium pentru operațiunea Shattered Web",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4549.png"
+    },
+    {
         "id": "4550",
         "name": "Monedă specială – Operațiunea Shattered Web",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4550.png"
@@ -1235,8 +1280,13 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4553.png"
     },
     {
+        "id": "4554",
+        "name": "Katowice 2019 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4554.png"
+    },
+    {
         "id": "4555",
-        "name": "Moneda Katowice 2019",
+        "name": "Katowice 2019 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4555.png"
     },
     {
@@ -1255,8 +1305,13 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4558.png"
     },
     {
+        "id": "4622",
+        "name": "Berlin 2019 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4622.png"
+    },
+    {
         "id": "4623",
-        "name": "Moneda Berlin 2019",
+        "name": "Berlin 2019 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4623.png"
     },
     {
@@ -1273,6 +1328,16 @@
         "id": "4626",
         "name": "Berlin 2019 - Monedă de diamant",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4626.png"
+    },
+    {
+        "id": "4627",
+        "name": "Berlin 2019 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4627.png"
+    },
+    {
+        "id": "4628",
+        "name": "Berlin 2019 - Jeton de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4628.png"
     },
     {
         "id": "4674",
@@ -1360,6 +1425,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4692.png"
     },
     {
+        "id": "4699",
+        "name": "Bilet premium pentru operațiunea Broken Fang",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4699.png"
+    },
+    {
         "id": "4700",
         "name": "Monedă specială – Operațiunea Broken Fang",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4700.png"
@@ -1410,6 +1480,11 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4742.png"
     },
     {
+        "id": "4758",
+        "name": "Bilet premium pentru operațiunea Riptide",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4758.png"
+    },
+    {
         "id": "4759",
         "name": "Monedă specială – Operațiunea Riptide",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4759.png"
@@ -1430,8 +1505,13 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4762.png"
     },
     {
+        "id": "4796",
+        "name": "Stockholm 2021 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4796.png"
+    },
+    {
         "id": "4797",
-        "name": "Moneda Stockholm 2021",
+        "name": "Stockholm 2021 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4797.png"
     },
     {
@@ -1448,6 +1528,16 @@
         "id": "4800",
         "name": "Stockholm 2021 - Monedă de diamant",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4800.png"
+    },
+    {
+        "id": "4801",
+        "name": "Stockholm 2021 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4801.png"
+    },
+    {
+        "id": "4802",
+        "name": "Stockholm 2021 - Jeton de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4802.png"
     },
     {
         "id": "4819",
@@ -1480,8 +1570,13 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4824.png"
     },
     {
+        "id": "4825",
+        "name": "Antwerp 2022 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4825.png"
+    },
+    {
         "id": "4826",
-        "name": "Moneda Antwerp 2022",
+        "name": "Antwerp 2022 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4826.png"
     },
     {
@@ -1500,8 +1595,23 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4829.png"
     },
     {
+        "id": "4830",
+        "name": "Antwerp 2022 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4830.png"
+    },
+    {
+        "id": "4831",
+        "name": "Antwerp 2022 - Jeton de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4831.png"
+    },
+    {
+        "id": "4850",
+        "name": "Rio 2022 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4850.png"
+    },
+    {
         "id": "4851",
-        "name": "Moneda Rio 2022",
+        "name": "Rio 2022 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4851.png"
     },
     {
@@ -1518,6 +1628,16 @@
         "id": "4854",
         "name": "Rio 2022 - Monedă de diamant",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4854.png"
+    },
+    {
+        "id": "4855",
+        "name": "Rio 2022 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4855.png"
+    },
+    {
+        "id": "4856",
+        "name": "Rio 2022 - Jeton de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4856.png"
     },
     {
         "id": "4873",
@@ -1550,8 +1670,13 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4878.png"
     },
     {
+        "id": "4883",
+        "name": "Paris 2023 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4883.png"
+    },
+    {
         "id": "4884",
-        "name": "Moneda Paris 2023",
+        "name": "Paris 2023 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4884.png"
     },
     {
@@ -1568,6 +1693,16 @@
         "id": "4887",
         "name": "Paris 2023 - Monedă de diamant",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4887.png"
+    },
+    {
+        "id": "4888",
+        "name": "Paris 2023 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4888.png"
+    },
+    {
+        "id": "4889",
+        "name": "Paris 2023 - Jeton de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4889.png"
     },
     {
         "id": "4906",
@@ -1600,8 +1735,13 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4911.png"
     },
     {
+        "id": "4916",
+        "name": "Copenhagen 2024 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4916.png"
+    },
+    {
         "id": "4917",
-        "name": "Moneda Copenhagen 2024",
+        "name": "Copenhagen 2024 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4917.png"
     },
     {
@@ -1618,6 +1758,16 @@
         "id": "4920",
         "name": "Copenhagen 2024 - Monedă de diamant",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4920.png"
+    },
+    {
+        "id": "4921",
+        "name": "Copenhagen 2024 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4921.png"
+    },
+    {
+        "id": "4922",
+        "name": "Pachet cu suvenir | Copenhagen 2024",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4922.png"
     },
     {
         "id": "4933",
@@ -1695,8 +1845,13 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4956.png"
     },
     {
+        "id": "4957",
+        "name": "Shanghai 2024 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4957.png"
+    },
+    {
         "id": "4958",
-        "name": "Moneda Shanghai 2024",
+        "name": "Shanghai 2024 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4958.png"
     },
     {
@@ -1713,6 +1868,16 @@
         "id": "4961",
         "name": "Shanghai 2024 - Monedă de diamant",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4961.png"
+    },
+    {
+        "id": "4962",
+        "name": "Shanghai 2024 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4962.png"
+    },
+    {
+        "id": "4963",
+        "name": "Pachet cu suvenir | Shanghai 2024",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-4963.png"
     },
     {
         "id": "4974",
@@ -1940,8 +2105,13 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5022.png"
     },
     {
+        "id": "5110",
+        "name": "Austin 2025 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5110.png"
+    },
+    {
         "id": "5111",
-        "name": "Moneda Austin 2025",
+        "name": "Austin 2025 - Monedă",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5111.png"
     },
     {
@@ -1958,6 +2128,16 @@
         "id": "5114",
         "name": "Austin 2025 - Monedă de diamant",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5114.png"
+    },
+    {
+        "id": "5115",
+        "name": "Austin 2025 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5115.png"
+    },
+    {
+        "id": "5116",
+        "name": "Pachet cu suvenir | Austin 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5116.png"
     },
     {
         "id": "5127",
@@ -2183,6 +2363,316 @@
         "id": "5175",
         "name": "Medalie Premier - Sezonul 3",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5175.png"
+    },
+    {
+        "id": "5177",
+        "name": "Moneda hărții Golden",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5177.png"
+    },
+    {
+        "id": "5178",
+        "name": "Moneda hărții Rooftop",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5178.png"
+    },
+    {
+        "id": "5179",
+        "name": "Moneda hărții Palacio",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5179.png"
+    },
+    {
+        "id": "5180",
+        "name": "Moneda hărții (eliminată)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5180.png"
+    },
+    {
+        "id": "5209",
+        "name": "Budapest 2025 - Bilet de spectator",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5209.png"
+    },
+    {
+        "id": "5210",
+        "name": "Budapest 2025 - Monedă",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5210.png"
+    },
+    {
+        "id": "5211",
+        "name": "Budapest 2025 - Monedă de argint",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5211.png"
+    },
+    {
+        "id": "5212",
+        "name": "Budapest 2025 - Monedă de aur",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5212.png"
+    },
+    {
+        "id": "5213",
+        "name": "Budapest 2025 - Monedă de diamant",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5213.png"
+    },
+    {
+        "id": "5214",
+        "name": "Budapest 2025 - Bilet de spectator + 3 jetoane de suvenir",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5214.png"
+    },
+    {
+        "id": "5215",
+        "name": "Pachet cu suvenir | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5215.png"
+    },
+    {
+        "id": "5226",
+        "name": "Campion la StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5226.png"
+    },
+    {
+        "id": "5227",
+        "name": "Finalist la StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5227.png"
+    },
+    {
+        "id": "5228",
+        "name": "Semifinalist la StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5228.png"
+    },
+    {
+        "id": "5229",
+        "name": "Sfertfinalist la StarLadder Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5229.png"
+    },
+    {
+        "id": "5234",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5234.png"
+    },
+    {
+        "id": "5235",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5235.png"
+    },
+    {
+        "id": "5236",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5236.png"
+    },
+    {
+        "id": "5237",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5237.png"
+    },
+    {
+        "id": "5238",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5238.png"
+    },
+    {
+        "id": "5239",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5239.png"
+    },
+    {
+        "id": "5240",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5240.png"
+    },
+    {
+        "id": "5241",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5241.png"
+    },
+    {
+        "id": "5242",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5242.png"
+    },
+    {
+        "id": "5243",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5243.png"
+    },
+    {
+        "id": "5244",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5244.png"
+    },
+    {
+        "id": "5245",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5245.png"
+    },
+    {
+        "id": "5246",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5246.png"
+    },
+    {
+        "id": "5247",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5247.png"
+    },
+    {
+        "id": "5248",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5248.png"
+    },
+    {
+        "id": "5249",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5249.png"
+    },
+    {
+        "id": "5250",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5250.png"
+    },
+    {
+        "id": "5251",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5251.png"
+    },
+    {
+        "id": "5252",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5252.png"
+    },
+    {
+        "id": "5253",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5253.png"
+    },
+    {
+        "id": "5254",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5254.png"
+    },
+    {
+        "id": "5255",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5255.png"
+    },
+    {
+        "id": "5256",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5256.png"
+    },
+    {
+        "id": "5257",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5257.png"
+    },
+    {
+        "id": "5258",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5258.png"
+    },
+    {
+        "id": "5259",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5259.png"
+    },
+    {
+        "id": "5260",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5260.png"
+    },
+    {
+        "id": "5261",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5261.png"
+    },
+    {
+        "id": "5262",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5262.png"
+    },
+    {
+        "id": "5263",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5263.png"
+    },
+    {
+        "id": "5264",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5264.png"
+    },
+    {
+        "id": "5265",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5265.png"
+    },
+    {
+        "id": "5266",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5266.png"
+    },
+    {
+        "id": "5267",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5267.png"
+    },
+    {
+        "id": "5268",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5268.png"
+    },
+    {
+        "id": "5269",
+        "name": "Medalie Premier - Sezonul 4",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5269.png"
+    },
+    {
+        "id": "5270",
+        "name": "Medalie de merit 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5270.png"
+    },
+    {
+        "id": "5271",
+        "name": "Medalie de merit 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5271.png"
+    },
+    {
+        "id": "5272",
+        "name": "Medalie de merit 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5272.png"
+    },
+    {
+        "id": "5273",
+        "name": "Medalie de merit 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5273.png"
+    },
+    {
+        "id": "5274",
+        "name": "Medalie de merit 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5274.png"
+    },
+    {
+        "id": "5275",
+        "name": "Medalie de merit 2026",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5275.png"
+    },
+    {
+        "id": "5276",
+        "name": "Moneda hărții Warden",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5276.png"
+    },
+    {
+        "id": "5277",
+        "name": "Moneda hărții Stronghold",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5277.png"
+    },
+    {
+        "id": "5278",
+        "name": "Moneda hărții Alpine",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5278.png"
+    },
+    {
+        "id": "5279",
+        "name": "Moneda hărții Poseidon",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5279.png"
+    },
+    {
+        "id": "5280",
+        "name": "Moneda hărții Sanctum",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/collectible-5280.png"
     },
     {
         "id": "6001",

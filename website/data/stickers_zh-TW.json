@@ -1105,29 +1105,9 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-231.png"
     },
     {
-        "id": "232",
-        "name": "貼紙 | 3DMAX | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-232.png"
-    },
-    {
         "id": "233",
         "name": "貼紙 | Copenhagen Wolves | DreamHack 2014",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-233.png"
-    },
-    {
-        "id": "234",
-        "name": "貼紙 | dAT team | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-234.png"
-    },
-    {
-        "id": "235",
-        "name": "貼紙 | London Conspiracy | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-235.png"
-    },
-    {
-        "id": "236",
-        "name": "貼紙 | mousesports | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-236.png"
     },
     {
         "id": "237",
@@ -4925,44 +4905,9 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-998.png"
     },
     {
-        "id": "999",
-        "name": "貼紙 | 重狙手（閃亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-999.png"
-    },
-    {
-        "id": "1000",
-        "name": "貼紙 | 炸彈客（閃亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1000.png"
-    },
-    {
-        "id": "1001",
-        "name": "貼紙 | 槍手（閃亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1001.png"
-    },
-    {
-        "id": "1002",
-        "name": "貼紙 | 領導者（閃亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1002.png"
-    },
-    {
-        "id": "1003",
-        "name": "貼紙 | 擲彈手（閃亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1003.png"
-    },
-    {
-        "id": "1004",
-        "name": "貼紙 | 忍者（閃亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1004.png"
-    },
-    {
         "id": "1005",
         "name": "貼紙 | 專家（閃亮）",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1005.png"
-    },
-    {
-        "id": "1006",
-        "name": "貼紙 | 支援兵（閃亮）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1006.png"
     },
     {
         "id": "1007",
@@ -44248,5 +44193,4155 @@
         "id": "9450",
         "name": "貼紙 | ropz（黃金，冠軍）| Austin 2025",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9450.png"
+    },
+    {
+        "id": "9451",
+        "name": "貼紙 | 蜜糖蘋果",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9451.png"
+    },
+    {
+        "id": "9452",
+        "name": "貼紙 | 立方體黑幫",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9452.png"
+    },
+    {
+        "id": "9453",
+        "name": "貼紙 | 法蘿之眼",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9453.png"
+    },
+    {
+        "id": "9454",
+        "name": "貼紙 | 漸層芒果",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9454.png"
+    },
+    {
+        "id": "9455",
+        "name": "貼紙 | 戴上手套",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9455.png"
+    },
+    {
+        "id": "9456",
+        "name": "貼紙 | 鎖定",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9456.png"
+    },
+    {
+        "id": "9457",
+        "name": "貼紙 | 仿生膠囊",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9457.png"
+    },
+    {
+        "id": "9458",
+        "name": "貼紙 | 碰碰小波",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9458.png"
+    },
+    {
+        "id": "9459",
+        "name": "貼紙 | POTS",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9459.png"
+    },
+    {
+        "id": "9460",
+        "name": "貼紙 | 射出愛意",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9460.png"
+    },
+    {
+        "id": "9461",
+        "name": "貼紙 | 背後殺手",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9461.png"
+    },
+    {
+        "id": "9462",
+        "name": "貼紙 | 罪惡游標",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9462.png"
+    },
+    {
+        "id": "9463",
+        "name": "貼紙 | CT 足跡（炫光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9463.png"
+    },
+    {
+        "id": "9464",
+        "name": "貼紙 | 超載（炫光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9464.png"
+    },
+    {
+        "id": "9465",
+        "name": "貼紙 | T 足跡（炫光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9465.png"
+    },
+    {
+        "id": "9466",
+        "name": "貼紙 | 炸彈已設置（彩光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9466.png"
+    },
+    {
+        "id": "9467",
+        "name": "貼紙 | 彩鉻圓盔（彩光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9467.png"
+    },
+    {
+        "id": "9468",
+        "name": "貼紙 | 小可愛（彩光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9468.png"
+    },
+    {
+        "id": "9469",
+        "name": "貼紙 | 證據（彩光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9469.png"
+    },
+    {
+        "id": "9470",
+        "name": "貼紙 | 起霧鏡（彩光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9470.png"
+    },
+    {
+        "id": "9471",
+        "name": "貼紙 | 不是租的（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9471.png"
+    },
+    {
+        "id": "9472",
+        "name": "貼紙 | 眼看天空（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9472.png"
+    },
+    {
+        "id": "9473",
+        "name": "貼紙 | 完好如新（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9473.png"
+    },
+    {
+        "id": "9474",
+        "name": "貼紙 | 不准碰（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9474.png"
+    },
+    {
+        "id": "9475",
+        "name": "貼紙 | 克瑞斯沃特王（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9475.png"
+    },
+    {
+        "id": "9476",
+        "name": "貼紙 | 艾娃皇后（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9476.png"
+    },
+    {
+        "id": "9477",
+        "name": "貼紙 | 數位出擊（光柵）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9477.png"
+    },
+    {
+        "id": "9478",
+        "name": "貼紙 | 霓虹 MVP（光柵）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9478.png"
+    },
+    {
+        "id": "9479",
+        "name": "貼紙 | 彈孔（光柵）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9479.png"
+    },
+    {
+        "id": "9480",
+        "name": "貼紙 | 克拉維斯",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9480.png"
+    },
+    {
+        "id": "9481",
+        "name": "貼紙 | 洛雷娜",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9481.png"
+    },
+    {
+        "id": "9482",
+        "name": "貼紙 | 盧卡斯",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9482.png"
+    },
+    {
+        "id": "9483",
+        "name": "貼紙 | 克拉維斯（彩光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9483.png"
+    },
+    {
+        "id": "9484",
+        "name": "貼紙 | 洛雷娜（彩光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9484.png"
+    },
+    {
+        "id": "9485",
+        "name": "貼紙 | 盧卡斯（彩光）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9485.png"
+    },
+    {
+        "id": "9486",
+        "name": "貼紙 | 克拉維斯（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9486.png"
+    },
+    {
+        "id": "9487",
+        "name": "貼紙 | 洛雷娜（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9487.png"
+    },
+    {
+        "id": "9488",
+        "name": "貼紙 | 盧卡斯（閃亮）",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9488.png"
+    },
+    {
+        "id": "9489",
+        "name": "貼紙 | FURIA | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9489.png"
+    },
+    {
+        "id": "9490",
+        "name": "貼紙 | FURIA（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9490.png"
+    },
+    {
+        "id": "9491",
+        "name": "貼紙 | FURIA（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9491.png"
+    },
+    {
+        "id": "9492",
+        "name": "貼紙 | FURIA（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9492.png"
+    },
+    {
+        "id": "9493",
+        "name": "貼紙 | Vitality | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9493.png"
+    },
+    {
+        "id": "9494",
+        "name": "貼紙 | Vitality（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9494.png"
+    },
+    {
+        "id": "9495",
+        "name": "貼紙 | Vitality（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9495.png"
+    },
+    {
+        "id": "9496",
+        "name": "貼紙 | Vitality（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9496.png"
+    },
+    {
+        "id": "9497",
+        "name": "貼紙 | Falcons | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9497.png"
+    },
+    {
+        "id": "9498",
+        "name": "貼紙 | Falcons（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9498.png"
+    },
+    {
+        "id": "9499",
+        "name": "貼紙 | Falcons（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9499.png"
+    },
+    {
+        "id": "9500",
+        "name": "貼紙 | Falcons（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9500.png"
+    },
+    {
+        "id": "9501",
+        "name": "貼紙 | The MongolZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9501.png"
+    },
+    {
+        "id": "9502",
+        "name": "貼紙 | The MongolZ（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9502.png"
+    },
+    {
+        "id": "9503",
+        "name": "貼紙 | The MongolZ（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9503.png"
+    },
+    {
+        "id": "9504",
+        "name": "貼紙 | The MongolZ（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9504.png"
+    },
+    {
+        "id": "9505",
+        "name": "貼紙 | MOUZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9505.png"
+    },
+    {
+        "id": "9506",
+        "name": "貼紙 | MOUZ（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9506.png"
+    },
+    {
+        "id": "9507",
+        "name": "貼紙 | MOUZ（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9507.png"
+    },
+    {
+        "id": "9508",
+        "name": "貼紙 | MOUZ（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9508.png"
+    },
+    {
+        "id": "9509",
+        "name": "貼紙 | Team Spirit | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9509.png"
+    },
+    {
+        "id": "9510",
+        "name": "貼紙 | Team Spirit（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9510.png"
+    },
+    {
+        "id": "9511",
+        "name": "貼紙 | Team Spirit（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9511.png"
+    },
+    {
+        "id": "9512",
+        "name": "貼紙 | Team Spirit（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9512.png"
+    },
+    {
+        "id": "9513",
+        "name": "貼紙 | G2 Esports | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9513.png"
+    },
+    {
+        "id": "9514",
+        "name": "貼紙 | G2 Esports（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9514.png"
+    },
+    {
+        "id": "9515",
+        "name": "貼紙 | G2 Esports（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9515.png"
+    },
+    {
+        "id": "9516",
+        "name": "貼紙 | G2 Esports（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9516.png"
+    },
+    {
+        "id": "9517",
+        "name": "貼紙 | paiN Gaming | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9517.png"
+    },
+    {
+        "id": "9518",
+        "name": "貼紙 | paiN Gaming（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9518.png"
+    },
+    {
+        "id": "9519",
+        "name": "貼紙 | paiN Gaming（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9519.png"
+    },
+    {
+        "id": "9520",
+        "name": "貼紙 | paiN Gaming（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9520.png"
+    },
+    {
+        "id": "9521",
+        "name": "貼紙 | Aurora | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9521.png"
+    },
+    {
+        "id": "9522",
+        "name": "貼紙 | Aurora（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9522.png"
+    },
+    {
+        "id": "9523",
+        "name": "貼紙 | Aurora（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9523.png"
+    },
+    {
+        "id": "9524",
+        "name": "貼紙 | Aurora（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9524.png"
+    },
+    {
+        "id": "9525",
+        "name": "貼紙 | Natus Vincere | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9525.png"
+    },
+    {
+        "id": "9526",
+        "name": "貼紙 | Natus Vincere（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9526.png"
+    },
+    {
+        "id": "9527",
+        "name": "貼紙 | Natus Vincere（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9527.png"
+    },
+    {
+        "id": "9528",
+        "name": "貼紙 | Natus Vincere（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9528.png"
+    },
+    {
+        "id": "9529",
+        "name": "貼紙 | Team Liquid | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9529.png"
+    },
+    {
+        "id": "9530",
+        "name": "貼紙 | Team Liquid（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9530.png"
+    },
+    {
+        "id": "9531",
+        "name": "貼紙 | Team Liquid（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9531.png"
+    },
+    {
+        "id": "9532",
+        "name": "貼紙 | Team Liquid（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9532.png"
+    },
+    {
+        "id": "9533",
+        "name": "貼紙 | 3DMAX | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9533.png"
+    },
+    {
+        "id": "9534",
+        "name": "貼紙 | 3DMAX（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9534.png"
+    },
+    {
+        "id": "9535",
+        "name": "貼紙 | 3DMAX（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9535.png"
+    },
+    {
+        "id": "9536",
+        "name": "貼紙 | 3DMAX（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9536.png"
+    },
+    {
+        "id": "9537",
+        "name": "貼紙 | Astralis | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9537.png"
+    },
+    {
+        "id": "9538",
+        "name": "貼紙 | Astralis（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9538.png"
+    },
+    {
+        "id": "9539",
+        "name": "貼紙 | Astralis（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9539.png"
+    },
+    {
+        "id": "9540",
+        "name": "貼紙 | Astralis（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9540.png"
+    },
+    {
+        "id": "9541",
+        "name": "貼紙 | Tyloo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9541.png"
+    },
+    {
+        "id": "9542",
+        "name": "貼紙 | Tyloo（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9542.png"
+    },
+    {
+        "id": "9543",
+        "name": "貼紙 | Tyloo（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9543.png"
+    },
+    {
+        "id": "9544",
+        "name": "貼紙 | Tyloo（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9544.png"
+    },
+    {
+        "id": "9545",
+        "name": "貼紙 | MIBR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9545.png"
+    },
+    {
+        "id": "9546",
+        "name": "貼紙 | MIBR（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9546.png"
+    },
+    {
+        "id": "9547",
+        "name": "貼紙 | MIBR（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9547.png"
+    },
+    {
+        "id": "9548",
+        "name": "貼紙 | MIBR（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9548.png"
+    },
+    {
+        "id": "9549",
+        "name": "貼紙 | Passion UA | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9549.png"
+    },
+    {
+        "id": "9550",
+        "name": "貼紙 | Passion UA（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9550.png"
+    },
+    {
+        "id": "9551",
+        "name": "貼紙 | Passion UA（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9551.png"
+    },
+    {
+        "id": "9552",
+        "name": "貼紙 | Passion UA（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9552.png"
+    },
+    {
+        "id": "9553",
+        "name": "貼紙 | Legacy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9553.png"
+    },
+    {
+        "id": "9554",
+        "name": "貼紙 | Legacy（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9554.png"
+    },
+    {
+        "id": "9555",
+        "name": "貼紙 | Legacy（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9555.png"
+    },
+    {
+        "id": "9556",
+        "name": "貼紙 | Legacy（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9556.png"
+    },
+    {
+        "id": "9557",
+        "name": "貼紙 | FaZe Clan | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9557.png"
+    },
+    {
+        "id": "9558",
+        "name": "貼紙 | FaZe Clan（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9558.png"
+    },
+    {
+        "id": "9559",
+        "name": "貼紙 | FaZe Clan（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9559.png"
+    },
+    {
+        "id": "9560",
+        "name": "貼紙 | FaZe Clan（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9560.png"
+    },
+    {
+        "id": "9561",
+        "name": "貼紙 | B8 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9561.png"
+    },
+    {
+        "id": "9562",
+        "name": "貼紙 | B8（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9562.png"
+    },
+    {
+        "id": "9563",
+        "name": "貼紙 | B8（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9563.png"
+    },
+    {
+        "id": "9564",
+        "name": "貼紙 | B8（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9564.png"
+    },
+    {
+        "id": "9565",
+        "name": "貼紙 | GamerLegion | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9565.png"
+    },
+    {
+        "id": "9566",
+        "name": "貼紙 | GamerLegion（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9566.png"
+    },
+    {
+        "id": "9567",
+        "name": "貼紙 | GamerLegion（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9567.png"
+    },
+    {
+        "id": "9568",
+        "name": "貼紙 | GamerLegion（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9568.png"
+    },
+    {
+        "id": "9569",
+        "name": "貼紙 | Fnatic | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9569.png"
+    },
+    {
+        "id": "9570",
+        "name": "貼紙 | Fnatic（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9570.png"
+    },
+    {
+        "id": "9571",
+        "name": "貼紙 | Fnatic（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9571.png"
+    },
+    {
+        "id": "9572",
+        "name": "貼紙 | Fnatic（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9572.png"
+    },
+    {
+        "id": "9573",
+        "name": "貼紙 | Parivision | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9573.png"
+    },
+    {
+        "id": "9574",
+        "name": "貼紙 | Parivision（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9574.png"
+    },
+    {
+        "id": "9575",
+        "name": "貼紙 | Parivision（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9575.png"
+    },
+    {
+        "id": "9576",
+        "name": "貼紙 | Parivision（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9576.png"
+    },
+    {
+        "id": "9577",
+        "name": "貼紙 | Ninjas in Pyjamas | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9577.png"
+    },
+    {
+        "id": "9578",
+        "name": "貼紙 | Ninjas in Pyjamas（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9578.png"
+    },
+    {
+        "id": "9579",
+        "name": "貼紙 | Ninjas in Pyjamas（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9579.png"
+    },
+    {
+        "id": "9580",
+        "name": "貼紙 | Ninjas in Pyjamas（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9580.png"
+    },
+    {
+        "id": "9581",
+        "name": "貼紙 | Imperial Esports | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9581.png"
+    },
+    {
+        "id": "9582",
+        "name": "貼紙 | Imperial Esports（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9582.png"
+    },
+    {
+        "id": "9583",
+        "name": "貼紙 | Imperial Esports（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9583.png"
+    },
+    {
+        "id": "9584",
+        "name": "貼紙 | Imperial Esports（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9584.png"
+    },
+    {
+        "id": "9585",
+        "name": "貼紙 | Flyquest | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9585.png"
+    },
+    {
+        "id": "9586",
+        "name": "貼紙 | Flyquest（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9586.png"
+    },
+    {
+        "id": "9587",
+        "name": "貼紙 | Flyquest（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9587.png"
+    },
+    {
+        "id": "9588",
+        "name": "貼紙 | Flyquest（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9588.png"
+    },
+    {
+        "id": "9589",
+        "name": "貼紙 | Lynn Vision | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9589.png"
+    },
+    {
+        "id": "9590",
+        "name": "貼紙 | Lynn Vision（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9590.png"
+    },
+    {
+        "id": "9591",
+        "name": "貼紙 | Lynn Vision（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9591.png"
+    },
+    {
+        "id": "9592",
+        "name": "貼紙 | Lynn Vision（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9592.png"
+    },
+    {
+        "id": "9593",
+        "name": "貼紙 | M80 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9593.png"
+    },
+    {
+        "id": "9594",
+        "name": "貼紙 | M80（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9594.png"
+    },
+    {
+        "id": "9595",
+        "name": "貼紙 | M80（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9595.png"
+    },
+    {
+        "id": "9596",
+        "name": "貼紙 | M80（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9596.png"
+    },
+    {
+        "id": "9597",
+        "name": "貼紙 | Fluxo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9597.png"
+    },
+    {
+        "id": "9598",
+        "name": "貼紙 | Fluxo（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9598.png"
+    },
+    {
+        "id": "9599",
+        "name": "貼紙 | Fluxo（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9599.png"
+    },
+    {
+        "id": "9600",
+        "name": "貼紙 | Fluxo（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9600.png"
+    },
+    {
+        "id": "9601",
+        "name": "貼紙 | RED Canids | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9601.png"
+    },
+    {
+        "id": "9602",
+        "name": "貼紙 | RED Canids（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9602.png"
+    },
+    {
+        "id": "9603",
+        "name": "貼紙 | RED Canids（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9603.png"
+    },
+    {
+        "id": "9604",
+        "name": "貼紙 | RED Canids（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9604.png"
+    },
+    {
+        "id": "9605",
+        "name": "貼紙 | The Huns | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9605.png"
+    },
+    {
+        "id": "9606",
+        "name": "貼紙 | The Huns（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9606.png"
+    },
+    {
+        "id": "9607",
+        "name": "貼紙 | The Huns（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9607.png"
+    },
+    {
+        "id": "9608",
+        "name": "貼紙 | The Huns（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9608.png"
+    },
+    {
+        "id": "9609",
+        "name": "貼紙 | NRG | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9609.png"
+    },
+    {
+        "id": "9610",
+        "name": "貼紙 | NRG（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9610.png"
+    },
+    {
+        "id": "9611",
+        "name": "貼紙 | NRG（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9611.png"
+    },
+    {
+        "id": "9612",
+        "name": "貼紙 | NRG（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9612.png"
+    },
+    {
+        "id": "9613",
+        "name": "貼紙 | Rare Atom | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9613.png"
+    },
+    {
+        "id": "9614",
+        "name": "貼紙 | Rare Atom（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9614.png"
+    },
+    {
+        "id": "9615",
+        "name": "貼紙 | Rare Atom（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9615.png"
+    },
+    {
+        "id": "9616",
+        "name": "貼紙 | Rare Atom（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9616.png"
+    },
+    {
+        "id": "9617",
+        "name": "貼紙 | StarLadder | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9617.png"
+    },
+    {
+        "id": "9618",
+        "name": "貼紙 | StarLadder（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9618.png"
+    },
+    {
+        "id": "9619",
+        "name": "貼紙 | StarLadder （彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9619.png"
+    },
+    {
+        "id": "9620",
+        "name": "貼紙 | StarLadder （黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9620.png"
+    },
+    {
+        "id": "9654",
+        "name": "貼紙 | FalleN | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9654.png"
+    },
+    {
+        "id": "9655",
+        "name": "貼紙 | FalleN（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9655.png"
+    },
+    {
+        "id": "9656",
+        "name": "貼紙 | FalleN（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9656.png"
+    },
+    {
+        "id": "9657",
+        "name": "貼紙 | FalleN（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9657.png"
+    },
+    {
+        "id": "9658",
+        "name": "貼紙 | KSCERATO | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9658.png"
+    },
+    {
+        "id": "9659",
+        "name": "貼紙 | KSCERATO（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9659.png"
+    },
+    {
+        "id": "9660",
+        "name": "貼紙 | KSCERATO（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9660.png"
+    },
+    {
+        "id": "9661",
+        "name": "貼紙 | KSCERATO（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9661.png"
+    },
+    {
+        "id": "9662",
+        "name": "貼紙 | molodoy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9662.png"
+    },
+    {
+        "id": "9663",
+        "name": "貼紙 | molodoy（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9663.png"
+    },
+    {
+        "id": "9664",
+        "name": "貼紙 | molodoy（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9664.png"
+    },
+    {
+        "id": "9665",
+        "name": "貼紙 | molodoy（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9665.png"
+    },
+    {
+        "id": "9666",
+        "name": "貼紙 | YEKINDAR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9666.png"
+    },
+    {
+        "id": "9667",
+        "name": "貼紙 | YEKINDAR（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9667.png"
+    },
+    {
+        "id": "9668",
+        "name": "貼紙 | YEKINDAR（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9668.png"
+    },
+    {
+        "id": "9669",
+        "name": "貼紙 | YEKINDAR（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9669.png"
+    },
+    {
+        "id": "9670",
+        "name": "貼紙 | yuurih | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9670.png"
+    },
+    {
+        "id": "9671",
+        "name": "貼紙 | yuurih（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9671.png"
+    },
+    {
+        "id": "9672",
+        "name": "貼紙 | yuurih（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9672.png"
+    },
+    {
+        "id": "9673",
+        "name": "貼紙 | yuurih（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9673.png"
+    },
+    {
+        "id": "9674",
+        "name": "貼紙 | apEX | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9674.png"
+    },
+    {
+        "id": "9675",
+        "name": "貼紙 | apEX（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9675.png"
+    },
+    {
+        "id": "9676",
+        "name": "貼紙 | apEX（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9676.png"
+    },
+    {
+        "id": "9677",
+        "name": "貼紙 | apEX（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9677.png"
+    },
+    {
+        "id": "9678",
+        "name": "貼紙 | FlameZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9678.png"
+    },
+    {
+        "id": "9679",
+        "name": "貼紙 | FlameZ（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9679.png"
+    },
+    {
+        "id": "9680",
+        "name": "貼紙 | FlameZ（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9680.png"
+    },
+    {
+        "id": "9681",
+        "name": "貼紙 | FlameZ（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9681.png"
+    },
+    {
+        "id": "9682",
+        "name": "貼紙 | mezii | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9682.png"
+    },
+    {
+        "id": "9683",
+        "name": "貼紙 | mezii（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9683.png"
+    },
+    {
+        "id": "9684",
+        "name": "貼紙 | mezii（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9684.png"
+    },
+    {
+        "id": "9685",
+        "name": "貼紙 | mezii（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9685.png"
+    },
+    {
+        "id": "9686",
+        "name": "貼紙 | ropz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9686.png"
+    },
+    {
+        "id": "9687",
+        "name": "貼紙 | ropz（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9687.png"
+    },
+    {
+        "id": "9688",
+        "name": "貼紙 | ropz（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9688.png"
+    },
+    {
+        "id": "9689",
+        "name": "貼紙 | ropz（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9689.png"
+    },
+    {
+        "id": "9690",
+        "name": "貼紙 | ZywOo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9690.png"
+    },
+    {
+        "id": "9691",
+        "name": "貼紙 | ZywOo（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9691.png"
+    },
+    {
+        "id": "9692",
+        "name": "貼紙 | ZywOo（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9692.png"
+    },
+    {
+        "id": "9693",
+        "name": "貼紙 | ZywOo（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9693.png"
+    },
+    {
+        "id": "9694",
+        "name": "貼紙 | kyousuke | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9694.png"
+    },
+    {
+        "id": "9695",
+        "name": "貼紙 | kyousuke（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9695.png"
+    },
+    {
+        "id": "9696",
+        "name": "貼紙 | kyousuke（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9696.png"
+    },
+    {
+        "id": "9697",
+        "name": "貼紙 | kyousuke（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9697.png"
+    },
+    {
+        "id": "9698",
+        "name": "貼紙 | kyxsan | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9698.png"
+    },
+    {
+        "id": "9699",
+        "name": "貼紙 | kyxsan（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9699.png"
+    },
+    {
+        "id": "9700",
+        "name": "貼紙 | kyxsan（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9700.png"
+    },
+    {
+        "id": "9701",
+        "name": "貼紙 | kyxsan（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9701.png"
+    },
+    {
+        "id": "9702",
+        "name": "貼紙 | m0NESY | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9702.png"
+    },
+    {
+        "id": "9703",
+        "name": "貼紙 | m0NESY（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9703.png"
+    },
+    {
+        "id": "9704",
+        "name": "貼紙 | m0NESY（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9704.png"
+    },
+    {
+        "id": "9705",
+        "name": "貼紙 | m0NESY（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9705.png"
+    },
+    {
+        "id": "9706",
+        "name": "貼紙 | NiKo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9706.png"
+    },
+    {
+        "id": "9707",
+        "name": "貼紙 | NiKo（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9707.png"
+    },
+    {
+        "id": "9708",
+        "name": "貼紙 | NiKo（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9708.png"
+    },
+    {
+        "id": "9709",
+        "name": "貼紙 | NiKo（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9709.png"
+    },
+    {
+        "id": "9710",
+        "name": "貼紙 | TeSeS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9710.png"
+    },
+    {
+        "id": "9711",
+        "name": "貼紙 | TeSeS（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9711.png"
+    },
+    {
+        "id": "9712",
+        "name": "貼紙 | TeSeS（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9712.png"
+    },
+    {
+        "id": "9713",
+        "name": "貼紙 | TeSeS（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9713.png"
+    },
+    {
+        "id": "9714",
+        "name": "貼紙 | 910 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9714.png"
+    },
+    {
+        "id": "9715",
+        "name": "貼紙 | 910（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9715.png"
+    },
+    {
+        "id": "9716",
+        "name": "貼紙 | 910（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9716.png"
+    },
+    {
+        "id": "9717",
+        "name": "貼紙 | 910（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9717.png"
+    },
+    {
+        "id": "9718",
+        "name": "貼紙 | bLitz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9718.png"
+    },
+    {
+        "id": "9719",
+        "name": "貼紙 | bLitz（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9719.png"
+    },
+    {
+        "id": "9720",
+        "name": "貼紙 | bLitz（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9720.png"
+    },
+    {
+        "id": "9721",
+        "name": "貼紙 | bLitz（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9721.png"
+    },
+    {
+        "id": "9722",
+        "name": "貼紙 | mzinho | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9722.png"
+    },
+    {
+        "id": "9723",
+        "name": "貼紙 | mzinho（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9723.png"
+    },
+    {
+        "id": "9724",
+        "name": "貼紙 | mzinho（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9724.png"
+    },
+    {
+        "id": "9725",
+        "name": "貼紙 | mzinho（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9725.png"
+    },
+    {
+        "id": "9726",
+        "name": "貼紙 | Senzu | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9726.png"
+    },
+    {
+        "id": "9727",
+        "name": "貼紙 | Senzu（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9727.png"
+    },
+    {
+        "id": "9728",
+        "name": "貼紙 | Senzu（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9728.png"
+    },
+    {
+        "id": "9729",
+        "name": "貼紙 | Senzu（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9729.png"
+    },
+    {
+        "id": "9730",
+        "name": "貼紙 | Techno4K | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9730.png"
+    },
+    {
+        "id": "9731",
+        "name": "貼紙 | Techno4K（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9731.png"
+    },
+    {
+        "id": "9732",
+        "name": "貼紙 | Techno4K（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9732.png"
+    },
+    {
+        "id": "9733",
+        "name": "貼紙 | Techno4K（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9733.png"
+    },
+    {
+        "id": "9734",
+        "name": "貼紙 | Brollan | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9734.png"
+    },
+    {
+        "id": "9735",
+        "name": "貼紙 | Brollan（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9735.png"
+    },
+    {
+        "id": "9736",
+        "name": "貼紙 | Brollan（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9736.png"
+    },
+    {
+        "id": "9737",
+        "name": "貼紙 | Brollan（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9737.png"
+    },
+    {
+        "id": "9738",
+        "name": "貼紙 | Jimpphat | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9738.png"
+    },
+    {
+        "id": "9739",
+        "name": "貼紙 | Jimpphat（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9739.png"
+    },
+    {
+        "id": "9740",
+        "name": "貼紙 | Jimpphat（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9740.png"
+    },
+    {
+        "id": "9741",
+        "name": "貼紙 | Jimpphat（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9741.png"
+    },
+    {
+        "id": "9742",
+        "name": "貼紙 | Spinx | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9742.png"
+    },
+    {
+        "id": "9743",
+        "name": "貼紙 | Spinx（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9743.png"
+    },
+    {
+        "id": "9744",
+        "name": "貼紙 | Spinx（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9744.png"
+    },
+    {
+        "id": "9745",
+        "name": "貼紙 | Spinx（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9745.png"
+    },
+    {
+        "id": "9746",
+        "name": "貼紙 | torzsi | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9746.png"
+    },
+    {
+        "id": "9747",
+        "name": "貼紙 | torzsi（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9747.png"
+    },
+    {
+        "id": "9748",
+        "name": "貼紙 | torzsi（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9748.png"
+    },
+    {
+        "id": "9749",
+        "name": "貼紙 | torzsi（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9749.png"
+    },
+    {
+        "id": "9750",
+        "name": "貼紙 | xertioN | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9750.png"
+    },
+    {
+        "id": "9751",
+        "name": "貼紙 | xertioN（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9751.png"
+    },
+    {
+        "id": "9752",
+        "name": "貼紙 | xertioN（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9752.png"
+    },
+    {
+        "id": "9753",
+        "name": "貼紙 | xertioN（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9753.png"
+    },
+    {
+        "id": "9754",
+        "name": "貼紙 | chopper | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9754.png"
+    },
+    {
+        "id": "9755",
+        "name": "貼紙 | chopper（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9755.png"
+    },
+    {
+        "id": "9756",
+        "name": "貼紙 | chopper（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9756.png"
+    },
+    {
+        "id": "9757",
+        "name": "貼紙 | chopper（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9757.png"
+    },
+    {
+        "id": "9758",
+        "name": "貼紙 | donk | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9758.png"
+    },
+    {
+        "id": "9759",
+        "name": "貼紙 | donk（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9759.png"
+    },
+    {
+        "id": "9760",
+        "name": "貼紙 | donk（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9760.png"
+    },
+    {
+        "id": "9761",
+        "name": "貼紙 | donk（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9761.png"
+    },
+    {
+        "id": "9762",
+        "name": "貼紙 | sh1ro | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9762.png"
+    },
+    {
+        "id": "9763",
+        "name": "貼紙 | sh1ro（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9763.png"
+    },
+    {
+        "id": "9764",
+        "name": "貼紙 | sh1ro（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9764.png"
+    },
+    {
+        "id": "9765",
+        "name": "貼紙 | sh1ro（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9765.png"
+    },
+    {
+        "id": "9766",
+        "name": "貼紙 | zont1x | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9766.png"
+    },
+    {
+        "id": "9767",
+        "name": "貼紙 | zont1x（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9767.png"
+    },
+    {
+        "id": "9768",
+        "name": "貼紙 | zont1x（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9768.png"
+    },
+    {
+        "id": "9769",
+        "name": "貼紙 | zont1x（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9769.png"
+    },
+    {
+        "id": "9770",
+        "name": "貼紙 | zweih | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9770.png"
+    },
+    {
+        "id": "9771",
+        "name": "貼紙 | zweih（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9771.png"
+    },
+    {
+        "id": "9772",
+        "name": "貼紙 | zweih（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9772.png"
+    },
+    {
+        "id": "9773",
+        "name": "貼紙 | zweih（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9773.png"
+    },
+    {
+        "id": "9774",
+        "name": "貼紙 | Heavygod | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9774.png"
+    },
+    {
+        "id": "9775",
+        "name": "貼紙 | Heavygod（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9775.png"
+    },
+    {
+        "id": "9776",
+        "name": "貼紙 | Heavygod（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9776.png"
+    },
+    {
+        "id": "9777",
+        "name": "貼紙 | Heavygod（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9777.png"
+    },
+    {
+        "id": "9778",
+        "name": "貼紙 | huNter- | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9778.png"
+    },
+    {
+        "id": "9779",
+        "name": "貼紙 | huNter-（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9779.png"
+    },
+    {
+        "id": "9780",
+        "name": "貼紙 | huNter-（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9780.png"
+    },
+    {
+        "id": "9781",
+        "name": "貼紙 | huNter-（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9781.png"
+    },
+    {
+        "id": "9782",
+        "name": "貼紙 | malbsMd | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9782.png"
+    },
+    {
+        "id": "9783",
+        "name": "貼紙 | malbsMd（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9783.png"
+    },
+    {
+        "id": "9784",
+        "name": "貼紙 | malbsMd（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9784.png"
+    },
+    {
+        "id": "9785",
+        "name": "貼紙 | malbsMd（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9785.png"
+    },
+    {
+        "id": "9786",
+        "name": "貼紙 | MATYS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9786.png"
+    },
+    {
+        "id": "9787",
+        "name": "貼紙 | MATYS（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9787.png"
+    },
+    {
+        "id": "9788",
+        "name": "貼紙 | MATYS（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9788.png"
+    },
+    {
+        "id": "9789",
+        "name": "貼紙 | MATYS（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9789.png"
+    },
+    {
+        "id": "9790",
+        "name": "貼紙 | SunPayus | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9790.png"
+    },
+    {
+        "id": "9791",
+        "name": "貼紙 | SunPayus（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9791.png"
+    },
+    {
+        "id": "9792",
+        "name": "貼紙 | SunPayus（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9792.png"
+    },
+    {
+        "id": "9793",
+        "name": "貼紙 | SunPayus（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9793.png"
+    },
+    {
+        "id": "9794",
+        "name": "貼紙 | biguzera | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9794.png"
+    },
+    {
+        "id": "9795",
+        "name": "貼紙 | biguzera（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9795.png"
+    },
+    {
+        "id": "9796",
+        "name": "貼紙 | biguzera（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9796.png"
+    },
+    {
+        "id": "9797",
+        "name": "貼紙 | biguzera（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9797.png"
+    },
+    {
+        "id": "9798",
+        "name": "貼紙 | dav1deuS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9798.png"
+    },
+    {
+        "id": "9799",
+        "name": "貼紙 | dav1deuS（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9799.png"
+    },
+    {
+        "id": "9800",
+        "name": "貼紙 | dav1deuS（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9800.png"
+    },
+    {
+        "id": "9801",
+        "name": "貼紙 | dav1deuS（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9801.png"
+    },
+    {
+        "id": "9802",
+        "name": "貼紙 | dgt | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9802.png"
+    },
+    {
+        "id": "9803",
+        "name": "貼紙 | dgt（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9803.png"
+    },
+    {
+        "id": "9804",
+        "name": "貼紙 | dgt（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9804.png"
+    },
+    {
+        "id": "9805",
+        "name": "貼紙 | dgt（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9805.png"
+    },
+    {
+        "id": "9806",
+        "name": "貼紙 | NQZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9806.png"
+    },
+    {
+        "id": "9807",
+        "name": "貼紙 | NQZ（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9807.png"
+    },
+    {
+        "id": "9808",
+        "name": "貼紙 | NQZ（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9808.png"
+    },
+    {
+        "id": "9809",
+        "name": "貼紙 | NQZ（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9809.png"
+    },
+    {
+        "id": "9810",
+        "name": "貼紙 | snow | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9810.png"
+    },
+    {
+        "id": "9811",
+        "name": "貼紙 | snow（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9811.png"
+    },
+    {
+        "id": "9812",
+        "name": "貼紙 | snow（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9812.png"
+    },
+    {
+        "id": "9813",
+        "name": "貼紙 | snow（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9813.png"
+    },
+    {
+        "id": "9814",
+        "name": "貼紙 | jottAAA | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9814.png"
+    },
+    {
+        "id": "9815",
+        "name": "貼紙 | jottAAA（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9815.png"
+    },
+    {
+        "id": "9816",
+        "name": "貼紙 | jottAAA（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9816.png"
+    },
+    {
+        "id": "9817",
+        "name": "貼紙 | jottAAA（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9817.png"
+    },
+    {
+        "id": "9818",
+        "name": "貼紙 | MAJ3R | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9818.png"
+    },
+    {
+        "id": "9819",
+        "name": "貼紙 | MAJ3R（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9819.png"
+    },
+    {
+        "id": "9820",
+        "name": "貼紙 | MAJ3R（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9820.png"
+    },
+    {
+        "id": "9821",
+        "name": "貼紙 | MAJ3R（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9821.png"
+    },
+    {
+        "id": "9822",
+        "name": "貼紙 | Wicadia | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9822.png"
+    },
+    {
+        "id": "9823",
+        "name": "貼紙 | Wicadia（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9823.png"
+    },
+    {
+        "id": "9824",
+        "name": "貼紙 | Wicadia（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9824.png"
+    },
+    {
+        "id": "9825",
+        "name": "貼紙 | Wicadia（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9825.png"
+    },
+    {
+        "id": "9826",
+        "name": "貼紙 | woxic | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9826.png"
+    },
+    {
+        "id": "9827",
+        "name": "貼紙 | woxic（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9827.png"
+    },
+    {
+        "id": "9828",
+        "name": "貼紙 | woxic（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9828.png"
+    },
+    {
+        "id": "9829",
+        "name": "貼紙 | woxic（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9829.png"
+    },
+    {
+        "id": "9830",
+        "name": "貼紙 | XANTARES | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9830.png"
+    },
+    {
+        "id": "9831",
+        "name": "貼紙 | XANTARES（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9831.png"
+    },
+    {
+        "id": "9832",
+        "name": "貼紙 | XANTARES（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9832.png"
+    },
+    {
+        "id": "9833",
+        "name": "貼紙 | XANTARES（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9833.png"
+    },
+    {
+        "id": "9834",
+        "name": "貼紙 | Aleksib | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9834.png"
+    },
+    {
+        "id": "9835",
+        "name": "貼紙 | Aleksib（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9835.png"
+    },
+    {
+        "id": "9836",
+        "name": "貼紙 | Aleksib（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9836.png"
+    },
+    {
+        "id": "9837",
+        "name": "貼紙 | Aleksib（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9837.png"
+    },
+    {
+        "id": "9838",
+        "name": "貼紙 | b1t | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9838.png"
+    },
+    {
+        "id": "9839",
+        "name": "貼紙 | b1t（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9839.png"
+    },
+    {
+        "id": "9840",
+        "name": "貼紙 | b1t（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9840.png"
+    },
+    {
+        "id": "9841",
+        "name": "貼紙 | b1t（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9841.png"
+    },
+    {
+        "id": "9842",
+        "name": "貼紙 | iM | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9842.png"
+    },
+    {
+        "id": "9843",
+        "name": "貼紙 | iM（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9843.png"
+    },
+    {
+        "id": "9844",
+        "name": "貼紙 | iM（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9844.png"
+    },
+    {
+        "id": "9845",
+        "name": "貼紙 | iM（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9845.png"
+    },
+    {
+        "id": "9846",
+        "name": "貼紙 | makazze | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9846.png"
+    },
+    {
+        "id": "9847",
+        "name": "貼紙 | makazze（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9847.png"
+    },
+    {
+        "id": "9848",
+        "name": "貼紙 | makazze（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9848.png"
+    },
+    {
+        "id": "9849",
+        "name": "貼紙 | makazze（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9849.png"
+    },
+    {
+        "id": "9850",
+        "name": "貼紙 | w0nderful | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9850.png"
+    },
+    {
+        "id": "9851",
+        "name": "貼紙 | w0nderful（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9851.png"
+    },
+    {
+        "id": "9852",
+        "name": "貼紙 | w0nderful（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9852.png"
+    },
+    {
+        "id": "9853",
+        "name": "貼紙 | w0nderful（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9853.png"
+    },
+    {
+        "id": "9854",
+        "name": "貼紙 | EliGE | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9854.png"
+    },
+    {
+        "id": "9855",
+        "name": "貼紙 | EliGE（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9855.png"
+    },
+    {
+        "id": "9856",
+        "name": "貼紙 | EliGE（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9856.png"
+    },
+    {
+        "id": "9857",
+        "name": "貼紙 | EliGE（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9857.png"
+    },
+    {
+        "id": "9858",
+        "name": "貼紙 | NAF | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9858.png"
+    },
+    {
+        "id": "9859",
+        "name": "貼紙 | NAF（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9859.png"
+    },
+    {
+        "id": "9860",
+        "name": "貼紙 | NAF（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9860.png"
+    },
+    {
+        "id": "9861",
+        "name": "貼紙 | NAF（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9861.png"
+    },
+    {
+        "id": "9862",
+        "name": "貼紙 | NertZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9862.png"
+    },
+    {
+        "id": "9863",
+        "name": "貼紙 | NertZ（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9863.png"
+    },
+    {
+        "id": "9864",
+        "name": "貼紙 | NertZ（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9864.png"
+    },
+    {
+        "id": "9865",
+        "name": "貼紙 | NertZ（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9865.png"
+    },
+    {
+        "id": "9866",
+        "name": "貼紙 | siuhy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9866.png"
+    },
+    {
+        "id": "9867",
+        "name": "貼紙 | siuhy（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9867.png"
+    },
+    {
+        "id": "9868",
+        "name": "貼紙 | siuhy（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9868.png"
+    },
+    {
+        "id": "9869",
+        "name": "貼紙 | siuhy（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9869.png"
+    },
+    {
+        "id": "9870",
+        "name": "貼紙 | ultimate | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9870.png"
+    },
+    {
+        "id": "9871",
+        "name": "貼紙 | ultimate（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9871.png"
+    },
+    {
+        "id": "9872",
+        "name": "貼紙 | ultimate（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9872.png"
+    },
+    {
+        "id": "9873",
+        "name": "貼紙 | ultimate（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9873.png"
+    },
+    {
+        "id": "9874",
+        "name": "貼紙 | bodyy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9874.png"
+    },
+    {
+        "id": "9875",
+        "name": "貼紙 | bodyy（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9875.png"
+    },
+    {
+        "id": "9876",
+        "name": "貼紙 | bodyy（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9876.png"
+    },
+    {
+        "id": "9877",
+        "name": "貼紙 | bodyy（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9877.png"
+    },
+    {
+        "id": "9878",
+        "name": "貼紙 | Ex3rcice | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9878.png"
+    },
+    {
+        "id": "9879",
+        "name": "貼紙 | Ex3rcice（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9879.png"
+    },
+    {
+        "id": "9880",
+        "name": "貼紙 | Ex3rcice（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9880.png"
+    },
+    {
+        "id": "9881",
+        "name": "貼紙 | Ex3rcice（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9881.png"
+    },
+    {
+        "id": "9882",
+        "name": "貼紙 | Graviti | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9882.png"
+    },
+    {
+        "id": "9883",
+        "name": "貼紙 | Graviti（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9883.png"
+    },
+    {
+        "id": "9884",
+        "name": "貼紙 | Graviti（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9884.png"
+    },
+    {
+        "id": "9885",
+        "name": "貼紙 | Graviti（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9885.png"
+    },
+    {
+        "id": "9886",
+        "name": "貼紙 | Lucky | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9886.png"
+    },
+    {
+        "id": "9887",
+        "name": "貼紙 | Lucky（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9887.png"
+    },
+    {
+        "id": "9888",
+        "name": "貼紙 | Lucky（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9888.png"
+    },
+    {
+        "id": "9889",
+        "name": "貼紙 | Lucky（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9889.png"
+    },
+    {
+        "id": "9890",
+        "name": "貼紙 | Maka | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9890.png"
+    },
+    {
+        "id": "9891",
+        "name": "貼紙 | Maka（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9891.png"
+    },
+    {
+        "id": "9892",
+        "name": "貼紙 | Maka（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9892.png"
+    },
+    {
+        "id": "9893",
+        "name": "貼紙 | Maka（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9893.png"
+    },
+    {
+        "id": "9894",
+        "name": "貼紙 | device | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9894.png"
+    },
+    {
+        "id": "9895",
+        "name": "貼紙 | device（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9895.png"
+    },
+    {
+        "id": "9896",
+        "name": "貼紙 | device（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9896.png"
+    },
+    {
+        "id": "9897",
+        "name": "貼紙 | device（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9897.png"
+    },
+    {
+        "id": "9898",
+        "name": "貼紙 | HooXi | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9898.png"
+    },
+    {
+        "id": "9899",
+        "name": "貼紙 | HooXi（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9899.png"
+    },
+    {
+        "id": "9900",
+        "name": "貼紙 | HooXi（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9900.png"
+    },
+    {
+        "id": "9901",
+        "name": "貼紙 | HooXi（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9901.png"
+    },
+    {
+        "id": "9902",
+        "name": "貼紙 | jabbi | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9902.png"
+    },
+    {
+        "id": "9903",
+        "name": "貼紙 | jabbi（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9903.png"
+    },
+    {
+        "id": "9904",
+        "name": "貼紙 | jabbi（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9904.png"
+    },
+    {
+        "id": "9905",
+        "name": "貼紙 | jabbi（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9905.png"
+    },
+    {
+        "id": "9906",
+        "name": "貼紙 | Magisk | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9906.png"
+    },
+    {
+        "id": "9907",
+        "name": "貼紙 | Magisk（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9907.png"
+    },
+    {
+        "id": "9908",
+        "name": "貼紙 | Magisk（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9908.png"
+    },
+    {
+        "id": "9909",
+        "name": "貼紙 | Magisk（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9909.png"
+    },
+    {
+        "id": "9910",
+        "name": "貼紙 | Staehr | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9910.png"
+    },
+    {
+        "id": "9911",
+        "name": "貼紙 | Staehr（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9911.png"
+    },
+    {
+        "id": "9912",
+        "name": "貼紙 | Staehr（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9912.png"
+    },
+    {
+        "id": "9913",
+        "name": "貼紙 | Staehr（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9913.png"
+    },
+    {
+        "id": "9914",
+        "name": "貼紙 | Attacker | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9914.png"
+    },
+    {
+        "id": "9915",
+        "name": "貼紙 | Attacker（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9915.png"
+    },
+    {
+        "id": "9916",
+        "name": "貼紙 | Attacker（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9916.png"
+    },
+    {
+        "id": "9917",
+        "name": "貼紙 | Attacker（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9917.png"
+    },
+    {
+        "id": "9918",
+        "name": "貼紙 | JamYoung | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9918.png"
+    },
+    {
+        "id": "9919",
+        "name": "貼紙 | JamYoung（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9919.png"
+    },
+    {
+        "id": "9920",
+        "name": "貼紙 | JamYoung（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9920.png"
+    },
+    {
+        "id": "9921",
+        "name": "貼紙 | JamYoung（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9921.png"
+    },
+    {
+        "id": "9922",
+        "name": "貼紙 | Jee | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9922.png"
+    },
+    {
+        "id": "9923",
+        "name": "貼紙 | Jee（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9923.png"
+    },
+    {
+        "id": "9924",
+        "name": "貼紙 | Jee（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9924.png"
+    },
+    {
+        "id": "9925",
+        "name": "貼紙 | Jee（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9925.png"
+    },
+    {
+        "id": "9926",
+        "name": "貼紙 | Mercury | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9926.png"
+    },
+    {
+        "id": "9927",
+        "name": "貼紙 | Mercury（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9927.png"
+    },
+    {
+        "id": "9928",
+        "name": "貼紙 | Mercury（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9928.png"
+    },
+    {
+        "id": "9929",
+        "name": "貼紙 | Mercury（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9929.png"
+    },
+    {
+        "id": "9930",
+        "name": "貼紙 | Moseyuh | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9930.png"
+    },
+    {
+        "id": "9931",
+        "name": "貼紙 | Moseyuh（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9931.png"
+    },
+    {
+        "id": "9932",
+        "name": "貼紙 | Moseyuh（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9932.png"
+    },
+    {
+        "id": "9933",
+        "name": "貼紙 | Moseyuh（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9933.png"
+    },
+    {
+        "id": "9934",
+        "name": "貼紙 | brnz4n | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9934.png"
+    },
+    {
+        "id": "9935",
+        "name": "貼紙 | brnz4n（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9935.png"
+    },
+    {
+        "id": "9936",
+        "name": "貼紙 | brnz4n（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9936.png"
+    },
+    {
+        "id": "9937",
+        "name": "貼紙 | brnz4n（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9937.png"
+    },
+    {
+        "id": "9938",
+        "name": "貼紙 | exit | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9938.png"
+    },
+    {
+        "id": "9939",
+        "name": "貼紙 | exit（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9939.png"
+    },
+    {
+        "id": "9940",
+        "name": "貼紙 | exit（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9940.png"
+    },
+    {
+        "id": "9941",
+        "name": "貼紙 | exit（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9941.png"
+    },
+    {
+        "id": "9942",
+        "name": "貼紙 | insani | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9942.png"
+    },
+    {
+        "id": "9943",
+        "name": "貼紙 | insani（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9943.png"
+    },
+    {
+        "id": "9944",
+        "name": "貼紙 | insani（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9944.png"
+    },
+    {
+        "id": "9945",
+        "name": "貼紙 | insani（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9945.png"
+    },
+    {
+        "id": "9946",
+        "name": "貼紙 | kl1m | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9946.png"
+    },
+    {
+        "id": "9947",
+        "name": "貼紙 | kl1m（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9947.png"
+    },
+    {
+        "id": "9948",
+        "name": "貼紙 | kl1m（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9948.png"
+    },
+    {
+        "id": "9949",
+        "name": "貼紙 | kl1m（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9949.png"
+    },
+    {
+        "id": "9950",
+        "name": "貼紙 | qikert | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9950.png"
+    },
+    {
+        "id": "9951",
+        "name": "貼紙 | qikert（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9951.png"
+    },
+    {
+        "id": "9952",
+        "name": "貼紙 | qikert（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9952.png"
+    },
+    {
+        "id": "9953",
+        "name": "貼紙 | qikert（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9953.png"
+    },
+    {
+        "id": "9954",
+        "name": "貼紙 | Grim | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9954.png"
+    },
+    {
+        "id": "9955",
+        "name": "貼紙 | Grim（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9955.png"
+    },
+    {
+        "id": "9956",
+        "name": "貼紙 | Grim（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9956.png"
+    },
+    {
+        "id": "9957",
+        "name": "貼紙 | Grim（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9957.png"
+    },
+    {
+        "id": "9958",
+        "name": "貼紙 | hallzerk | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9958.png"
+    },
+    {
+        "id": "9959",
+        "name": "貼紙 | hallzerk（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9959.png"
+    },
+    {
+        "id": "9960",
+        "name": "貼紙 | hallzerk（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9960.png"
+    },
+    {
+        "id": "9961",
+        "name": "貼紙 | hallzerk（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9961.png"
+    },
+    {
+        "id": "9962",
+        "name": "貼紙 | JT | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9962.png"
+    },
+    {
+        "id": "9963",
+        "name": "貼紙 | JT（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9963.png"
+    },
+    {
+        "id": "9964",
+        "name": "貼紙 | JT（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9964.png"
+    },
+    {
+        "id": "9965",
+        "name": "貼紙 | JT（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9965.png"
+    },
+    {
+        "id": "9966",
+        "name": "貼紙 | Kvem | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9966.png"
+    },
+    {
+        "id": "9967",
+        "name": "貼紙 | Kvem（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9967.png"
+    },
+    {
+        "id": "9968",
+        "name": "貼紙 | Kvem（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9968.png"
+    },
+    {
+        "id": "9969",
+        "name": "貼紙 | Kvem（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9969.png"
+    },
+    {
+        "id": "9970",
+        "name": "貼紙 | nicx | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9970.png"
+    },
+    {
+        "id": "9971",
+        "name": "貼紙 | nicx（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9971.png"
+    },
+    {
+        "id": "9972",
+        "name": "貼紙 | nicx（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9972.png"
+    },
+    {
+        "id": "9973",
+        "name": "貼紙 | nicx（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9973.png"
+    },
+    {
+        "id": "9974",
+        "name": "貼紙 | dumau | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9974.png"
+    },
+    {
+        "id": "9975",
+        "name": "貼紙 | dumau（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9975.png"
+    },
+    {
+        "id": "9976",
+        "name": "貼紙 | dumau（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9976.png"
+    },
+    {
+        "id": "9977",
+        "name": "貼紙 | dumau（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9977.png"
+    },
+    {
+        "id": "9978",
+        "name": "貼紙 | latto | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9978.png"
+    },
+    {
+        "id": "9979",
+        "name": "貼紙 | latto（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9979.png"
+    },
+    {
+        "id": "9980",
+        "name": "貼紙 | latto（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9980.png"
+    },
+    {
+        "id": "9981",
+        "name": "貼紙 | latto（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9981.png"
+    },
+    {
+        "id": "9982",
+        "name": "貼紙 | lux | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9982.png"
+    },
+    {
+        "id": "9983",
+        "name": "貼紙 | lux（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9983.png"
+    },
+    {
+        "id": "9984",
+        "name": "貼紙 | lux（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9984.png"
+    },
+    {
+        "id": "9985",
+        "name": "貼紙 | lux（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9985.png"
+    },
+    {
+        "id": "9986",
+        "name": "貼紙 | n1ssim | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9986.png"
+    },
+    {
+        "id": "9987",
+        "name": "貼紙 | n1ssim（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9987.png"
+    },
+    {
+        "id": "9988",
+        "name": "貼紙 | n1ssim（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9988.png"
+    },
+    {
+        "id": "9989",
+        "name": "貼紙 | n1ssim（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9989.png"
+    },
+    {
+        "id": "9990",
+        "name": "貼紙 | saadzin | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9990.png"
+    },
+    {
+        "id": "9991",
+        "name": "貼紙 | saadzin（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9991.png"
+    },
+    {
+        "id": "9992",
+        "name": "貼紙 | saadzin（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9992.png"
+    },
+    {
+        "id": "9993",
+        "name": "貼紙 | saadzin（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9993.png"
+    },
+    {
+        "id": "9994",
+        "name": "貼紙 | broky | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9994.png"
+    },
+    {
+        "id": "9995",
+        "name": "貼紙 | broky（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9995.png"
+    },
+    {
+        "id": "9996",
+        "name": "貼紙 | broky（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9996.png"
+    },
+    {
+        "id": "9997",
+        "name": "貼紙 | broky（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9997.png"
+    },
+    {
+        "id": "9998",
+        "name": "貼紙 | frozen | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9998.png"
+    },
+    {
+        "id": "9999",
+        "name": "貼紙 | frozen（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9999.png"
+    },
+    {
+        "id": "10000",
+        "name": "貼紙 | frozen（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10000.png"
+    },
+    {
+        "id": "10001",
+        "name": "貼紙 | frozen（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10001.png"
+    },
+    {
+        "id": "10002",
+        "name": "貼紙 | jcobbb | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10002.png"
+    },
+    {
+        "id": "10003",
+        "name": "貼紙 | jcobbb（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10003.png"
+    },
+    {
+        "id": "10004",
+        "name": "貼紙 | jcobbb（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10004.png"
+    },
+    {
+        "id": "10005",
+        "name": "貼紙 | jcobbb（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10005.png"
+    },
+    {
+        "id": "10006",
+        "name": "貼紙 | karrigan | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10006.png"
+    },
+    {
+        "id": "10007",
+        "name": "貼紙 | karrigan（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10007.png"
+    },
+    {
+        "id": "10008",
+        "name": "貼紙 | karrigan（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10008.png"
+    },
+    {
+        "id": "10009",
+        "name": "貼紙 | karrigan（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10009.png"
+    },
+    {
+        "id": "10010",
+        "name": "貼紙 | rain | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10010.png"
+    },
+    {
+        "id": "10011",
+        "name": "貼紙 | rain（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10011.png"
+    },
+    {
+        "id": "10012",
+        "name": "貼紙 | rain（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10012.png"
+    },
+    {
+        "id": "10013",
+        "name": "貼紙 | rain（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10013.png"
+    },
+    {
+        "id": "10014",
+        "name": "貼紙 | alex666 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10014.png"
+    },
+    {
+        "id": "10015",
+        "name": "貼紙 | alex666（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10015.png"
+    },
+    {
+        "id": "10016",
+        "name": "貼紙 | alex666（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10016.png"
+    },
+    {
+        "id": "10017",
+        "name": "貼紙 | alex666（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10017.png"
+    },
+    {
+        "id": "10018",
+        "name": "貼紙 | esenthial | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10018.png"
+    },
+    {
+        "id": "10019",
+        "name": "貼紙 | esenthial（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10019.png"
+    },
+    {
+        "id": "10020",
+        "name": "貼紙 | esenthial（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10020.png"
+    },
+    {
+        "id": "10021",
+        "name": "貼紙 | esenthial（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10021.png"
+    },
+    {
+        "id": "10022",
+        "name": "貼紙 | headtr1ck | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10022.png"
+    },
+    {
+        "id": "10023",
+        "name": "貼紙 | headtr1ck（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10023.png"
+    },
+    {
+        "id": "10024",
+        "name": "貼紙 | headtr1ck（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10024.png"
+    },
+    {
+        "id": "10025",
+        "name": "貼紙 | headtr1ck（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10025.png"
+    },
+    {
+        "id": "10026",
+        "name": "貼紙 | kensizor | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10026.png"
+    },
+    {
+        "id": "10027",
+        "name": "貼紙 | kensizor（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10027.png"
+    },
+    {
+        "id": "10028",
+        "name": "貼紙 | kensizor（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10028.png"
+    },
+    {
+        "id": "10029",
+        "name": "貼紙 | kensizor（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10029.png"
+    },
+    {
+        "id": "10030",
+        "name": "貼紙 | npl | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10030.png"
+    },
+    {
+        "id": "10031",
+        "name": "貼紙 | npl（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10031.png"
+    },
+    {
+        "id": "10032",
+        "name": "貼紙 | npl（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10032.png"
+    },
+    {
+        "id": "10033",
+        "name": "貼紙 | npl（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10033.png"
+    },
+    {
+        "id": "10034",
+        "name": "貼紙 | Kursy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10034.png"
+    },
+    {
+        "id": "10035",
+        "name": "貼紙 | Kursy（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10035.png"
+    },
+    {
+        "id": "10036",
+        "name": "貼紙 | Kursy（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10036.png"
+    },
+    {
+        "id": "10037",
+        "name": "貼紙 | Kursy（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10037.png"
+    },
+    {
+        "id": "10038",
+        "name": "貼紙 | PR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10038.png"
+    },
+    {
+        "id": "10039",
+        "name": "貼紙 | PR（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10039.png"
+    },
+    {
+        "id": "10040",
+        "name": "貼紙 | PR（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10040.png"
+    },
+    {
+        "id": "10041",
+        "name": "貼紙 | PR（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10041.png"
+    },
+    {
+        "id": "10042",
+        "name": "貼紙 | REZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10042.png"
+    },
+    {
+        "id": "10043",
+        "name": "貼紙 | REZ（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10043.png"
+    },
+    {
+        "id": "10044",
+        "name": "貼紙 | REZ（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10044.png"
+    },
+    {
+        "id": "10045",
+        "name": "貼紙 | REZ（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10045.png"
+    },
+    {
+        "id": "10046",
+        "name": "貼紙 | Tauson | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10046.png"
+    },
+    {
+        "id": "10047",
+        "name": "貼紙 | Tauson（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10047.png"
+    },
+    {
+        "id": "10048",
+        "name": "貼紙 | Tauson（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10048.png"
+    },
+    {
+        "id": "10049",
+        "name": "貼紙 | Tauson（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10049.png"
+    },
+    {
+        "id": "10050",
+        "name": "貼紙 | ztr | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10050.png"
+    },
+    {
+        "id": "10051",
+        "name": "貼紙 | ztr（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10051.png"
+    },
+    {
+        "id": "10052",
+        "name": "貼紙 | ztr（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10052.png"
+    },
+    {
+        "id": "10053",
+        "name": "貼紙 | ztr（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10053.png"
+    },
+    {
+        "id": "10054",
+        "name": "貼紙 | blameF | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10054.png"
+    },
+    {
+        "id": "10055",
+        "name": "貼紙 | blameF（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10055.png"
+    },
+    {
+        "id": "10056",
+        "name": "貼紙 | blameF（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10056.png"
+    },
+    {
+        "id": "10057",
+        "name": "貼紙 | blameF（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10057.png"
+    },
+    {
+        "id": "10058",
+        "name": "貼紙 | Cypher | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10058.png"
+    },
+    {
+        "id": "10059",
+        "name": "貼紙 | Cypher（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10059.png"
+    },
+    {
+        "id": "10060",
+        "name": "貼紙 | Cypher（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10060.png"
+    },
+    {
+        "id": "10061",
+        "name": "貼紙 | Cypher（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10061.png"
+    },
+    {
+        "id": "10062",
+        "name": "貼紙 | fEAR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10062.png"
+    },
+    {
+        "id": "10063",
+        "name": "貼紙 | fEAR（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10063.png"
+    },
+    {
+        "id": "10064",
+        "name": "貼紙 | fEAR（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10064.png"
+    },
+    {
+        "id": "10065",
+        "name": "貼紙 | fEAR（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10065.png"
+    },
+    {
+        "id": "10066",
+        "name": "貼紙 | jambo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10066.png"
+    },
+    {
+        "id": "10067",
+        "name": "貼紙 | jambo（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10067.png"
+    },
+    {
+        "id": "10068",
+        "name": "貼紙 | jambo（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10068.png"
+    },
+    {
+        "id": "10069",
+        "name": "貼紙 | jambo（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10069.png"
+    },
+    {
+        "id": "10070",
+        "name": "貼紙 | KRIMZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10070.png"
+    },
+    {
+        "id": "10071",
+        "name": "貼紙 | KRIMZ（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10071.png"
+    },
+    {
+        "id": "10072",
+        "name": "貼紙 | KRIMZ（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10072.png"
+    },
+    {
+        "id": "10073",
+        "name": "貼紙 | KRIMZ（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10073.png"
+    },
+    {
+        "id": "10074",
+        "name": "貼紙 | AW | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10074.png"
+    },
+    {
+        "id": "10075",
+        "name": "貼紙 | AW（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10075.png"
+    },
+    {
+        "id": "10076",
+        "name": "貼紙 | AW（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10076.png"
+    },
+    {
+        "id": "10077",
+        "name": "貼紙 | AW（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10077.png"
+    },
+    {
+        "id": "10078",
+        "name": "貼紙 | BELCHONOKK | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10078.png"
+    },
+    {
+        "id": "10079",
+        "name": "貼紙 | BELCHONOKK（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10079.png"
+    },
+    {
+        "id": "10080",
+        "name": "貼紙 | BELCHONOKK（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10080.png"
+    },
+    {
+        "id": "10081",
+        "name": "貼紙 | BELCHONOKK（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10081.png"
+    },
+    {
+        "id": "10082",
+        "name": "貼紙 | Jame | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10082.png"
+    },
+    {
+        "id": "10083",
+        "name": "貼紙 | Jame（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10083.png"
+    },
+    {
+        "id": "10084",
+        "name": "貼紙 | Jame（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10084.png"
+    },
+    {
+        "id": "10085",
+        "name": "貼紙 | Jame（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10085.png"
+    },
+    {
+        "id": "10086",
+        "name": "貼紙 | nota | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10086.png"
+    },
+    {
+        "id": "10087",
+        "name": "貼紙 | nota（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10087.png"
+    },
+    {
+        "id": "10088",
+        "name": "貼紙 | nota（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10088.png"
+    },
+    {
+        "id": "10089",
+        "name": "貼紙 | nota（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10089.png"
+    },
+    {
+        "id": "10090",
+        "name": "貼紙 | xiELO | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10090.png"
+    },
+    {
+        "id": "10091",
+        "name": "貼紙 | xiELO（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10091.png"
+    },
+    {
+        "id": "10092",
+        "name": "貼紙 | xiELO（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10092.png"
+    },
+    {
+        "id": "10093",
+        "name": "貼紙 | xiELO（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10093.png"
+    },
+    {
+        "id": "10094",
+        "name": "貼紙 | ewjerkz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10094.png"
+    },
+    {
+        "id": "10095",
+        "name": "貼紙 | ewjerkz（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10095.png"
+    },
+    {
+        "id": "10096",
+        "name": "貼紙 | ewjerkz（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10096.png"
+    },
+    {
+        "id": "10097",
+        "name": "貼紙 | ewjerkz（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10097.png"
+    },
+    {
+        "id": "10098",
+        "name": "貼紙 | r1nkle | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10098.png"
+    },
+    {
+        "id": "10099",
+        "name": "貼紙 | r1nkle（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10099.png"
+    },
+    {
+        "id": "10100",
+        "name": "貼紙 | r1nkle（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10100.png"
+    },
+    {
+        "id": "10101",
+        "name": "貼紙 | r1nkle（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10101.png"
+    },
+    {
+        "id": "10102",
+        "name": "貼紙 | sjuush | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10102.png"
+    },
+    {
+        "id": "10103",
+        "name": "貼紙 | sjuush（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10103.png"
+    },
+    {
+        "id": "10104",
+        "name": "貼紙 | sjuush（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10104.png"
+    },
+    {
+        "id": "10105",
+        "name": "貼紙 | sjuush（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10105.png"
+    },
+    {
+        "id": "10106",
+        "name": "貼紙 | Snappi | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10106.png"
+    },
+    {
+        "id": "10107",
+        "name": "貼紙 | Snappi（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10107.png"
+    },
+    {
+        "id": "10108",
+        "name": "貼紙 | Snappi（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10108.png"
+    },
+    {
+        "id": "10109",
+        "name": "貼紙 | Snappi（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10109.png"
+    },
+    {
+        "id": "10110",
+        "name": "貼紙 | xKacpersky | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10110.png"
+    },
+    {
+        "id": "10111",
+        "name": "貼紙 | xKacpersky（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10111.png"
+    },
+    {
+        "id": "10112",
+        "name": "貼紙 | xKacpersky（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10112.png"
+    },
+    {
+        "id": "10113",
+        "name": "貼紙 | xKacpersky（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10113.png"
+    },
+    {
+        "id": "10114",
+        "name": "貼紙 | chelo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10114.png"
+    },
+    {
+        "id": "10115",
+        "name": "貼紙 | chelo（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10115.png"
+    },
+    {
+        "id": "10116",
+        "name": "貼紙 | chelo（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10116.png"
+    },
+    {
+        "id": "10117",
+        "name": "貼紙 | chelo（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10117.png"
+    },
+    {
+        "id": "10118",
+        "name": "貼紙 | noway | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10118.png"
+    },
+    {
+        "id": "10119",
+        "name": "貼紙 | noway（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10119.png"
+    },
+    {
+        "id": "10120",
+        "name": "貼紙 | noway（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10120.png"
+    },
+    {
+        "id": "10121",
+        "name": "貼紙 | noway（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10121.png"
+    },
+    {
+        "id": "10122",
+        "name": "貼紙 | skullz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10122.png"
+    },
+    {
+        "id": "10123",
+        "name": "貼紙 | skullz（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10123.png"
+    },
+    {
+        "id": "10124",
+        "name": "貼紙 | skullz（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10124.png"
+    },
+    {
+        "id": "10125",
+        "name": "貼紙 | skullz（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10125.png"
+    },
+    {
+        "id": "10126",
+        "name": "貼紙 | TRY | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10126.png"
+    },
+    {
+        "id": "10127",
+        "name": "貼紙 | TRY（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10127.png"
+    },
+    {
+        "id": "10128",
+        "name": "貼紙 | TRY（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10128.png"
+    },
+    {
+        "id": "10129",
+        "name": "貼紙 | TRY（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10129.png"
+    },
+    {
+        "id": "10130",
+        "name": "貼紙 | VINI | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10130.png"
+    },
+    {
+        "id": "10131",
+        "name": "貼紙 | VINI（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10131.png"
+    },
+    {
+        "id": "10132",
+        "name": "貼紙 | VINI（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10132.png"
+    },
+    {
+        "id": "10133",
+        "name": "貼紙 | VINI（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10133.png"
+    },
+    {
+        "id": "10134",
+        "name": "貼紙 | INS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10134.png"
+    },
+    {
+        "id": "10135",
+        "name": "貼紙 | INS（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10135.png"
+    },
+    {
+        "id": "10136",
+        "name": "貼紙 | INS（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10136.png"
+    },
+    {
+        "id": "10137",
+        "name": "貼紙 | INS（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10137.png"
+    },
+    {
+        "id": "10138",
+        "name": "貼紙 | jks | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10138.png"
+    },
+    {
+        "id": "10139",
+        "name": "貼紙 | jks（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10139.png"
+    },
+    {
+        "id": "10140",
+        "name": "貼紙 | jks（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10140.png"
+    },
+    {
+        "id": "10141",
+        "name": "貼紙 | jks（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10141.png"
+    },
+    {
+        "id": "10142",
+        "name": "貼紙 | nettik | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10142.png"
+    },
+    {
+        "id": "10143",
+        "name": "貼紙 | nettik（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10143.png"
+    },
+    {
+        "id": "10144",
+        "name": "貼紙 | nettik（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10144.png"
+    },
+    {
+        "id": "10145",
+        "name": "貼紙 | nettik（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10145.png"
+    },
+    {
+        "id": "10146",
+        "name": "貼紙 | regali | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10146.png"
+    },
+    {
+        "id": "10147",
+        "name": "貼紙 | regali（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10147.png"
+    },
+    {
+        "id": "10148",
+        "name": "貼紙 | regali（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10148.png"
+    },
+    {
+        "id": "10149",
+        "name": "貼紙 | regali（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10149.png"
+    },
+    {
+        "id": "10150",
+        "name": "貼紙 | vexite | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10150.png"
+    },
+    {
+        "id": "10151",
+        "name": "貼紙 | vexite（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10151.png"
+    },
+    {
+        "id": "10152",
+        "name": "貼紙 | vexite（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10152.png"
+    },
+    {
+        "id": "10153",
+        "name": "貼紙 | vexite（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10153.png"
+    },
+    {
+        "id": "10154",
+        "name": "貼紙 | C4LLM3SU3 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10154.png"
+    },
+    {
+        "id": "10155",
+        "name": "貼紙 | C4LLM3SU3（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10155.png"
+    },
+    {
+        "id": "10156",
+        "name": "貼紙 | C4LLM3SU3（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10156.png"
+    },
+    {
+        "id": "10157",
+        "name": "貼紙 | C4LLM3SU3（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10157.png"
+    },
+    {
+        "id": "10158",
+        "name": "貼紙 | EmiliaQAQ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10158.png"
+    },
+    {
+        "id": "10159",
+        "name": "貼紙 | EmiliaQAQ（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10159.png"
+    },
+    {
+        "id": "10160",
+        "name": "貼紙 | EmiliaQAQ（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10160.png"
+    },
+    {
+        "id": "10161",
+        "name": "貼紙 | EmiliaQAQ（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10161.png"
+    },
+    {
+        "id": "10162",
+        "name": "貼紙 | Starry | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10162.png"
+    },
+    {
+        "id": "10163",
+        "name": "貼紙 | Starry（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10163.png"
+    },
+    {
+        "id": "10164",
+        "name": "貼紙 | Starry（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10164.png"
+    },
+    {
+        "id": "10165",
+        "name": "貼紙 | Starry（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10165.png"
+    },
+    {
+        "id": "10166",
+        "name": "貼紙 | westmelon | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10166.png"
+    },
+    {
+        "id": "10167",
+        "name": "貼紙 | westmelon（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10167.png"
+    },
+    {
+        "id": "10168",
+        "name": "貼紙 | westmelon（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10168.png"
+    },
+    {
+        "id": "10169",
+        "name": "貼紙 | westmelon（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10169.png"
+    },
+    {
+        "id": "10170",
+        "name": "貼紙 | z4KR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10170.png"
+    },
+    {
+        "id": "10171",
+        "name": "貼紙 | z4KR（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10171.png"
+    },
+    {
+        "id": "10172",
+        "name": "貼紙 | z4KR（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10172.png"
+    },
+    {
+        "id": "10173",
+        "name": "貼紙 | z4KR（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10173.png"
+    },
+    {
+        "id": "10174",
+        "name": "貼紙 | HexT | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10174.png"
+    },
+    {
+        "id": "10175",
+        "name": "貼紙 | HexT（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10175.png"
+    },
+    {
+        "id": "10176",
+        "name": "貼紙 | HexT（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10176.png"
+    },
+    {
+        "id": "10177",
+        "name": "貼紙 | HexT（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10177.png"
+    },
+    {
+        "id": "10178",
+        "name": "貼紙 | Lake | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10178.png"
+    },
+    {
+        "id": "10179",
+        "name": "貼紙 | Lake（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10179.png"
+    },
+    {
+        "id": "10180",
+        "name": "貼紙 | Lake（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10180.png"
+    },
+    {
+        "id": "10181",
+        "name": "貼紙 | Lake（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10181.png"
+    },
+    {
+        "id": "10182",
+        "name": "貼紙 | s1n | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10182.png"
+    },
+    {
+        "id": "10183",
+        "name": "貼紙 | s1n（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10183.png"
+    },
+    {
+        "id": "10184",
+        "name": "貼紙 | s1n（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10184.png"
+    },
+    {
+        "id": "10185",
+        "name": "貼紙 | s1n（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10185.png"
+    },
+    {
+        "id": "10186",
+        "name": "貼紙 | slaxz- | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10186.png"
+    },
+    {
+        "id": "10187",
+        "name": "貼紙 | slaxz-（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10187.png"
+    },
+    {
+        "id": "10188",
+        "name": "貼紙 | slaxz-（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10188.png"
+    },
+    {
+        "id": "10189",
+        "name": "貼紙 | slaxz-（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10189.png"
+    },
+    {
+        "id": "10190",
+        "name": "貼紙 | Swisher | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10190.png"
+    },
+    {
+        "id": "10191",
+        "name": "貼紙 | Swisher（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10191.png"
+    },
+    {
+        "id": "10192",
+        "name": "貼紙 | Swisher（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10192.png"
+    },
+    {
+        "id": "10193",
+        "name": "貼紙 | Swisher（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10193.png"
+    },
+    {
+        "id": "10194",
+        "name": "貼紙 | arT | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10194.png"
+    },
+    {
+        "id": "10195",
+        "name": "貼紙 | arT（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10195.png"
+    },
+    {
+        "id": "10196",
+        "name": "貼紙 | arT（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10196.png"
+    },
+    {
+        "id": "10197",
+        "name": "貼紙 | arT（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10197.png"
+    },
+    {
+        "id": "10198",
+        "name": "貼紙 | decenty | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10198.png"
+    },
+    {
+        "id": "10199",
+        "name": "貼紙 | decenty（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10199.png"
+    },
+    {
+        "id": "10200",
+        "name": "貼紙 | decenty（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10200.png"
+    },
+    {
+        "id": "10201",
+        "name": "貼紙 | decenty（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10201.png"
+    },
+    {
+        "id": "10202",
+        "name": "貼紙 | kye | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10202.png"
+    },
+    {
+        "id": "10203",
+        "name": "貼紙 | kye（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10203.png"
+    },
+    {
+        "id": "10204",
+        "name": "貼紙 | kye（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10204.png"
+    },
+    {
+        "id": "10205",
+        "name": "貼紙 | kye（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10205.png"
+    },
+    {
+        "id": "10206",
+        "name": "貼紙 | Lucaozy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10206.png"
+    },
+    {
+        "id": "10207",
+        "name": "貼紙 | Lucaozy（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10207.png"
+    },
+    {
+        "id": "10208",
+        "name": "貼紙 | Lucaozy（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10208.png"
+    },
+    {
+        "id": "10209",
+        "name": "貼紙 | Lucaozy（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10209.png"
+    },
+    {
+        "id": "10210",
+        "name": "貼紙 | zevy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10210.png"
+    },
+    {
+        "id": "10211",
+        "name": "貼紙 | zevy（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10211.png"
+    },
+    {
+        "id": "10212",
+        "name": "貼紙 | zevy（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10212.png"
+    },
+    {
+        "id": "10213",
+        "name": "貼紙 | zevy（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10213.png"
+    },
+    {
+        "id": "10214",
+        "name": "貼紙 | chayJESUS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10214.png"
+    },
+    {
+        "id": "10215",
+        "name": "貼紙 | chayJESUS（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10215.png"
+    },
+    {
+        "id": "10216",
+        "name": "貼紙 | chayJESUS（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10216.png"
+    },
+    {
+        "id": "10217",
+        "name": "貼紙 | chayJESUS（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10217.png"
+    },
+    {
+        "id": "10218",
+        "name": "貼紙 | drop | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10218.png"
+    },
+    {
+        "id": "10219",
+        "name": "貼紙 | drop（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10219.png"
+    },
+    {
+        "id": "10220",
+        "name": "貼紙 | drop（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10220.png"
+    },
+    {
+        "id": "10221",
+        "name": "貼紙 | drop（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10221.png"
+    },
+    {
+        "id": "10222",
+        "name": "貼紙 | History | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10222.png"
+    },
+    {
+        "id": "10223",
+        "name": "貼紙 | History（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10223.png"
+    },
+    {
+        "id": "10224",
+        "name": "貼紙 | History（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10224.png"
+    },
+    {
+        "id": "10225",
+        "name": "貼紙 | History（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10225.png"
+    },
+    {
+        "id": "10226",
+        "name": "貼紙 | kauez | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10226.png"
+    },
+    {
+        "id": "10227",
+        "name": "貼紙 | kauez（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10227.png"
+    },
+    {
+        "id": "10228",
+        "name": "貼紙 | kauez（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10228.png"
+    },
+    {
+        "id": "10229",
+        "name": "貼紙 | kauez（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10229.png"
+    },
+    {
+        "id": "10230",
+        "name": "貼紙 | venomzera | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10230.png"
+    },
+    {
+        "id": "10231",
+        "name": "貼紙 | venomzera（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10231.png"
+    },
+    {
+        "id": "10232",
+        "name": "貼紙 | venomzera（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10232.png"
+    },
+    {
+        "id": "10233",
+        "name": "貼紙 | venomzera（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10233.png"
+    },
+    {
+        "id": "10234",
+        "name": "貼紙 | Bart4k | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10234.png"
+    },
+    {
+        "id": "10235",
+        "name": "貼紙 | Bart4k（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10235.png"
+    },
+    {
+        "id": "10236",
+        "name": "貼紙 | Bart4k（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10236.png"
+    },
+    {
+        "id": "10237",
+        "name": "貼紙 | Bart4k（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10237.png"
+    },
+    {
+        "id": "10238",
+        "name": "貼紙 | cobra | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10238.png"
+    },
+    {
+        "id": "10239",
+        "name": "貼紙 | cobra（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10239.png"
+    },
+    {
+        "id": "10240",
+        "name": "貼紙 | cobra（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10240.png"
+    },
+    {
+        "id": "10241",
+        "name": "貼紙 | cobra（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10241.png"
+    },
+    {
+        "id": "10242",
+        "name": "貼紙 | nin9 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10242.png"
+    },
+    {
+        "id": "10243",
+        "name": "貼紙 | nin9（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10243.png"
+    },
+    {
+        "id": "10244",
+        "name": "貼紙 | nin9（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10244.png"
+    },
+    {
+        "id": "10245",
+        "name": "貼紙 | nin9（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10245.png"
+    },
+    {
+        "id": "10246",
+        "name": "貼紙 | sk0R | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10246.png"
+    },
+    {
+        "id": "10247",
+        "name": "貼紙 | sk0R（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10247.png"
+    },
+    {
+        "id": "10248",
+        "name": "貼紙 | sk0R（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10248.png"
+    },
+    {
+        "id": "10249",
+        "name": "貼紙 | sk0R（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10249.png"
+    },
+    {
+        "id": "10250",
+        "name": "貼紙 | xerolte | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10250.png"
+    },
+    {
+        "id": "10251",
+        "name": "貼紙 | xerolte（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10251.png"
+    },
+    {
+        "id": "10252",
+        "name": "貼紙 | xerolte（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10252.png"
+    },
+    {
+        "id": "10253",
+        "name": "貼紙 | xerolte（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10253.png"
+    },
+    {
+        "id": "10254",
+        "name": "貼紙 | br0 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10254.png"
+    },
+    {
+        "id": "10255",
+        "name": "貼紙 | br0（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10255.png"
+    },
+    {
+        "id": "10256",
+        "name": "貼紙 | br0（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10256.png"
+    },
+    {
+        "id": "10257",
+        "name": "貼紙 | br0（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10257.png"
+    },
+    {
+        "id": "10258",
+        "name": "貼紙 | jeorge | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10258.png"
+    },
+    {
+        "id": "10259",
+        "name": "貼紙 | jeorge（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10259.png"
+    },
+    {
+        "id": "10260",
+        "name": "貼紙 | jeorge（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10260.png"
+    },
+    {
+        "id": "10261",
+        "name": "貼紙 | jeorge（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10261.png"
+    },
+    {
+        "id": "10262",
+        "name": "貼紙 | nitr0 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10262.png"
+    },
+    {
+        "id": "10263",
+        "name": "貼紙 | nitr0（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10263.png"
+    },
+    {
+        "id": "10264",
+        "name": "貼紙 | nitr0（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10264.png"
+    },
+    {
+        "id": "10265",
+        "name": "貼紙 | nitr0（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10265.png"
+    },
+    {
+        "id": "10266",
+        "name": "貼紙 | Sonic | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10266.png"
+    },
+    {
+        "id": "10267",
+        "name": "貼紙 | Sonic（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10267.png"
+    },
+    {
+        "id": "10268",
+        "name": "貼紙 | Sonic（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10268.png"
+    },
+    {
+        "id": "10269",
+        "name": "貼紙 | Sonic（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10269.png"
+    },
+    {
+        "id": "10270",
+        "name": "貼紙 | XotiC | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10270.png"
+    },
+    {
+        "id": "10271",
+        "name": "貼紙 | XotiC（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10271.png"
+    },
+    {
+        "id": "10272",
+        "name": "貼紙 | XotiC（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10272.png"
+    },
+    {
+        "id": "10273",
+        "name": "貼紙 | XotiC（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10273.png"
+    },
+    {
+        "id": "10274",
+        "name": "貼紙 | ChildKing | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10274.png"
+    },
+    {
+        "id": "10275",
+        "name": "貼紙 | ChildKing（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10275.png"
+    },
+    {
+        "id": "10276",
+        "name": "貼紙 | ChildKing（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10276.png"
+    },
+    {
+        "id": "10277",
+        "name": "貼紙 | ChildKing（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10277.png"
+    },
+    {
+        "id": "10278",
+        "name": "貼紙 | L1haNg | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10278.png"
+    },
+    {
+        "id": "10279",
+        "name": "貼紙 | L1haNg（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10279.png"
+    },
+    {
+        "id": "10280",
+        "name": "貼紙 | L1haNg（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10280.png"
+    },
+    {
+        "id": "10281",
+        "name": "貼紙 | L1haNg（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10281.png"
+    },
+    {
+        "id": "10282",
+        "name": "貼紙 | Marek | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10282.png"
+    },
+    {
+        "id": "10283",
+        "name": "貼紙 | Marek（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10283.png"
+    },
+    {
+        "id": "10284",
+        "name": "貼紙 | Marek（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10284.png"
+    },
+    {
+        "id": "10285",
+        "name": "貼紙 | Marek（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10285.png"
+    },
+    {
+        "id": "10286",
+        "name": "貼紙 | Summer | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10286.png"
+    },
+    {
+        "id": "10287",
+        "name": "貼紙 | Summer（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10287.png"
+    },
+    {
+        "id": "10288",
+        "name": "貼紙 | Summer（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10288.png"
+    },
+    {
+        "id": "10289",
+        "name": "貼紙 | Summer（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10289.png"
+    },
+    {
+        "id": "10290",
+        "name": "貼紙 | Tiger | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10290.png"
+    },
+    {
+        "id": "10291",
+        "name": "貼紙 | Tiger（刺繡）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10291.png"
+    },
+    {
+        "id": "10292",
+        "name": "貼紙 | Tiger（彩光）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10292.png"
+    },
+    {
+        "id": "10293",
+        "name": "貼紙 | Tiger（黃金）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10293.png"
+    },
+    {
+        "id": "10294",
+        "name": "貼紙 | apEX（冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10294.png"
+    },
+    {
+        "id": "10295",
+        "name": "貼紙 | apEX（刺繡，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10295.png"
+    },
+    {
+        "id": "10296",
+        "name": "貼紙 | apEX（彩光，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10296.png"
+    },
+    {
+        "id": "10297",
+        "name": "貼紙 | apEX（黃金，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10297.png"
+    },
+    {
+        "id": "10298",
+        "name": "貼紙 | FlameZ（冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10298.png"
+    },
+    {
+        "id": "10299",
+        "name": "貼紙 | FlameZ（刺繡，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10299.png"
+    },
+    {
+        "id": "10300",
+        "name": "貼紙 | FlameZ（彩光，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10300.png"
+    },
+    {
+        "id": "10301",
+        "name": "貼紙 | FlameZ（黃金，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10301.png"
+    },
+    {
+        "id": "10302",
+        "name": "貼紙 | mezii（冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10302.png"
+    },
+    {
+        "id": "10303",
+        "name": "貼紙 | mezii（刺繡，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10303.png"
+    },
+    {
+        "id": "10304",
+        "name": "貼紙 | mezii（彩光，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10304.png"
+    },
+    {
+        "id": "10305",
+        "name": "貼紙 | mezii（黃金，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10305.png"
+    },
+    {
+        "id": "10306",
+        "name": "貼紙 | ropz（冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10306.png"
+    },
+    {
+        "id": "10307",
+        "name": "貼紙 | ropz（刺繡，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10307.png"
+    },
+    {
+        "id": "10308",
+        "name": "貼紙 | ropz（彩光，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10308.png"
+    },
+    {
+        "id": "10309",
+        "name": "貼紙 | ropz（黃金，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10309.png"
+    },
+    {
+        "id": "10310",
+        "name": "貼紙 | ZywOo（冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10310.png"
+    },
+    {
+        "id": "10311",
+        "name": "貼紙 | ZywOo（刺繡，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10311.png"
+    },
+    {
+        "id": "10312",
+        "name": "貼紙 | ZywOo（彩光，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10312.png"
+    },
+    {
+        "id": "10313",
+        "name": "貼紙 | ZywOo（黃金，冠軍）| Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10313.png"
     }
 ]

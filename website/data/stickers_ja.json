@@ -1105,29 +1105,9 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-231.png"
     },
     {
-        "id": "232",
-        "name": "ステッカー | 3DMAX | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-232.png"
-    },
-    {
         "id": "233",
         "name": "ステッカー | Copenhagen Wolves | DreamHack 2014",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-233.png"
-    },
-    {
-        "id": "234",
-        "name": "ステッカー | dAT team | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-234.png"
-    },
-    {
-        "id": "235",
-        "name": "ステッカー | London Conspiracy | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-235.png"
-    },
-    {
-        "id": "236",
-        "name": "ステッカー | mousesports | DreamHack 2014",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-236.png"
     },
     {
         "id": "237",
@@ -4925,44 +4905,9 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-998.png"
     },
     {
-        "id": "999",
-        "name": "ステッカー | The Awper（キラ）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-999.png"
-    },
-    {
-        "id": "1000",
-        "name": "ステッカー | The Bomber（キラ）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1000.png"
-    },
-    {
-        "id": "1001",
-        "name": "ステッカー | The Fragger（キラ）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1001.png"
-    },
-    {
-        "id": "1002",
-        "name": "ステッカー | The Leader（キラ）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1002.png"
-    },
-    {
-        "id": "1003",
-        "name": "ステッカー | The Nader（キラ）",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1003.png"
-    },
-    {
-        "id": "1004",
-        "name": "ステッカー | Ninja(キラ)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1004.png"
-    },
-    {
         "id": "1005",
         "name": "ステッカー | The Pro(キラ)",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1005.png"
-    },
-    {
-        "id": "1006",
-        "name": "ステッカー | Supprt(キラ)",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-1006.png"
     },
     {
         "id": "1007",
@@ -44248,5 +44193,4155 @@
         "id": "9450",
         "name": "ステッカー | ropz (ゴールド、チャンピオン) | Austin 2025",
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9450.png"
+    },
+    {
+        "id": "9451",
+        "name": "ステッカー | Candy Apples",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9451.png"
+    },
+    {
+        "id": "9452",
+        "name": "ステッカー | Cubix Connexion",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9452.png"
+    },
+    {
+        "id": "9453",
+        "name": "ステッカー | Eyes of Farlow",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9453.png"
+    },
+    {
+        "id": "9454",
+        "name": "ステッカー | Fade Mangos",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9454.png"
+    },
+    {
+        "id": "9455",
+        "name": "ステッカー | Gloves On",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9455.png"
+    },
+    {
+        "id": "9456",
+        "name": "ステッカー | Lock In",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9456.png"
+    },
+    {
+        "id": "9457",
+        "name": "ステッカー | Mimicapsule",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9457.png"
+    },
+    {
+        "id": "9458",
+        "name": "ステッカー | Pop Pup",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9458.png"
+    },
+    {
+        "id": "9459",
+        "name": "ステッカー | POTS",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9459.png"
+    },
+    {
+        "id": "9460",
+        "name": "ステッカー | Sent With Love",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9460.png"
+    },
+    {
+        "id": "9461",
+        "name": "ステッカー | Skelly Stabby",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9461.png"
+    },
+    {
+        "id": "9462",
+        "name": "ステッカー | Vice Cursor",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9462.png"
+    },
+    {
+        "id": "9463",
+        "name": "ステッカー | CT Tracks (グリッター)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9463.png"
+    },
+    {
+        "id": "9464",
+        "name": "ステッカー | Overloaded (グリッター)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9464.png"
+    },
+    {
+        "id": "9465",
+        "name": "ステッカー | T Tracks (グリッター)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9465.png"
+    },
+    {
+        "id": "9466",
+        "name": "ステッカー | Bomb Planted (ホログラム)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9466.png"
+    },
+    {
+        "id": "9467",
+        "name": "ステッカー | Chrome Dome (ホログラム)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9467.png"
+    },
+    {
+        "id": "9468",
+        "name": "ステッカー | Cutie (ホログラム)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9468.png"
+    },
+    {
+        "id": "9469",
+        "name": "ステッカー | Evidence (ホログラム)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9469.png"
+    },
+    {
+        "id": "9470",
+        "name": "ステッカー | Froggles (ホログラム)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9470.png"
+    },
+    {
+        "id": "9471",
+        "name": "ステッカー | Ain't A Rental (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9471.png"
+    },
+    {
+        "id": "9472",
+        "name": "ステッカー | Eyes In The Sky (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9472.png"
+    },
+    {
+        "id": "9473",
+        "name": "ステッカー | Good As New (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9473.png"
+    },
+    {
+        "id": "9474",
+        "name": "ステッカー | Hands Off (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9474.png"
+    },
+    {
+        "id": "9475",
+        "name": "ステッカー | King Crasswater (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9475.png"
+    },
+    {
+        "id": "9476",
+        "name": "ステッカー | Queen Ava (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9476.png"
+    },
+    {
+        "id": "9477",
+        "name": "ステッカー | Digi-Strike (レンチキュラー)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9477.png"
+    },
+    {
+        "id": "9478",
+        "name": "ステッカー | Neon MVP (レンチキュラー)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9478.png"
+    },
+    {
+        "id": "9479",
+        "name": "ステッカー | BullHit (レンチキュラー)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9479.png"
+    },
+    {
+        "id": "9480",
+        "name": "ステッカー | Clavis",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9480.png"
+    },
+    {
+        "id": "9481",
+        "name": "ステッカー | Lorena",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9481.png"
+    },
+    {
+        "id": "9482",
+        "name": "ステッカー | Lucas",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9482.png"
+    },
+    {
+        "id": "9483",
+        "name": "ステッカー | Clavis (ホログラム)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9483.png"
+    },
+    {
+        "id": "9484",
+        "name": "ステッカー | Lorena (ホログラム)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9484.png"
+    },
+    {
+        "id": "9485",
+        "name": "ステッカー | Lucas (ホログラム)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9485.png"
+    },
+    {
+        "id": "9486",
+        "name": "ステッカー | Clavis (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9486.png"
+    },
+    {
+        "id": "9487",
+        "name": "ステッカー | Lorena (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9487.png"
+    },
+    {
+        "id": "9488",
+        "name": "ステッカー | Lucas (キラ)",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9488.png"
+    },
+    {
+        "id": "9489",
+        "name": "ステッカー | FURIA | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9489.png"
+    },
+    {
+        "id": "9490",
+        "name": "ステッカー | FURIA (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9490.png"
+    },
+    {
+        "id": "9491",
+        "name": "ステッカー | FURIA (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9491.png"
+    },
+    {
+        "id": "9492",
+        "name": "ステッカー | FURIA (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9492.png"
+    },
+    {
+        "id": "9493",
+        "name": "ステッカー | Vitality | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9493.png"
+    },
+    {
+        "id": "9494",
+        "name": "ステッカー | Vitality (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9494.png"
+    },
+    {
+        "id": "9495",
+        "name": "ステッカー | Vitality (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9495.png"
+    },
+    {
+        "id": "9496",
+        "name": "ステッカー | Vitality (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9496.png"
+    },
+    {
+        "id": "9497",
+        "name": "ステッカー | Falcons | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9497.png"
+    },
+    {
+        "id": "9498",
+        "name": "ステッカー | Falcons (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9498.png"
+    },
+    {
+        "id": "9499",
+        "name": "ステッカー | Falcons (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9499.png"
+    },
+    {
+        "id": "9500",
+        "name": "ステッカー | Falcons (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9500.png"
+    },
+    {
+        "id": "9501",
+        "name": "ステッカー | The Mongolz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9501.png"
+    },
+    {
+        "id": "9502",
+        "name": "ステッカー | The Mongolz (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9502.png"
+    },
+    {
+        "id": "9503",
+        "name": "ステッカー | The Mongolz (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9503.png"
+    },
+    {
+        "id": "9504",
+        "name": "ステッカー | The Mongolz (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9504.png"
+    },
+    {
+        "id": "9505",
+        "name": "ステッカー | MOUZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9505.png"
+    },
+    {
+        "id": "9506",
+        "name": "ステッカー | MOUZ (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9506.png"
+    },
+    {
+        "id": "9507",
+        "name": "ステッカー | MOUZ (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9507.png"
+    },
+    {
+        "id": "9508",
+        "name": "ステッカー | MOUZ (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9508.png"
+    },
+    {
+        "id": "9509",
+        "name": "ステッカー | Team Spirit | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9509.png"
+    },
+    {
+        "id": "9510",
+        "name": "ステッカー | Team Spirit (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9510.png"
+    },
+    {
+        "id": "9511",
+        "name": "ステッカー | Team Spirit (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9511.png"
+    },
+    {
+        "id": "9512",
+        "name": "ステッカー | Team Spirit (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9512.png"
+    },
+    {
+        "id": "9513",
+        "name": "ステッカー | G2 esports | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9513.png"
+    },
+    {
+        "id": "9514",
+        "name": "ステッカー | G2 esports (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9514.png"
+    },
+    {
+        "id": "9515",
+        "name": "ステッカー | G2 Esports (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9515.png"
+    },
+    {
+        "id": "9516",
+        "name": "ステッカー | G2 Esports (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9516.png"
+    },
+    {
+        "id": "9517",
+        "name": "ステッカー | paiN Gaming | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9517.png"
+    },
+    {
+        "id": "9518",
+        "name": "ステッカー | paiN Gaming (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9518.png"
+    },
+    {
+        "id": "9519",
+        "name": "ステッカー | paiN Gaming (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9519.png"
+    },
+    {
+        "id": "9520",
+        "name": "ステッカー | paiN Gaming (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9520.png"
+    },
+    {
+        "id": "9521",
+        "name": "ステッカー | Aurora | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9521.png"
+    },
+    {
+        "id": "9522",
+        "name": "ステッカー | Aurora (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9522.png"
+    },
+    {
+        "id": "9523",
+        "name": "ステッカー | Aurora (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9523.png"
+    },
+    {
+        "id": "9524",
+        "name": "ステッカー | Aurora (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9524.png"
+    },
+    {
+        "id": "9525",
+        "name": "ステッカー | Natus Vincere | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9525.png"
+    },
+    {
+        "id": "9526",
+        "name": "ステッカー | Natus Vincere (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9526.png"
+    },
+    {
+        "id": "9527",
+        "name": "ステッカー | Natus Vincere (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9527.png"
+    },
+    {
+        "id": "9528",
+        "name": "ステッカー | Natus Vincere (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9528.png"
+    },
+    {
+        "id": "9529",
+        "name": "ステッカー | Team Liquid | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9529.png"
+    },
+    {
+        "id": "9530",
+        "name": "ステッカー | Team Liquid (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9530.png"
+    },
+    {
+        "id": "9531",
+        "name": "ステッカー | Team Liquid (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9531.png"
+    },
+    {
+        "id": "9532",
+        "name": "ステッカー | Team Liquid (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9532.png"
+    },
+    {
+        "id": "9533",
+        "name": "ステッカー | 3DMAX | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9533.png"
+    },
+    {
+        "id": "9534",
+        "name": "ステッカー | 3DMAX (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9534.png"
+    },
+    {
+        "id": "9535",
+        "name": "ステッカー | 3DMAX (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9535.png"
+    },
+    {
+        "id": "9536",
+        "name": "ステッカー | 3DMAX (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9536.png"
+    },
+    {
+        "id": "9537",
+        "name": "ステッカー | Astralis | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9537.png"
+    },
+    {
+        "id": "9538",
+        "name": "ステッカー | Astralis (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9538.png"
+    },
+    {
+        "id": "9539",
+        "name": "ステッカー | Astralis (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9539.png"
+    },
+    {
+        "id": "9540",
+        "name": "ステッカー | Astralis (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9540.png"
+    },
+    {
+        "id": "9541",
+        "name": "ステッカー | TYLOO | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9541.png"
+    },
+    {
+        "id": "9542",
+        "name": "ステッカー | TYLOO (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9542.png"
+    },
+    {
+        "id": "9543",
+        "name": "ステッカー | TYLOO (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9543.png"
+    },
+    {
+        "id": "9544",
+        "name": "ステッカー | TYLOO (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9544.png"
+    },
+    {
+        "id": "9545",
+        "name": "ステッカー | MIBR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9545.png"
+    },
+    {
+        "id": "9546",
+        "name": "ステッカー | MIBR (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9546.png"
+    },
+    {
+        "id": "9547",
+        "name": "ステッカー | MIBR (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9547.png"
+    },
+    {
+        "id": "9548",
+        "name": "ステッカー | MIBR (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9548.png"
+    },
+    {
+        "id": "9549",
+        "name": "ステッカー | Passion UA | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9549.png"
+    },
+    {
+        "id": "9550",
+        "name": "ステッカー | Passion UA (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9550.png"
+    },
+    {
+        "id": "9551",
+        "name": "ステッカー | Passion UA (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9551.png"
+    },
+    {
+        "id": "9552",
+        "name": "ステッカー | Passion UA (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9552.png"
+    },
+    {
+        "id": "9553",
+        "name": "ステッカー | Legacy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9553.png"
+    },
+    {
+        "id": "9554",
+        "name": "ステッカー | Legacy (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9554.png"
+    },
+    {
+        "id": "9555",
+        "name": "ステッカー | Legacy (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9555.png"
+    },
+    {
+        "id": "9556",
+        "name": "ステッカー | Legacy (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9556.png"
+    },
+    {
+        "id": "9557",
+        "name": "ステッカー | FaZe Clan | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9557.png"
+    },
+    {
+        "id": "9558",
+        "name": "ステッカー | FaZe Clan (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9558.png"
+    },
+    {
+        "id": "9559",
+        "name": "ステッカー | FaZe Clan (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9559.png"
+    },
+    {
+        "id": "9560",
+        "name": "ステッカー | FaZe Clan (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9560.png"
+    },
+    {
+        "id": "9561",
+        "name": "ステッカー | B8 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9561.png"
+    },
+    {
+        "id": "9562",
+        "name": "ステッカー | B8 (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9562.png"
+    },
+    {
+        "id": "9563",
+        "name": "ステッカー | B8 (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9563.png"
+    },
+    {
+        "id": "9564",
+        "name": "ステッカー | B8 (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9564.png"
+    },
+    {
+        "id": "9565",
+        "name": "ステッカー | GamerLegion | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9565.png"
+    },
+    {
+        "id": "9566",
+        "name": "ステッカー | GamerLegion (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9566.png"
+    },
+    {
+        "id": "9567",
+        "name": "ステッカー | GamerLegion (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9567.png"
+    },
+    {
+        "id": "9568",
+        "name": "ステッカー | GamerLegion (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9568.png"
+    },
+    {
+        "id": "9569",
+        "name": "ステッカー | fnatic | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9569.png"
+    },
+    {
+        "id": "9570",
+        "name": "ステッカー | fnatic (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9570.png"
+    },
+    {
+        "id": "9571",
+        "name": "ステッカー | fnatic (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9571.png"
+    },
+    {
+        "id": "9572",
+        "name": "ステッカー | fnatic (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9572.png"
+    },
+    {
+        "id": "9573",
+        "name": "ステッカー | PARIVISION | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9573.png"
+    },
+    {
+        "id": "9574",
+        "name": "ステッカー | PARIVISION (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9574.png"
+    },
+    {
+        "id": "9575",
+        "name": "ステッカー | PARIVISION (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9575.png"
+    },
+    {
+        "id": "9576",
+        "name": "ステッカー | PARIVISION (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9576.png"
+    },
+    {
+        "id": "9577",
+        "name": "ステッカー | Ninjas in Pyjamas | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9577.png"
+    },
+    {
+        "id": "9578",
+        "name": "ステッカー | Ninjas in Pyjamas (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9578.png"
+    },
+    {
+        "id": "9579",
+        "name": "ステッカー | Ninjas in Pyjamas (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9579.png"
+    },
+    {
+        "id": "9580",
+        "name": "ステッカー | Ninjas in Pyjamas (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9580.png"
+    },
+    {
+        "id": "9581",
+        "name": "ステッカー | Imperial Esports | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9581.png"
+    },
+    {
+        "id": "9582",
+        "name": "ステッカー | Imperial Esports (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9582.png"
+    },
+    {
+        "id": "9583",
+        "name": "ステッカー | Imperial Esports (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9583.png"
+    },
+    {
+        "id": "9584",
+        "name": "ステッカー | Imperial Esports (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9584.png"
+    },
+    {
+        "id": "9585",
+        "name": "ステッカー | FlyQuest | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9585.png"
+    },
+    {
+        "id": "9586",
+        "name": "ステッカー | FlyQuest (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9586.png"
+    },
+    {
+        "id": "9587",
+        "name": "ステッカー | FlyQuest (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9587.png"
+    },
+    {
+        "id": "9588",
+        "name": "ステッカー | FlyQuest (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9588.png"
+    },
+    {
+        "id": "9589",
+        "name": "ステッカー | Lynn Vision | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9589.png"
+    },
+    {
+        "id": "9590",
+        "name": "ステッカー | Lynn Vision (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9590.png"
+    },
+    {
+        "id": "9591",
+        "name": "ステッカー | Lynn Vision (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9591.png"
+    },
+    {
+        "id": "9592",
+        "name": "ステッカー | Lynn Vision (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9592.png"
+    },
+    {
+        "id": "9593",
+        "name": "ステッカー | M80 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9593.png"
+    },
+    {
+        "id": "9594",
+        "name": "ステッカー | M80 (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9594.png"
+    },
+    {
+        "id": "9595",
+        "name": "ステッカー | M80 (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9595.png"
+    },
+    {
+        "id": "9596",
+        "name": "ステッカー | M80 (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9596.png"
+    },
+    {
+        "id": "9597",
+        "name": "ステッカー | Fluxo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9597.png"
+    },
+    {
+        "id": "9598",
+        "name": "ステッカー | Fluxo (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9598.png"
+    },
+    {
+        "id": "9599",
+        "name": "ステッカー | Fluxo (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9599.png"
+    },
+    {
+        "id": "9600",
+        "name": "ステッカー | Fluxo (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9600.png"
+    },
+    {
+        "id": "9601",
+        "name": "ステッカー | RED Canids | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9601.png"
+    },
+    {
+        "id": "9602",
+        "name": "ステッカー | RED Canids (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9602.png"
+    },
+    {
+        "id": "9603",
+        "name": "ステッカー | RED Canids (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9603.png"
+    },
+    {
+        "id": "9604",
+        "name": "ステッカー | RED Canids (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9604.png"
+    },
+    {
+        "id": "9605",
+        "name": "ステッカー | The Huns | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9605.png"
+    },
+    {
+        "id": "9606",
+        "name": "ステッカー | The Huns (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9606.png"
+    },
+    {
+        "id": "9607",
+        "name": "ステッカー | The Huns (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9607.png"
+    },
+    {
+        "id": "9608",
+        "name": "ステッカー | The Huns (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9608.png"
+    },
+    {
+        "id": "9609",
+        "name": "ステッカー | NRG | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9609.png"
+    },
+    {
+        "id": "9610",
+        "name": "ステッカー | NRG (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9610.png"
+    },
+    {
+        "id": "9611",
+        "name": "ステッカー | NRG (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9611.png"
+    },
+    {
+        "id": "9612",
+        "name": "ステッカー | NRG (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9612.png"
+    },
+    {
+        "id": "9613",
+        "name": "ステッカー | Rare Atom | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9613.png"
+    },
+    {
+        "id": "9614",
+        "name": "ステッカー | Rare Atom (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9614.png"
+    },
+    {
+        "id": "9615",
+        "name": "ステッカー | Rare Atom (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9615.png"
+    },
+    {
+        "id": "9616",
+        "name": "ステッカー | Rare Atom (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9616.png"
+    },
+    {
+        "id": "9617",
+        "name": "ステッカー | StarLadder | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9617.png"
+    },
+    {
+        "id": "9618",
+        "name": "ステッカー | StarLadder (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9618.png"
+    },
+    {
+        "id": "9619",
+        "name": "ステッカー | StarLadder (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9619.png"
+    },
+    {
+        "id": "9620",
+        "name": "ステッカー | StarLadder (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9620.png"
+    },
+    {
+        "id": "9654",
+        "name": "ステッカー | FalleN | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9654.png"
+    },
+    {
+        "id": "9655",
+        "name": "ステッカー | FalleN (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9655.png"
+    },
+    {
+        "id": "9656",
+        "name": "ステッカー | FalleN (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9656.png"
+    },
+    {
+        "id": "9657",
+        "name": "ステッカー | FalleN (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9657.png"
+    },
+    {
+        "id": "9658",
+        "name": "ステッカー | KSCERATO | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9658.png"
+    },
+    {
+        "id": "9659",
+        "name": "ステッカー | KSCERATO (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9659.png"
+    },
+    {
+        "id": "9660",
+        "name": "ステッカー | KSCERATO (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9660.png"
+    },
+    {
+        "id": "9661",
+        "name": "ステッカー | KSCERATO (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9661.png"
+    },
+    {
+        "id": "9662",
+        "name": "ステッカー | molodoy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9662.png"
+    },
+    {
+        "id": "9663",
+        "name": "ステッカー | molodoy (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9663.png"
+    },
+    {
+        "id": "9664",
+        "name": "ステッカー | molodoy (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9664.png"
+    },
+    {
+        "id": "9665",
+        "name": "ステッカー | molodoy (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9665.png"
+    },
+    {
+        "id": "9666",
+        "name": "ステッカー | YEKINDAR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9666.png"
+    },
+    {
+        "id": "9667",
+        "name": "ステッカー | YEKINDAR (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9667.png"
+    },
+    {
+        "id": "9668",
+        "name": "ステッカー | YEKINDAR (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9668.png"
+    },
+    {
+        "id": "9669",
+        "name": "ステッカー | YEKINDAR (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9669.png"
+    },
+    {
+        "id": "9670",
+        "name": "ステッカー | yuurih | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9670.png"
+    },
+    {
+        "id": "9671",
+        "name": "ステッカー | yuurih (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9671.png"
+    },
+    {
+        "id": "9672",
+        "name": "ステッカー | yuurih (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9672.png"
+    },
+    {
+        "id": "9673",
+        "name": "ステッカー | yuurih (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9673.png"
+    },
+    {
+        "id": "9674",
+        "name": "ステッカー | apEX | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9674.png"
+    },
+    {
+        "id": "9675",
+        "name": "ステッカー | apEX (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9675.png"
+    },
+    {
+        "id": "9676",
+        "name": "ステッカー | apEX (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9676.png"
+    },
+    {
+        "id": "9677",
+        "name": "ステッカー | apEX (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9677.png"
+    },
+    {
+        "id": "9678",
+        "name": "ステッカー | FlameZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9678.png"
+    },
+    {
+        "id": "9679",
+        "name": "ステッカー | FlameZ (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9679.png"
+    },
+    {
+        "id": "9680",
+        "name": "ステッカー | FlameZ (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9680.png"
+    },
+    {
+        "id": "9681",
+        "name": "ステッカー | FlameZ (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9681.png"
+    },
+    {
+        "id": "9682",
+        "name": "ステッカー | mezii | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9682.png"
+    },
+    {
+        "id": "9683",
+        "name": "ステッカー | mezii (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9683.png"
+    },
+    {
+        "id": "9684",
+        "name": "ステッカー | mezii (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9684.png"
+    },
+    {
+        "id": "9685",
+        "name": "ステッカー | mezii (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9685.png"
+    },
+    {
+        "id": "9686",
+        "name": "ステッカー | ropz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9686.png"
+    },
+    {
+        "id": "9687",
+        "name": "ステッカー | ropz (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9687.png"
+    },
+    {
+        "id": "9688",
+        "name": "ステッカー | ropz (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9688.png"
+    },
+    {
+        "id": "9689",
+        "name": "ステッカー | ropz (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9689.png"
+    },
+    {
+        "id": "9690",
+        "name": "ステッカー | ZywOo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9690.png"
+    },
+    {
+        "id": "9691",
+        "name": "ステッカー | ZywOo (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9691.png"
+    },
+    {
+        "id": "9692",
+        "name": "ステッカー | ZywOo (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9692.png"
+    },
+    {
+        "id": "9693",
+        "name": "ステッカー | ZywOo (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9693.png"
+    },
+    {
+        "id": "9694",
+        "name": "ステッカー | kyousuke | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9694.png"
+    },
+    {
+        "id": "9695",
+        "name": "ステッカー | kyousuke (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9695.png"
+    },
+    {
+        "id": "9696",
+        "name": "ステッカー | kyousuke (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9696.png"
+    },
+    {
+        "id": "9697",
+        "name": "ステッカー | kyousuke (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9697.png"
+    },
+    {
+        "id": "9698",
+        "name": "ステッカー | kyxsan | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9698.png"
+    },
+    {
+        "id": "9699",
+        "name": "ステッカー | kyxsan (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9699.png"
+    },
+    {
+        "id": "9700",
+        "name": "ステッカー | kyxsan(ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9700.png"
+    },
+    {
+        "id": "9701",
+        "name": "ステッカー | kyxsan(ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9701.png"
+    },
+    {
+        "id": "9702",
+        "name": "ステッカー | m0NESY | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9702.png"
+    },
+    {
+        "id": "9703",
+        "name": "ステッカー | m0NESY (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9703.png"
+    },
+    {
+        "id": "9704",
+        "name": "ステッカー | m0NESY (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9704.png"
+    },
+    {
+        "id": "9705",
+        "name": "ステッカー | m0NESY (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9705.png"
+    },
+    {
+        "id": "9706",
+        "name": "ステッカー | NiKo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9706.png"
+    },
+    {
+        "id": "9707",
+        "name": "ステッカー | NiKo (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9707.png"
+    },
+    {
+        "id": "9708",
+        "name": "ステッカー | NiKo (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9708.png"
+    },
+    {
+        "id": "9709",
+        "name": "ステッカー | NiKo (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9709.png"
+    },
+    {
+        "id": "9710",
+        "name": "ステッカー | TeSeS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9710.png"
+    },
+    {
+        "id": "9711",
+        "name": "ステッカー | TeSeS (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9711.png"
+    },
+    {
+        "id": "9712",
+        "name": "ステッカー | TeSeS (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9712.png"
+    },
+    {
+        "id": "9713",
+        "name": "ステッカー | TeSeS (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9713.png"
+    },
+    {
+        "id": "9714",
+        "name": "ステッカー | 910 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9714.png"
+    },
+    {
+        "id": "9715",
+        "name": "ステッカー | 910 (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9715.png"
+    },
+    {
+        "id": "9716",
+        "name": "ステッカー | 910 (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9716.png"
+    },
+    {
+        "id": "9717",
+        "name": "ステッカー | 910 (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9717.png"
+    },
+    {
+        "id": "9718",
+        "name": "ステッカー | bLitz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9718.png"
+    },
+    {
+        "id": "9719",
+        "name": "ステッカー | bLitz (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9719.png"
+    },
+    {
+        "id": "9720",
+        "name": "ステッカー | bLitz (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9720.png"
+    },
+    {
+        "id": "9721",
+        "name": "ステッカー | bLitz (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9721.png"
+    },
+    {
+        "id": "9722",
+        "name": "ステッカー | mzinho | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9722.png"
+    },
+    {
+        "id": "9723",
+        "name": "ステッカー | mzinho (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9723.png"
+    },
+    {
+        "id": "9724",
+        "name": "ステッカー | mzinho (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9724.png"
+    },
+    {
+        "id": "9725",
+        "name": "ステッカー | mzinho (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9725.png"
+    },
+    {
+        "id": "9726",
+        "name": "ステッカー | Senzu | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9726.png"
+    },
+    {
+        "id": "9727",
+        "name": "ステッカー | Senzu (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9727.png"
+    },
+    {
+        "id": "9728",
+        "name": "ステッカー | Senzu (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9728.png"
+    },
+    {
+        "id": "9729",
+        "name": "ステッカー | Senzu (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9729.png"
+    },
+    {
+        "id": "9730",
+        "name": "ステッカー | Techno4K | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9730.png"
+    },
+    {
+        "id": "9731",
+        "name": "ステッカー | Techno4K (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9731.png"
+    },
+    {
+        "id": "9732",
+        "name": "ステッカー | Techno4K (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9732.png"
+    },
+    {
+        "id": "9733",
+        "name": "ステッカー | Techno4K (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9733.png"
+    },
+    {
+        "id": "9734",
+        "name": "ステッカー | Brollan | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9734.png"
+    },
+    {
+        "id": "9735",
+        "name": "ステッカー | Brollan (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9735.png"
+    },
+    {
+        "id": "9736",
+        "name": "ステッカー | Brollan (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9736.png"
+    },
+    {
+        "id": "9737",
+        "name": "ステッカー | Brollan (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9737.png"
+    },
+    {
+        "id": "9738",
+        "name": "ステッカー | Jimpphat | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9738.png"
+    },
+    {
+        "id": "9739",
+        "name": "ステッカー | Jimpphat (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9739.png"
+    },
+    {
+        "id": "9740",
+        "name": "ステッカー | Jimpphat (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9740.png"
+    },
+    {
+        "id": "9741",
+        "name": "ステッカー | Jimpphat (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9741.png"
+    },
+    {
+        "id": "9742",
+        "name": "ステッカー | Spinx | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9742.png"
+    },
+    {
+        "id": "9743",
+        "name": "ステッカー | Spinx (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9743.png"
+    },
+    {
+        "id": "9744",
+        "name": "ステッカー | Spinx (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9744.png"
+    },
+    {
+        "id": "9745",
+        "name": "ステッカー | Spinx (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9745.png"
+    },
+    {
+        "id": "9746",
+        "name": "ステッカー | torzsi | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9746.png"
+    },
+    {
+        "id": "9747",
+        "name": "ステッカー | torzsi (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9747.png"
+    },
+    {
+        "id": "9748",
+        "name": "ステッカー | torzsi (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9748.png"
+    },
+    {
+        "id": "9749",
+        "name": "ステッカー | torzsi (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9749.png"
+    },
+    {
+        "id": "9750",
+        "name": "ステッカー | xertioN | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9750.png"
+    },
+    {
+        "id": "9751",
+        "name": "ステッカー | xertioN (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9751.png"
+    },
+    {
+        "id": "9752",
+        "name": "ステッカー | xertioN (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9752.png"
+    },
+    {
+        "id": "9753",
+        "name": "ステッカー | xertioN (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9753.png"
+    },
+    {
+        "id": "9754",
+        "name": "ステッカー | chopper | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9754.png"
+    },
+    {
+        "id": "9755",
+        "name": "ステッカー | chopper (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9755.png"
+    },
+    {
+        "id": "9756",
+        "name": "ステッカー | chopper (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9756.png"
+    },
+    {
+        "id": "9757",
+        "name": "ステッカー | chopper (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9757.png"
+    },
+    {
+        "id": "9758",
+        "name": "ステッカー | donk | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9758.png"
+    },
+    {
+        "id": "9759",
+        "name": "ステッカー | donk (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9759.png"
+    },
+    {
+        "id": "9760",
+        "name": "ステッカー | donk (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9760.png"
+    },
+    {
+        "id": "9761",
+        "name": "ステッカー | donk (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9761.png"
+    },
+    {
+        "id": "9762",
+        "name": "ステッカー | sh1ro | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9762.png"
+    },
+    {
+        "id": "9763",
+        "name": "ステッカー | sh1ro (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9763.png"
+    },
+    {
+        "id": "9764",
+        "name": "ステッカー | sh1ro (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9764.png"
+    },
+    {
+        "id": "9765",
+        "name": "ステッカー | sh1ro (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9765.png"
+    },
+    {
+        "id": "9766",
+        "name": "ステッカー | zont1x | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9766.png"
+    },
+    {
+        "id": "9767",
+        "name": "ステッカー | zont1x (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9767.png"
+    },
+    {
+        "id": "9768",
+        "name": "ステッカー | zont1x (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9768.png"
+    },
+    {
+        "id": "9769",
+        "name": "ステッカー | zont1x (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9769.png"
+    },
+    {
+        "id": "9770",
+        "name": "ステッカー | zweih | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9770.png"
+    },
+    {
+        "id": "9771",
+        "name": "ステッカー | zweih (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9771.png"
+    },
+    {
+        "id": "9772",
+        "name": "ステッカー | zweih (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9772.png"
+    },
+    {
+        "id": "9773",
+        "name": "ステッカー | zweih (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9773.png"
+    },
+    {
+        "id": "9774",
+        "name": "ステッカー | Heavygod | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9774.png"
+    },
+    {
+        "id": "9775",
+        "name": "ステッカー | Heavygod (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9775.png"
+    },
+    {
+        "id": "9776",
+        "name": "ステッカー | Heavygod (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9776.png"
+    },
+    {
+        "id": "9777",
+        "name": "ステッカー | Heavygod (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9777.png"
+    },
+    {
+        "id": "9778",
+        "name": "ステッカー | huNter- | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9778.png"
+    },
+    {
+        "id": "9779",
+        "name": "ステッカー | huNter- (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9779.png"
+    },
+    {
+        "id": "9780",
+        "name": "ステッカー | huNter- (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9780.png"
+    },
+    {
+        "id": "9781",
+        "name": "ステッカー | huNter- (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9781.png"
+    },
+    {
+        "id": "9782",
+        "name": "ステッカー | malbsMd | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9782.png"
+    },
+    {
+        "id": "9783",
+        "name": "ステッカー | malbsMd (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9783.png"
+    },
+    {
+        "id": "9784",
+        "name": "ステッカー | malbsMd (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9784.png"
+    },
+    {
+        "id": "9785",
+        "name": "ステッカー | malbsMd (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9785.png"
+    },
+    {
+        "id": "9786",
+        "name": "ステッカー | MATYS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9786.png"
+    },
+    {
+        "id": "9787",
+        "name": "ステッカー | MATYS (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9787.png"
+    },
+    {
+        "id": "9788",
+        "name": "ステッカー | MATYS (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9788.png"
+    },
+    {
+        "id": "9789",
+        "name": "ステッカー | MATYS (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9789.png"
+    },
+    {
+        "id": "9790",
+        "name": "ステッカー | SunPayus | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9790.png"
+    },
+    {
+        "id": "9791",
+        "name": "ステッカー | SunPayus (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9791.png"
+    },
+    {
+        "id": "9792",
+        "name": "ステッカー | SunPayus (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9792.png"
+    },
+    {
+        "id": "9793",
+        "name": "ステッカー | SunPayus (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9793.png"
+    },
+    {
+        "id": "9794",
+        "name": "ステッカー | biguzera | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9794.png"
+    },
+    {
+        "id": "9795",
+        "name": "ステッカー | biguzera (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9795.png"
+    },
+    {
+        "id": "9796",
+        "name": "ステッカー | biguzera (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9796.png"
+    },
+    {
+        "id": "9797",
+        "name": "ステッカー | biguzera (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9797.png"
+    },
+    {
+        "id": "9798",
+        "name": "ステッカー | dav1deuS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9798.png"
+    },
+    {
+        "id": "9799",
+        "name": "ステッカー | dav1deuS (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9799.png"
+    },
+    {
+        "id": "9800",
+        "name": "ステッカー | dav1deuS (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9800.png"
+    },
+    {
+        "id": "9801",
+        "name": "ステッカー | dav1deuS (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9801.png"
+    },
+    {
+        "id": "9802",
+        "name": "ステッカー | dgt | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9802.png"
+    },
+    {
+        "id": "9803",
+        "name": "ステッカー | dgt (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9803.png"
+    },
+    {
+        "id": "9804",
+        "name": "ステッカー | dgt (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9804.png"
+    },
+    {
+        "id": "9805",
+        "name": "ステッカー | dgt (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9805.png"
+    },
+    {
+        "id": "9806",
+        "name": "ステッカー | NQZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9806.png"
+    },
+    {
+        "id": "9807",
+        "name": "ステッカー | NQZ (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9807.png"
+    },
+    {
+        "id": "9808",
+        "name": "ステッカー | NQZ (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9808.png"
+    },
+    {
+        "id": "9809",
+        "name": "ステッカー | NQZ (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9809.png"
+    },
+    {
+        "id": "9810",
+        "name": "ステッカー | snow | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9810.png"
+    },
+    {
+        "id": "9811",
+        "name": "ステッカー | snow (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9811.png"
+    },
+    {
+        "id": "9812",
+        "name": "ステッカー | snow (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9812.png"
+    },
+    {
+        "id": "9813",
+        "name": "ステッカー | snow (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9813.png"
+    },
+    {
+        "id": "9814",
+        "name": "ステッカー | jottAAA | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9814.png"
+    },
+    {
+        "id": "9815",
+        "name": "ステッカー | jottAAA (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9815.png"
+    },
+    {
+        "id": "9816",
+        "name": "ステッカー | jottAAA (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9816.png"
+    },
+    {
+        "id": "9817",
+        "name": "ステッカー | jottAAA (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9817.png"
+    },
+    {
+        "id": "9818",
+        "name": "ステッカー | MAJ3R | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9818.png"
+    },
+    {
+        "id": "9819",
+        "name": "ステッカー | MAJ3R (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9819.png"
+    },
+    {
+        "id": "9820",
+        "name": "ステッカー | MAJ3R (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9820.png"
+    },
+    {
+        "id": "9821",
+        "name": "ステッカー | MAJ3R (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9821.png"
+    },
+    {
+        "id": "9822",
+        "name": "ステッカー | Wicadia | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9822.png"
+    },
+    {
+        "id": "9823",
+        "name": "ステッカー | Wicadia (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9823.png"
+    },
+    {
+        "id": "9824",
+        "name": "ステッカー | Wicadia (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9824.png"
+    },
+    {
+        "id": "9825",
+        "name": "ステッカー | Wicadia (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9825.png"
+    },
+    {
+        "id": "9826",
+        "name": "ステッカー | woxic | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9826.png"
+    },
+    {
+        "id": "9827",
+        "name": "ステッカー | woxic (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9827.png"
+    },
+    {
+        "id": "9828",
+        "name": "ステッカー | woxic (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9828.png"
+    },
+    {
+        "id": "9829",
+        "name": "ステッカー | woxic (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9829.png"
+    },
+    {
+        "id": "9830",
+        "name": "ステッカー | XANTARES | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9830.png"
+    },
+    {
+        "id": "9831",
+        "name": "ステッカー | XANTARES (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9831.png"
+    },
+    {
+        "id": "9832",
+        "name": "ステッカー | XANTARES (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9832.png"
+    },
+    {
+        "id": "9833",
+        "name": "ステッカー | XANTARES (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9833.png"
+    },
+    {
+        "id": "9834",
+        "name": "ステッカー | Aleksib | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9834.png"
+    },
+    {
+        "id": "9835",
+        "name": "ステッカー | Aleksib (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9835.png"
+    },
+    {
+        "id": "9836",
+        "name": "ステッカー | Aleksib (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9836.png"
+    },
+    {
+        "id": "9837",
+        "name": "ステッカー | Aleksib (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9837.png"
+    },
+    {
+        "id": "9838",
+        "name": "ステッカー | b1t | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9838.png"
+    },
+    {
+        "id": "9839",
+        "name": "ステッカー | b1t (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9839.png"
+    },
+    {
+        "id": "9840",
+        "name": "ステッカー | b1t (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9840.png"
+    },
+    {
+        "id": "9841",
+        "name": "ステッカー | b1t (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9841.png"
+    },
+    {
+        "id": "9842",
+        "name": "ステッカー | iM | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9842.png"
+    },
+    {
+        "id": "9843",
+        "name": "ステッカー | iM (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9843.png"
+    },
+    {
+        "id": "9844",
+        "name": "ステッカー | iM (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9844.png"
+    },
+    {
+        "id": "9845",
+        "name": "ステッカー | iM (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9845.png"
+    },
+    {
+        "id": "9846",
+        "name": "ステッカー | makazze | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9846.png"
+    },
+    {
+        "id": "9847",
+        "name": "ステッカー | makazze (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9847.png"
+    },
+    {
+        "id": "9848",
+        "name": "ステッカー | makazze (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9848.png"
+    },
+    {
+        "id": "9849",
+        "name": "ステッカー | makazze (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9849.png"
+    },
+    {
+        "id": "9850",
+        "name": "ステッカー | w0nderful | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9850.png"
+    },
+    {
+        "id": "9851",
+        "name": "ステッカー | w0nderful (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9851.png"
+    },
+    {
+        "id": "9852",
+        "name": "ステッカー | w0nderful (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9852.png"
+    },
+    {
+        "id": "9853",
+        "name": "ステッカー | w0nderful (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9853.png"
+    },
+    {
+        "id": "9854",
+        "name": "ステッカー | EliGE | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9854.png"
+    },
+    {
+        "id": "9855",
+        "name": "ステッカー | EliGE (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9855.png"
+    },
+    {
+        "id": "9856",
+        "name": "ステッカー | EliGE (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9856.png"
+    },
+    {
+        "id": "9857",
+        "name": "ステッカー | EliGE (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9857.png"
+    },
+    {
+        "id": "9858",
+        "name": "ステッカー | NAF | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9858.png"
+    },
+    {
+        "id": "9859",
+        "name": "ステッカー | NAF (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9859.png"
+    },
+    {
+        "id": "9860",
+        "name": "ステッカー | NAF (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9860.png"
+    },
+    {
+        "id": "9861",
+        "name": "ステッカー | NAF (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9861.png"
+    },
+    {
+        "id": "9862",
+        "name": "ステッカー | NertZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9862.png"
+    },
+    {
+        "id": "9863",
+        "name": "ステッカー | NertZ (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9863.png"
+    },
+    {
+        "id": "9864",
+        "name": "ステッカー | NertZ (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9864.png"
+    },
+    {
+        "id": "9865",
+        "name": "ステッカー | NertZ (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9865.png"
+    },
+    {
+        "id": "9866",
+        "name": "ステッカー | siuhy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9866.png"
+    },
+    {
+        "id": "9867",
+        "name": "ステッカー | siuhy (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9867.png"
+    },
+    {
+        "id": "9868",
+        "name": "ステッカー | siuhy (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9868.png"
+    },
+    {
+        "id": "9869",
+        "name": "ステッカー | siuhy (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9869.png"
+    },
+    {
+        "id": "9870",
+        "name": "ステッカー | ultimate | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9870.png"
+    },
+    {
+        "id": "9871",
+        "name": "ステッカー | ultimate (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9871.png"
+    },
+    {
+        "id": "9872",
+        "name": "ステッカー | ultimate (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9872.png"
+    },
+    {
+        "id": "9873",
+        "name": "ステッカー | ultimate (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9873.png"
+    },
+    {
+        "id": "9874",
+        "name": "ステッカー | bodyy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9874.png"
+    },
+    {
+        "id": "9875",
+        "name": "ステッカー | bodyy (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9875.png"
+    },
+    {
+        "id": "9876",
+        "name": "ステッカー | bodyy (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9876.png"
+    },
+    {
+        "id": "9877",
+        "name": "ステッカー | bodyy (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9877.png"
+    },
+    {
+        "id": "9878",
+        "name": "ステッカー | Ex3rcice | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9878.png"
+    },
+    {
+        "id": "9879",
+        "name": "ステッカー | Ex3rcice (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9879.png"
+    },
+    {
+        "id": "9880",
+        "name": "ステッカー | Ex3rcice (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9880.png"
+    },
+    {
+        "id": "9881",
+        "name": "ステッカー | Ex3rcice (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9881.png"
+    },
+    {
+        "id": "9882",
+        "name": "ステッカー | Graviti | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9882.png"
+    },
+    {
+        "id": "9883",
+        "name": "ステッカー | Graviti (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9883.png"
+    },
+    {
+        "id": "9884",
+        "name": "ステッカー | Graviti (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9884.png"
+    },
+    {
+        "id": "9885",
+        "name": "ステッカー | Graviti (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9885.png"
+    },
+    {
+        "id": "9886",
+        "name": "ステッカー | Lucky | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9886.png"
+    },
+    {
+        "id": "9887",
+        "name": "ステッカー | Lucky (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9887.png"
+    },
+    {
+        "id": "9888",
+        "name": "ステッカー | Lucky (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9888.png"
+    },
+    {
+        "id": "9889",
+        "name": "ステッカー | Lucky (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9889.png"
+    },
+    {
+        "id": "9890",
+        "name": "ステッカー | Maka | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9890.png"
+    },
+    {
+        "id": "9891",
+        "name": "ステッカー | Maka (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9891.png"
+    },
+    {
+        "id": "9892",
+        "name": "ステッカー | Maka (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9892.png"
+    },
+    {
+        "id": "9893",
+        "name": "ステッカー | Maka (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9893.png"
+    },
+    {
+        "id": "9894",
+        "name": "ステッカー | device | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9894.png"
+    },
+    {
+        "id": "9895",
+        "name": "ステッカー | device (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9895.png"
+    },
+    {
+        "id": "9896",
+        "name": "ステッカー | device (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9896.png"
+    },
+    {
+        "id": "9897",
+        "name": "ステッカー | device (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9897.png"
+    },
+    {
+        "id": "9898",
+        "name": "ステッカー | HooXi | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9898.png"
+    },
+    {
+        "id": "9899",
+        "name": "ステッカー | HooXi (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9899.png"
+    },
+    {
+        "id": "9900",
+        "name": "ステッカー | HooXi (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9900.png"
+    },
+    {
+        "id": "9901",
+        "name": "ステッカー | HooXi (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9901.png"
+    },
+    {
+        "id": "9902",
+        "name": "ステッカー | jabbi | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9902.png"
+    },
+    {
+        "id": "9903",
+        "name": "ステッカー | jabbi (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9903.png"
+    },
+    {
+        "id": "9904",
+        "name": "ステッカー | jabbi (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9904.png"
+    },
+    {
+        "id": "9905",
+        "name": "ステッカー | jabbi (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9905.png"
+    },
+    {
+        "id": "9906",
+        "name": "ステッカー | Magisk | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9906.png"
+    },
+    {
+        "id": "9907",
+        "name": "ステッカー | Magisk (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9907.png"
+    },
+    {
+        "id": "9908",
+        "name": "ステッカー | Magisk (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9908.png"
+    },
+    {
+        "id": "9909",
+        "name": "ステッカー | Magisk (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9909.png"
+    },
+    {
+        "id": "9910",
+        "name": "ステッカー | Staehr | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9910.png"
+    },
+    {
+        "id": "9911",
+        "name": "ステッカー | Staehr (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9911.png"
+    },
+    {
+        "id": "9912",
+        "name": "ステッカー | Staehr(ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9912.png"
+    },
+    {
+        "id": "9913",
+        "name": "ステッカー | Staehr(ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9913.png"
+    },
+    {
+        "id": "9914",
+        "name": "ステッカー | Attacker | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9914.png"
+    },
+    {
+        "id": "9915",
+        "name": "ステッカー | Attacker (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9915.png"
+    },
+    {
+        "id": "9916",
+        "name": "ステッカー | Attacker (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9916.png"
+    },
+    {
+        "id": "9917",
+        "name": "ステッカー | Attacker (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9917.png"
+    },
+    {
+        "id": "9918",
+        "name": "ステッカー | JamYoung | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9918.png"
+    },
+    {
+        "id": "9919",
+        "name": "ステッカー | JamYoung (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9919.png"
+    },
+    {
+        "id": "9920",
+        "name": "ステッカー | JamYoung (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9920.png"
+    },
+    {
+        "id": "9921",
+        "name": "ステッカー | JamYoung (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9921.png"
+    },
+    {
+        "id": "9922",
+        "name": "ステッカー | Jee | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9922.png"
+    },
+    {
+        "id": "9923",
+        "name": "ステッカー | Jee (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9923.png"
+    },
+    {
+        "id": "9924",
+        "name": "ステッカー | Jee (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9924.png"
+    },
+    {
+        "id": "9925",
+        "name": "ステッカー | Jee (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9925.png"
+    },
+    {
+        "id": "9926",
+        "name": "ステッカー | Mercury | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9926.png"
+    },
+    {
+        "id": "9927",
+        "name": "ステッカー | Mercury (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9927.png"
+    },
+    {
+        "id": "9928",
+        "name": "ステッカー | Mercury (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9928.png"
+    },
+    {
+        "id": "9929",
+        "name": "ステッカー | Mercury (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9929.png"
+    },
+    {
+        "id": "9930",
+        "name": "ステッカー | Moseyuh | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9930.png"
+    },
+    {
+        "id": "9931",
+        "name": "ステッカー | Moseyuh (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9931.png"
+    },
+    {
+        "id": "9932",
+        "name": "ステッカー | Moseyuh (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9932.png"
+    },
+    {
+        "id": "9933",
+        "name": "ステッカー | Moseyuh (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9933.png"
+    },
+    {
+        "id": "9934",
+        "name": "ステッカー | brnz4n | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9934.png"
+    },
+    {
+        "id": "9935",
+        "name": "ステッカー | brnz4n (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9935.png"
+    },
+    {
+        "id": "9936",
+        "name": "ステッカー | brnz4n (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9936.png"
+    },
+    {
+        "id": "9937",
+        "name": "ステッカー | brnz4n (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9937.png"
+    },
+    {
+        "id": "9938",
+        "name": "ステッカー | exit | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9938.png"
+    },
+    {
+        "id": "9939",
+        "name": "ステッカー | exit (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9939.png"
+    },
+    {
+        "id": "9940",
+        "name": "ステッカー | exit (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9940.png"
+    },
+    {
+        "id": "9941",
+        "name": "ステッカー | exit (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9941.png"
+    },
+    {
+        "id": "9942",
+        "name": "ステッカー | insani | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9942.png"
+    },
+    {
+        "id": "9943",
+        "name": "ステッカー | insani (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9943.png"
+    },
+    {
+        "id": "9944",
+        "name": "ステッカー | insani(ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9944.png"
+    },
+    {
+        "id": "9945",
+        "name": "ステッカー | insani(ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9945.png"
+    },
+    {
+        "id": "9946",
+        "name": "ステッカー | kl1m | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9946.png"
+    },
+    {
+        "id": "9947",
+        "name": "ステッカー | kl1m (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9947.png"
+    },
+    {
+        "id": "9948",
+        "name": "ステッカー | kl1m (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9948.png"
+    },
+    {
+        "id": "9949",
+        "name": "ステッカー | kl1m (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9949.png"
+    },
+    {
+        "id": "9950",
+        "name": "ステッカー | qikert | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9950.png"
+    },
+    {
+        "id": "9951",
+        "name": "ステッカー | qikert (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9951.png"
+    },
+    {
+        "id": "9952",
+        "name": "ステッカー | qikert (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9952.png"
+    },
+    {
+        "id": "9953",
+        "name": "ステッカー | qikert (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9953.png"
+    },
+    {
+        "id": "9954",
+        "name": "ステッカー | Grim | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9954.png"
+    },
+    {
+        "id": "9955",
+        "name": "ステッカー | Grim (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9955.png"
+    },
+    {
+        "id": "9956",
+        "name": "ステッカー | Grim (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9956.png"
+    },
+    {
+        "id": "9957",
+        "name": "ステッカー | Grim (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9957.png"
+    },
+    {
+        "id": "9958",
+        "name": "ステッカー | hallzerk | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9958.png"
+    },
+    {
+        "id": "9959",
+        "name": "ステッカー | hallzerk (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9959.png"
+    },
+    {
+        "id": "9960",
+        "name": "ステッカー | hallzerk (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9960.png"
+    },
+    {
+        "id": "9961",
+        "name": "ステッカー | hallzerk (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9961.png"
+    },
+    {
+        "id": "9962",
+        "name": "ステッカー | JT | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9962.png"
+    },
+    {
+        "id": "9963",
+        "name": "ステッカー | JT (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9963.png"
+    },
+    {
+        "id": "9964",
+        "name": "ステッカー | JT (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9964.png"
+    },
+    {
+        "id": "9965",
+        "name": "ステッカー | JT (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9965.png"
+    },
+    {
+        "id": "9966",
+        "name": "ステッカー | Kvem | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9966.png"
+    },
+    {
+        "id": "9967",
+        "name": "ステッカー | Kvem (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9967.png"
+    },
+    {
+        "id": "9968",
+        "name": "ステッカー | Kvem (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9968.png"
+    },
+    {
+        "id": "9969",
+        "name": "ステッカー | Kvem (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9969.png"
+    },
+    {
+        "id": "9970",
+        "name": "ステッカー | nicx | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9970.png"
+    },
+    {
+        "id": "9971",
+        "name": "ステッカー | nicx (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9971.png"
+    },
+    {
+        "id": "9972",
+        "name": "ステッカー | nicx (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9972.png"
+    },
+    {
+        "id": "9973",
+        "name": "ステッカー | nicx (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9973.png"
+    },
+    {
+        "id": "9974",
+        "name": "ステッカー | dumau | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9974.png"
+    },
+    {
+        "id": "9975",
+        "name": "ステッカー | dumau (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9975.png"
+    },
+    {
+        "id": "9976",
+        "name": "ステッカー | dumau (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9976.png"
+    },
+    {
+        "id": "9977",
+        "name": "ステッカー | dumau (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9977.png"
+    },
+    {
+        "id": "9978",
+        "name": "ステッカー | latto | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9978.png"
+    },
+    {
+        "id": "9979",
+        "name": "ステッカー | latto (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9979.png"
+    },
+    {
+        "id": "9980",
+        "name": "ステッカー | latto (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9980.png"
+    },
+    {
+        "id": "9981",
+        "name": "ステッカー | latto (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9981.png"
+    },
+    {
+        "id": "9982",
+        "name": "ステッカー | lux | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9982.png"
+    },
+    {
+        "id": "9983",
+        "name": "ステッカー | lux (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9983.png"
+    },
+    {
+        "id": "9984",
+        "name": "ステッカー | lux (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9984.png"
+    },
+    {
+        "id": "9985",
+        "name": "ステッカー | lux (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9985.png"
+    },
+    {
+        "id": "9986",
+        "name": "ステッカー | n1ssim | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9986.png"
+    },
+    {
+        "id": "9987",
+        "name": "ステッカー | n1ssim (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9987.png"
+    },
+    {
+        "id": "9988",
+        "name": "ステッカー | n1ssim (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9988.png"
+    },
+    {
+        "id": "9989",
+        "name": "ステッカー | n1ssim (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9989.png"
+    },
+    {
+        "id": "9990",
+        "name": "ステッカー | saadzin | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9990.png"
+    },
+    {
+        "id": "9991",
+        "name": "ステッカー | saadzin (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9991.png"
+    },
+    {
+        "id": "9992",
+        "name": "ステッカー | saadzin (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9992.png"
+    },
+    {
+        "id": "9993",
+        "name": "ステッカー | saadzin (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9993.png"
+    },
+    {
+        "id": "9994",
+        "name": "ステッカー | broky | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9994.png"
+    },
+    {
+        "id": "9995",
+        "name": "ステッカー | broky (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9995.png"
+    },
+    {
+        "id": "9996",
+        "name": "ステッカー | broky (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9996.png"
+    },
+    {
+        "id": "9997",
+        "name": "ステッカー | broky (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9997.png"
+    },
+    {
+        "id": "9998",
+        "name": "ステッカー | frozen | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9998.png"
+    },
+    {
+        "id": "9999",
+        "name": "ステッカー | frozen (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-9999.png"
+    },
+    {
+        "id": "10000",
+        "name": "ステッカー | frozen (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10000.png"
+    },
+    {
+        "id": "10001",
+        "name": "ステッカー | frozen (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10001.png"
+    },
+    {
+        "id": "10002",
+        "name": "ステッカー | jcobbb | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10002.png"
+    },
+    {
+        "id": "10003",
+        "name": "ステッカー | jcobbb (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10003.png"
+    },
+    {
+        "id": "10004",
+        "name": "ステッカー | jcobbb (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10004.png"
+    },
+    {
+        "id": "10005",
+        "name": "ステッカー | jcobbb (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10005.png"
+    },
+    {
+        "id": "10006",
+        "name": "ステッカー | karrigan | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10006.png"
+    },
+    {
+        "id": "10007",
+        "name": "ステッカー | karrigan (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10007.png"
+    },
+    {
+        "id": "10008",
+        "name": "ステッカー | karrigan (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10008.png"
+    },
+    {
+        "id": "10009",
+        "name": "ステッカー | karrigan (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10009.png"
+    },
+    {
+        "id": "10010",
+        "name": "ステッカー | rain | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10010.png"
+    },
+    {
+        "id": "10011",
+        "name": "ステッカー | rain (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10011.png"
+    },
+    {
+        "id": "10012",
+        "name": "ステッカー | rain (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10012.png"
+    },
+    {
+        "id": "10013",
+        "name": "ステッカー | rain (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10013.png"
+    },
+    {
+        "id": "10014",
+        "name": "ステッカー | alex666 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10014.png"
+    },
+    {
+        "id": "10015",
+        "name": "ステッカー | alex666 (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10015.png"
+    },
+    {
+        "id": "10016",
+        "name": "ステッカー | alex666 (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10016.png"
+    },
+    {
+        "id": "10017",
+        "name": "ステッカー | alex666 (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10017.png"
+    },
+    {
+        "id": "10018",
+        "name": "ステッカー | esenthial | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10018.png"
+    },
+    {
+        "id": "10019",
+        "name": "ステッカー | esenthial (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10019.png"
+    },
+    {
+        "id": "10020",
+        "name": "ステッカー | esenthial (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10020.png"
+    },
+    {
+        "id": "10021",
+        "name": "ステッカー | esenthial (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10021.png"
+    },
+    {
+        "id": "10022",
+        "name": "ステッカー | headtr1ck | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10022.png"
+    },
+    {
+        "id": "10023",
+        "name": "ステッカー | headtr1ck (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10023.png"
+    },
+    {
+        "id": "10024",
+        "name": "ステッカー | headtr1ck (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10024.png"
+    },
+    {
+        "id": "10025",
+        "name": "ステッカー | headtr1ck (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10025.png"
+    },
+    {
+        "id": "10026",
+        "name": "ステッカー | kensizor | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10026.png"
+    },
+    {
+        "id": "10027",
+        "name": "ステッカー | kensizor (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10027.png"
+    },
+    {
+        "id": "10028",
+        "name": "ステッカー | kensizor (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10028.png"
+    },
+    {
+        "id": "10029",
+        "name": "ステッカー | kensizor (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10029.png"
+    },
+    {
+        "id": "10030",
+        "name": "ステッカー | npl | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10030.png"
+    },
+    {
+        "id": "10031",
+        "name": "ステッカー | npl (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10031.png"
+    },
+    {
+        "id": "10032",
+        "name": "ステッカー | npl (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10032.png"
+    },
+    {
+        "id": "10033",
+        "name": "ステッカー | npl (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10033.png"
+    },
+    {
+        "id": "10034",
+        "name": "ステッカー | Kursy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10034.png"
+    },
+    {
+        "id": "10035",
+        "name": "ステッカー | Kursy (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10035.png"
+    },
+    {
+        "id": "10036",
+        "name": "ステッカー | Kursy (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10036.png"
+    },
+    {
+        "id": "10037",
+        "name": "ステッカー | Kursy (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10037.png"
+    },
+    {
+        "id": "10038",
+        "name": "ステッカー | PR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10038.png"
+    },
+    {
+        "id": "10039",
+        "name": "ステッカー | PR (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10039.png"
+    },
+    {
+        "id": "10040",
+        "name": "ステッカー | PR (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10040.png"
+    },
+    {
+        "id": "10041",
+        "name": "ステッカー | PR (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10041.png"
+    },
+    {
+        "id": "10042",
+        "name": "ステッカー | REZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10042.png"
+    },
+    {
+        "id": "10043",
+        "name": "ステッカー | REZ (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10043.png"
+    },
+    {
+        "id": "10044",
+        "name": "ステッカー | REZ (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10044.png"
+    },
+    {
+        "id": "10045",
+        "name": "ステッカー | REZ (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10045.png"
+    },
+    {
+        "id": "10046",
+        "name": "ステッカー | Tauson | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10046.png"
+    },
+    {
+        "id": "10047",
+        "name": "ステッカー | Tauson (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10047.png"
+    },
+    {
+        "id": "10048",
+        "name": "ステッカー | Tauson (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10048.png"
+    },
+    {
+        "id": "10049",
+        "name": "ステッカー | Tauson (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10049.png"
+    },
+    {
+        "id": "10050",
+        "name": "ステッカー | ztr | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10050.png"
+    },
+    {
+        "id": "10051",
+        "name": "ステッカー | ztr (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10051.png"
+    },
+    {
+        "id": "10052",
+        "name": "ステッカー | ztr (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10052.png"
+    },
+    {
+        "id": "10053",
+        "name": "ステッカー | ztr (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10053.png"
+    },
+    {
+        "id": "10054",
+        "name": "ステッカー | blameF | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10054.png"
+    },
+    {
+        "id": "10055",
+        "name": "ステッカー | blameF (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10055.png"
+    },
+    {
+        "id": "10056",
+        "name": "ステッカー | blameF (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10056.png"
+    },
+    {
+        "id": "10057",
+        "name": "ステッカー | blameF (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10057.png"
+    },
+    {
+        "id": "10058",
+        "name": "ステッカー | Cypher | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10058.png"
+    },
+    {
+        "id": "10059",
+        "name": "ステッカー | Cypher (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10059.png"
+    },
+    {
+        "id": "10060",
+        "name": "ステッカー | Cypher (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10060.png"
+    },
+    {
+        "id": "10061",
+        "name": "ステッカー | Cypher (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10061.png"
+    },
+    {
+        "id": "10062",
+        "name": "ステッカー | fEAR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10062.png"
+    },
+    {
+        "id": "10063",
+        "name": "ステッカー | fEAR (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10063.png"
+    },
+    {
+        "id": "10064",
+        "name": "ステッカー | fEAR (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10064.png"
+    },
+    {
+        "id": "10065",
+        "name": "ステッカー | fEAR (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10065.png"
+    },
+    {
+        "id": "10066",
+        "name": "ステッカー | jambo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10066.png"
+    },
+    {
+        "id": "10067",
+        "name": "ステッカー | jambo (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10067.png"
+    },
+    {
+        "id": "10068",
+        "name": "ステッカー | jambo (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10068.png"
+    },
+    {
+        "id": "10069",
+        "name": "ステッカー | jambo (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10069.png"
+    },
+    {
+        "id": "10070",
+        "name": "ステッカー | KRIMZ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10070.png"
+    },
+    {
+        "id": "10071",
+        "name": "ステッカー | KRIMZ (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10071.png"
+    },
+    {
+        "id": "10072",
+        "name": "ステッカー | KRIMZ (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10072.png"
+    },
+    {
+        "id": "10073",
+        "name": "ステッカー | KRIMZ (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10073.png"
+    },
+    {
+        "id": "10074",
+        "name": "ステッカー | AW | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10074.png"
+    },
+    {
+        "id": "10075",
+        "name": "ステッカー | AW (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10075.png"
+    },
+    {
+        "id": "10076",
+        "name": "ステッカー | AW (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10076.png"
+    },
+    {
+        "id": "10077",
+        "name": "ステッカー | AW (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10077.png"
+    },
+    {
+        "id": "10078",
+        "name": "ステッカー | BELCHONOKK | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10078.png"
+    },
+    {
+        "id": "10079",
+        "name": "ステッカー | BELCHONOKK (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10079.png"
+    },
+    {
+        "id": "10080",
+        "name": "ステッカー | BELCHONOKK (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10080.png"
+    },
+    {
+        "id": "10081",
+        "name": "ステッカー | BELCHONOKK (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10081.png"
+    },
+    {
+        "id": "10082",
+        "name": "ステッカー | Jame | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10082.png"
+    },
+    {
+        "id": "10083",
+        "name": "ステッカー | Jame (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10083.png"
+    },
+    {
+        "id": "10084",
+        "name": "ステッカー | Jame (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10084.png"
+    },
+    {
+        "id": "10085",
+        "name": "ステッカー | Jame (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10085.png"
+    },
+    {
+        "id": "10086",
+        "name": "ステッカー | nota | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10086.png"
+    },
+    {
+        "id": "10087",
+        "name": "ステッカー | nota (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10087.png"
+    },
+    {
+        "id": "10088",
+        "name": "ステッカー | nota (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10088.png"
+    },
+    {
+        "id": "10089",
+        "name": "ステッカー | nota (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10089.png"
+    },
+    {
+        "id": "10090",
+        "name": "ステッカー | xiELO | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10090.png"
+    },
+    {
+        "id": "10091",
+        "name": "ステッカー | xiELO (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10091.png"
+    },
+    {
+        "id": "10092",
+        "name": "ステッカー | xiELO (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10092.png"
+    },
+    {
+        "id": "10093",
+        "name": "ステッカー | xiELO (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10093.png"
+    },
+    {
+        "id": "10094",
+        "name": "ステッカー | ewjerkz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10094.png"
+    },
+    {
+        "id": "10095",
+        "name": "ステッカー | ewjerkz (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10095.png"
+    },
+    {
+        "id": "10096",
+        "name": "ステッカー | ewjerkz (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10096.png"
+    },
+    {
+        "id": "10097",
+        "name": "ステッカー | ewjerkz (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10097.png"
+    },
+    {
+        "id": "10098",
+        "name": "ステッカー | r1nkle | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10098.png"
+    },
+    {
+        "id": "10099",
+        "name": "ステッカー | r1nkle (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10099.png"
+    },
+    {
+        "id": "10100",
+        "name": "ステッカー | r1nkle (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10100.png"
+    },
+    {
+        "id": "10101",
+        "name": "ステッカー | r1nkle (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10101.png"
+    },
+    {
+        "id": "10102",
+        "name": "ステッカー | sjuush | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10102.png"
+    },
+    {
+        "id": "10103",
+        "name": "ステッカー | sjuush (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10103.png"
+    },
+    {
+        "id": "10104",
+        "name": "ステッカー | sjuush (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10104.png"
+    },
+    {
+        "id": "10105",
+        "name": "ステッカー | sjuush (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10105.png"
+    },
+    {
+        "id": "10106",
+        "name": "ステッカー | Snappi | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10106.png"
+    },
+    {
+        "id": "10107",
+        "name": "ステッカー | Snappi (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10107.png"
+    },
+    {
+        "id": "10108",
+        "name": "ステッカー | Snappi(ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10108.png"
+    },
+    {
+        "id": "10109",
+        "name": "ステッカー | Snappi(ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10109.png"
+    },
+    {
+        "id": "10110",
+        "name": "ステッカー | xKacpersky | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10110.png"
+    },
+    {
+        "id": "10111",
+        "name": "ステッカー | xKacpersky (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10111.png"
+    },
+    {
+        "id": "10112",
+        "name": "ステッカー | xKacpersky (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10112.png"
+    },
+    {
+        "id": "10113",
+        "name": "ステッカー | xKacpersky (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10113.png"
+    },
+    {
+        "id": "10114",
+        "name": "ステッカー | chelo | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10114.png"
+    },
+    {
+        "id": "10115",
+        "name": "ステッカー | chelo (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10115.png"
+    },
+    {
+        "id": "10116",
+        "name": "ステッカー | chelo (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10116.png"
+    },
+    {
+        "id": "10117",
+        "name": "ステッカー | chelo (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10117.png"
+    },
+    {
+        "id": "10118",
+        "name": "ステッカー | noway | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10118.png"
+    },
+    {
+        "id": "10119",
+        "name": "ステッカー | noway (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10119.png"
+    },
+    {
+        "id": "10120",
+        "name": "ステッカー | noway (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10120.png"
+    },
+    {
+        "id": "10121",
+        "name": "ステッカー | noway (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10121.png"
+    },
+    {
+        "id": "10122",
+        "name": "ステッカー | skullz | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10122.png"
+    },
+    {
+        "id": "10123",
+        "name": "ステッカー | skullz (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10123.png"
+    },
+    {
+        "id": "10124",
+        "name": "ステッカー | skullz (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10124.png"
+    },
+    {
+        "id": "10125",
+        "name": "ステッカー | skullz (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10125.png"
+    },
+    {
+        "id": "10126",
+        "name": "ステッカー | TRY | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10126.png"
+    },
+    {
+        "id": "10127",
+        "name": "ステッカー | TRY (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10127.png"
+    },
+    {
+        "id": "10128",
+        "name": "ステッカー | TRY (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10128.png"
+    },
+    {
+        "id": "10129",
+        "name": "ステッカー | TRY (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10129.png"
+    },
+    {
+        "id": "10130",
+        "name": "ステッカー | VINI | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10130.png"
+    },
+    {
+        "id": "10131",
+        "name": "ステッカー | VINI (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10131.png"
+    },
+    {
+        "id": "10132",
+        "name": "ステッカー | VINI (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10132.png"
+    },
+    {
+        "id": "10133",
+        "name": "ステッカー | VINI (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10133.png"
+    },
+    {
+        "id": "10134",
+        "name": "ステッカー | INS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10134.png"
+    },
+    {
+        "id": "10135",
+        "name": "ステッカー | INS (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10135.png"
+    },
+    {
+        "id": "10136",
+        "name": "ステッカー | INS (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10136.png"
+    },
+    {
+        "id": "10137",
+        "name": "ステッカー | INS (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10137.png"
+    },
+    {
+        "id": "10138",
+        "name": "ステッカー | jks | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10138.png"
+    },
+    {
+        "id": "10139",
+        "name": "ステッカー | jks (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10139.png"
+    },
+    {
+        "id": "10140",
+        "name": "ステッカー | jks (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10140.png"
+    },
+    {
+        "id": "10141",
+        "name": "ステッカー | jks (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10141.png"
+    },
+    {
+        "id": "10142",
+        "name": "ステッカー | nettik | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10142.png"
+    },
+    {
+        "id": "10143",
+        "name": "ステッカー | nettik (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10143.png"
+    },
+    {
+        "id": "10144",
+        "name": "ステッカー | nettik (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10144.png"
+    },
+    {
+        "id": "10145",
+        "name": "ステッカー | nettik (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10145.png"
+    },
+    {
+        "id": "10146",
+        "name": "ステッカー | regali | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10146.png"
+    },
+    {
+        "id": "10147",
+        "name": "ステッカー | regali (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10147.png"
+    },
+    {
+        "id": "10148",
+        "name": "ステッカー | regali (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10148.png"
+    },
+    {
+        "id": "10149",
+        "name": "ステッカー | regali (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10149.png"
+    },
+    {
+        "id": "10150",
+        "name": "ステッカー | vexite | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10150.png"
+    },
+    {
+        "id": "10151",
+        "name": "ステッカー | vexite (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10151.png"
+    },
+    {
+        "id": "10152",
+        "name": "ステッカー | vexite (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10152.png"
+    },
+    {
+        "id": "10153",
+        "name": "ステッカー | vexite (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10153.png"
+    },
+    {
+        "id": "10154",
+        "name": "ステッカー | C4LLM3SU3 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10154.png"
+    },
+    {
+        "id": "10155",
+        "name": "ステッカー | C4LLM3SU3 (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10155.png"
+    },
+    {
+        "id": "10156",
+        "name": "ステッカー | C4LLM3SU3 (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10156.png"
+    },
+    {
+        "id": "10157",
+        "name": "ステッカー | C4LLM3SU3 (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10157.png"
+    },
+    {
+        "id": "10158",
+        "name": "ステッカー | EmiliaQAQ | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10158.png"
+    },
+    {
+        "id": "10159",
+        "name": "ステッカー | EmiliaQAQ (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10159.png"
+    },
+    {
+        "id": "10160",
+        "name": "ステッカー | EmiliaQAQ (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10160.png"
+    },
+    {
+        "id": "10161",
+        "name": "ステッカー | EmiliaQAQ (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10161.png"
+    },
+    {
+        "id": "10162",
+        "name": "ステッカー | Starry | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10162.png"
+    },
+    {
+        "id": "10163",
+        "name": "ステッカー | Starry (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10163.png"
+    },
+    {
+        "id": "10164",
+        "name": "ステッカー | Starry(ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10164.png"
+    },
+    {
+        "id": "10165",
+        "name": "ステッカー | Starry(ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10165.png"
+    },
+    {
+        "id": "10166",
+        "name": "ステッカー | westmelon | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10166.png"
+    },
+    {
+        "id": "10167",
+        "name": "ステッカー | westmelon (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10167.png"
+    },
+    {
+        "id": "10168",
+        "name": "ステッカー | westmelon (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10168.png"
+    },
+    {
+        "id": "10169",
+        "name": "ステッカー | westmelon (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10169.png"
+    },
+    {
+        "id": "10170",
+        "name": "ステッカー | z4KR | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10170.png"
+    },
+    {
+        "id": "10171",
+        "name": "ステッカー | z4KR (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10171.png"
+    },
+    {
+        "id": "10172",
+        "name": "ステッカー | z4KR (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10172.png"
+    },
+    {
+        "id": "10173",
+        "name": "ステッカー | z4KR (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10173.png"
+    },
+    {
+        "id": "10174",
+        "name": "ステッカー | HexT | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10174.png"
+    },
+    {
+        "id": "10175",
+        "name": "ステッカー | HexT (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10175.png"
+    },
+    {
+        "id": "10176",
+        "name": "ステッカー | HexT(ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10176.png"
+    },
+    {
+        "id": "10177",
+        "name": "ステッカー | HexT(ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10177.png"
+    },
+    {
+        "id": "10178",
+        "name": "ステッカー | Lake | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10178.png"
+    },
+    {
+        "id": "10179",
+        "name": "ステッカー | Lake (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10179.png"
+    },
+    {
+        "id": "10180",
+        "name": "ステッカー | Lake (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10180.png"
+    },
+    {
+        "id": "10181",
+        "name": "ステッカー | Lake (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10181.png"
+    },
+    {
+        "id": "10182",
+        "name": "ステッカー | s1n | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10182.png"
+    },
+    {
+        "id": "10183",
+        "name": "ステッカー | s1n (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10183.png"
+    },
+    {
+        "id": "10184",
+        "name": "ステッカー | s1n (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10184.png"
+    },
+    {
+        "id": "10185",
+        "name": "ステッカー | s1n (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10185.png"
+    },
+    {
+        "id": "10186",
+        "name": "ステッカー | slaxz- | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10186.png"
+    },
+    {
+        "id": "10187",
+        "name": "ステッカー | slaxz- (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10187.png"
+    },
+    {
+        "id": "10188",
+        "name": "ステッカー | slaxz- (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10188.png"
+    },
+    {
+        "id": "10189",
+        "name": "ステッカー | slaxz- (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10189.png"
+    },
+    {
+        "id": "10190",
+        "name": "ステッカー | Swisher | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10190.png"
+    },
+    {
+        "id": "10191",
+        "name": "ステッカー | Swisher (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10191.png"
+    },
+    {
+        "id": "10192",
+        "name": "ステッカー | Swisher (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10192.png"
+    },
+    {
+        "id": "10193",
+        "name": "ステッカー | Swisher (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10193.png"
+    },
+    {
+        "id": "10194",
+        "name": "ステッカー | arT | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10194.png"
+    },
+    {
+        "id": "10195",
+        "name": "ステッカー | arT (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10195.png"
+    },
+    {
+        "id": "10196",
+        "name": "ステッカー | arT (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10196.png"
+    },
+    {
+        "id": "10197",
+        "name": "ステッカー | arT (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10197.png"
+    },
+    {
+        "id": "10198",
+        "name": "ステッカー | decenty | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10198.png"
+    },
+    {
+        "id": "10199",
+        "name": "ステッカー | decenty (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10199.png"
+    },
+    {
+        "id": "10200",
+        "name": "ステッカー | decenty (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10200.png"
+    },
+    {
+        "id": "10201",
+        "name": "ステッカー | decenty (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10201.png"
+    },
+    {
+        "id": "10202",
+        "name": "ステッカー | kye | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10202.png"
+    },
+    {
+        "id": "10203",
+        "name": "ステッカー | kye (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10203.png"
+    },
+    {
+        "id": "10204",
+        "name": "ステッカー | kye (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10204.png"
+    },
+    {
+        "id": "10205",
+        "name": "ステッカー | kye (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10205.png"
+    },
+    {
+        "id": "10206",
+        "name": "ステッカー | Lucaozy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10206.png"
+    },
+    {
+        "id": "10207",
+        "name": "ステッカー | Lucaozy (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10207.png"
+    },
+    {
+        "id": "10208",
+        "name": "ステッカー | Lucaozy (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10208.png"
+    },
+    {
+        "id": "10209",
+        "name": "ステッカー | Lucaozy (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10209.png"
+    },
+    {
+        "id": "10210",
+        "name": "ステッカー | zevy | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10210.png"
+    },
+    {
+        "id": "10211",
+        "name": "ステッカー | zevy (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10211.png"
+    },
+    {
+        "id": "10212",
+        "name": "ステッカー | zevy (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10212.png"
+    },
+    {
+        "id": "10213",
+        "name": "ステッカー | zevy (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10213.png"
+    },
+    {
+        "id": "10214",
+        "name": "ステッカー | chayJESUS | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10214.png"
+    },
+    {
+        "id": "10215",
+        "name": "ステッカー | chayJESUS (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10215.png"
+    },
+    {
+        "id": "10216",
+        "name": "ステッカー | chayJESUS (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10216.png"
+    },
+    {
+        "id": "10217",
+        "name": "ステッカー | chayJESUS (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10217.png"
+    },
+    {
+        "id": "10218",
+        "name": "ステッカー | drop | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10218.png"
+    },
+    {
+        "id": "10219",
+        "name": "ステッカー | drop (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10219.png"
+    },
+    {
+        "id": "10220",
+        "name": "ステッカー | drop (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10220.png"
+    },
+    {
+        "id": "10221",
+        "name": "ステッカー | drop (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10221.png"
+    },
+    {
+        "id": "10222",
+        "name": "ステッカー | History | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10222.png"
+    },
+    {
+        "id": "10223",
+        "name": "ステッカー | History (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10223.png"
+    },
+    {
+        "id": "10224",
+        "name": "ステッカー | History (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10224.png"
+    },
+    {
+        "id": "10225",
+        "name": "ステッカー | History (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10225.png"
+    },
+    {
+        "id": "10226",
+        "name": "ステッカー | kauez | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10226.png"
+    },
+    {
+        "id": "10227",
+        "name": "ステッカー | kauez (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10227.png"
+    },
+    {
+        "id": "10228",
+        "name": "ステッカー | kauez (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10228.png"
+    },
+    {
+        "id": "10229",
+        "name": "ステッカー | kauez (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10229.png"
+    },
+    {
+        "id": "10230",
+        "name": "ステッカー | venomzera | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10230.png"
+    },
+    {
+        "id": "10231",
+        "name": "ステッカー | venomzera (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10231.png"
+    },
+    {
+        "id": "10232",
+        "name": "ステッカー | venomzera (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10232.png"
+    },
+    {
+        "id": "10233",
+        "name": "ステッカー | venomzera (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10233.png"
+    },
+    {
+        "id": "10234",
+        "name": "ステッカー | Bart4k | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10234.png"
+    },
+    {
+        "id": "10235",
+        "name": "ステッカー | Bart4k (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10235.png"
+    },
+    {
+        "id": "10236",
+        "name": "ステッカー | Bart4k (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10236.png"
+    },
+    {
+        "id": "10237",
+        "name": "ステッカー | Bart4k (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10237.png"
+    },
+    {
+        "id": "10238",
+        "name": "ステッカー | cobra | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10238.png"
+    },
+    {
+        "id": "10239",
+        "name": "ステッカー | cobra (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10239.png"
+    },
+    {
+        "id": "10240",
+        "name": "ステッカー | cobra (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10240.png"
+    },
+    {
+        "id": "10241",
+        "name": "ステッカー | cobra (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10241.png"
+    },
+    {
+        "id": "10242",
+        "name": "ステッカー | nin9 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10242.png"
+    },
+    {
+        "id": "10243",
+        "name": "ステッカー | nin9 (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10243.png"
+    },
+    {
+        "id": "10244",
+        "name": "ステッカー | nin9 (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10244.png"
+    },
+    {
+        "id": "10245",
+        "name": "ステッカー | nin9 (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10245.png"
+    },
+    {
+        "id": "10246",
+        "name": "ステッカー | sk0R | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10246.png"
+    },
+    {
+        "id": "10247",
+        "name": "ステッカー | sk0R (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10247.png"
+    },
+    {
+        "id": "10248",
+        "name": "ステッカー | sk0R (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10248.png"
+    },
+    {
+        "id": "10249",
+        "name": "ステッカー | sk0R (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10249.png"
+    },
+    {
+        "id": "10250",
+        "name": "ステッカー | xerolte | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10250.png"
+    },
+    {
+        "id": "10251",
+        "name": "ステッカー | xerolte (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10251.png"
+    },
+    {
+        "id": "10252",
+        "name": "ステッカー | xerolte (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10252.png"
+    },
+    {
+        "id": "10253",
+        "name": "ステッカー | xerolte (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10253.png"
+    },
+    {
+        "id": "10254",
+        "name": "ステッカー | br0 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10254.png"
+    },
+    {
+        "id": "10255",
+        "name": "ステッカー | br0 (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10255.png"
+    },
+    {
+        "id": "10256",
+        "name": "ステッカー | br0 (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10256.png"
+    },
+    {
+        "id": "10257",
+        "name": "ステッカー | br0 (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10257.png"
+    },
+    {
+        "id": "10258",
+        "name": "ステッカー | jeorge | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10258.png"
+    },
+    {
+        "id": "10259",
+        "name": "ステッカー | jeorge (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10259.png"
+    },
+    {
+        "id": "10260",
+        "name": "ステッカー | jeorge (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10260.png"
+    },
+    {
+        "id": "10261",
+        "name": "ステッカー | jeorge (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10261.png"
+    },
+    {
+        "id": "10262",
+        "name": "ステッカー | nitr0 | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10262.png"
+    },
+    {
+        "id": "10263",
+        "name": "ステッカー | nitr0 (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10263.png"
+    },
+    {
+        "id": "10264",
+        "name": "ステッカー | nitr0 (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10264.png"
+    },
+    {
+        "id": "10265",
+        "name": "ステッカー | nitr0 (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10265.png"
+    },
+    {
+        "id": "10266",
+        "name": "ステッカー | Sonic | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10266.png"
+    },
+    {
+        "id": "10267",
+        "name": "ステッカー | Sonic (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10267.png"
+    },
+    {
+        "id": "10268",
+        "name": "ステッカー | Sonic (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10268.png"
+    },
+    {
+        "id": "10269",
+        "name": "ステッカー | Sonic (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10269.png"
+    },
+    {
+        "id": "10270",
+        "name": "ステッカー | XotiC | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10270.png"
+    },
+    {
+        "id": "10271",
+        "name": "ステッカー | XotiC (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10271.png"
+    },
+    {
+        "id": "10272",
+        "name": "ステッカー | XotiC (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10272.png"
+    },
+    {
+        "id": "10273",
+        "name": "ステッカー | XotiC (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10273.png"
+    },
+    {
+        "id": "10274",
+        "name": "ステッカー | ChildKing | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10274.png"
+    },
+    {
+        "id": "10275",
+        "name": "ステッカー | ChildKing (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10275.png"
+    },
+    {
+        "id": "10276",
+        "name": "ステッカー | ChildKing (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10276.png"
+    },
+    {
+        "id": "10277",
+        "name": "ステッカー | ChildKing (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10277.png"
+    },
+    {
+        "id": "10278",
+        "name": "ステッカー | L1haNg | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10278.png"
+    },
+    {
+        "id": "10279",
+        "name": "ステッカー | L1haNg (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10279.png"
+    },
+    {
+        "id": "10280",
+        "name": "ステッカー | L1haNg (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10280.png"
+    },
+    {
+        "id": "10281",
+        "name": "ステッカー | L1haNg (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10281.png"
+    },
+    {
+        "id": "10282",
+        "name": "ステッカー | Marek | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10282.png"
+    },
+    {
+        "id": "10283",
+        "name": "ステッカー | Marek (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10283.png"
+    },
+    {
+        "id": "10284",
+        "name": "ステッカー | Marek (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10284.png"
+    },
+    {
+        "id": "10285",
+        "name": "ステッカー | Marek (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10285.png"
+    },
+    {
+        "id": "10286",
+        "name": "ステッカー | Summer | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10286.png"
+    },
+    {
+        "id": "10287",
+        "name": "ステッカー | Summer (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10287.png"
+    },
+    {
+        "id": "10288",
+        "name": "ステッカー | Summer(ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10288.png"
+    },
+    {
+        "id": "10289",
+        "name": "ステッカー | Summer (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10289.png"
+    },
+    {
+        "id": "10290",
+        "name": "ステッカー | Tiger | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10290.png"
+    },
+    {
+        "id": "10291",
+        "name": "ステッカー | Tiger (刺繍) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10291.png"
+    },
+    {
+        "id": "10292",
+        "name": "ステッカー | Tiger (ホログラム) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10292.png"
+    },
+    {
+        "id": "10293",
+        "name": "ステッカー | Tiger (ゴールド) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10293.png"
+    },
+    {
+        "id": "10294",
+        "name": "ステッカー | apEX (チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10294.png"
+    },
+    {
+        "id": "10295",
+        "name": "ステッカー | apEX (刺繍、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10295.png"
+    },
+    {
+        "id": "10296",
+        "name": "ステッカー | apEX (ホログラム、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10296.png"
+    },
+    {
+        "id": "10297",
+        "name": "ステッカー | apEX (ゴールド、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10297.png"
+    },
+    {
+        "id": "10298",
+        "name": "ステッカー | FlameZ (チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10298.png"
+    },
+    {
+        "id": "10299",
+        "name": "ステッカー | FlameZ (刺繍、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10299.png"
+    },
+    {
+        "id": "10300",
+        "name": "ステッカー | FlameZ (ホログラム、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10300.png"
+    },
+    {
+        "id": "10301",
+        "name": "ステッカー | FlameZ (ゴールド、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10301.png"
+    },
+    {
+        "id": "10302",
+        "name": "ステッカー | mezii (チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10302.png"
+    },
+    {
+        "id": "10303",
+        "name": "ステッカー | mezii (刺繍、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10303.png"
+    },
+    {
+        "id": "10304",
+        "name": "ステッカー | mezii (ホログラム、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10304.png"
+    },
+    {
+        "id": "10305",
+        "name": "ステッカー | mezii (ゴールド、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10305.png"
+    },
+    {
+        "id": "10306",
+        "name": "ステッカー | ropz (チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10306.png"
+    },
+    {
+        "id": "10307",
+        "name": "ステッカー | ropz (刺繍、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10307.png"
+    },
+    {
+        "id": "10308",
+        "name": "ステッカー | ropz (ホログラム、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10308.png"
+    },
+    {
+        "id": "10309",
+        "name": "ステッカー | ropz (ゴールド、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10309.png"
+    },
+    {
+        "id": "10310",
+        "name": "ステッカー | ZywOo (チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10310.png"
+    },
+    {
+        "id": "10311",
+        "name": "ステッカー | ZywOo (刺繍、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10311.png"
+    },
+    {
+        "id": "10312",
+        "name": "ステッカー | ZywOo (ホログラム、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10312.png"
+    },
+    {
+        "id": "10313",
+        "name": "ステッカー | ZywOo (ゴールド、チャンピオン) | Budapest 2025",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/sticker-10313.png"
     }
 ]

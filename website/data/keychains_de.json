@@ -165,163 +165,228 @@
         "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-33.png"
     },
     {
-        "id": "202521",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | chopper – Doppel-Kill",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_chopper2kvsmouzonmirage1.png"
+        "id": "38",
+        "name": "Anhänger | Kleiner Verfluchter",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-38.png"
     },
     {
-        "id": "2025100",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | 100 Granatenschaden",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_chopperdiesfrom100byutilityvsmouzonmirage.png"
+        "id": "39",
+        "name": "Anhänger | Kleine Feuerschlange",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-39.png"
     },
     {
-        "id": "202511",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | 1-vs.-2-Clutch vereitelt",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_chopperwins1v1vsbrollanonmiragemouz.png"
+        "id": "40",
+        "name": "Anhänger | Kleiner Korbjäger",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-40.png"
     },
     {
-        "id": "20253",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | chopper – Eins, zwei, drei",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_chopper3ktowinmap.png"
+        "id": "41",
+        "name": "Anhänger | Leichensack",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-41.png"
     },
     {
-        "id": "20252",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Doppelter Pistolen-Kill",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_donk2kvsmouzonmirage.png"
+        "id": "42",
+        "name": "Anhänger | Kleiner Kaktus",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-42.png"
     },
     {
-        "id": "2025311",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Dreifach-Kill und eine Entschärfung",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_donk3with1v1win.png"
+        "id": "43",
+        "name": "Anhänger | Kleiner Fast-Food-Fan",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-43.png"
     },
     {
-        "id": "202541",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Jimpphat – Vierfach-Kill",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_jimpphat4kvsspiritonmirage1.png"
+        "id": "44",
+        "name": "Anhänger | Kleiner Raucher",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-44.png"
     },
     {
-        "id": "2025",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Rennen und schießen",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_jimpphatrunninghsvsspiritonmirage.png"
+        "id": "45",
+        "name": "Anhänger | Kleines Grauen",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-45.png"
     },
     {
-        "id": "202512",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | 1-vs.-2-Clutch",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_magix1v2tosecureot.png"
+        "id": "46",
+        "name": "Anhänger | Kleines Glückskind",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-46.png"
     },
     {
-        "id": "2025413",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Clutch-König",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_magix4kand1v3winvsmouzonmirage.png"
+        "id": "47",
+        "name": "Anhänger | Magmawesen",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-47.png"
     },
     {
-        "id": "20251",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Schnell wie der Blitz",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_shirofastawpflickvsmouzonmirage1.png"
+        "id": "48",
+        "name": "Anhänger | Kleiner Krakeeler",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-48.png"
     },
     {
-        "id": "202531",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Hart im Nehmen",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_spinxnadedto3hpvsspiritonmirage1.png"
+        "id": "49",
+        "name": "Anhänger | Quecksilber",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-49.png"
     },
     {
-        "id": "20254",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Spinx – Vierfach-Kill",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_spinxinsane4kclutchvsspiritonmirage.png"
+        "id": "50",
+        "name": "Anhänger | Kleiner Kritzler",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-50.png"
     },
     {
-        "id": "202522",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Brollan – Doppel-Kill",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_brollan2kvsspiritondust2.png"
+        "id": "51",
+        "name": "Anhänger | Kleine Piñata",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-51.png"
     },
     {
-        "id": "202532",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Brollan – Dreifach-Kill",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_brollan3kvsspiritondust2.png"
+        "id": "52",
+        "name": "Anhänger | Raketeneis",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-52.png"
     },
     {
-        "id": "202510002",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Iron Man",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_brollandiesfrom100to0fromutilityvsspiritondust2.png"
+        "id": "53",
+        "name": "Anhänger | Kleiner Held",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-53.png"
     },
     {
-        "id": "2025392",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Fliegender MP9-Schütze",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_chopper3kmp9vsspiritondust2.png"
+        "id": "54",
+        "name": "Anhänger | Kleiner Stoßzahn",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-54.png"
     },
     {
-        "id": "20254112",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Kein Ass im Ärmel",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_donk4kandfailed1v1vsmouzondust2.png"
+        "id": "55",
+        "name": "Anhänger | Kleines Schleimmonster",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-55.png"
     },
     {
-        "id": "202542",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Schau dich nicht um, Jimpphat geht um",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_jimpphat4konretakevspsiritondust2.png"
+        "id": "56",
+        "name": "Anhänger | Locker bleiben",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-56.png"
     },
     {
-        "id": "2025122",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Weg mit der AWP",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_shirothrowawayawpin1v2ondust2vsmouz.png"
+        "id": "57",
+        "name": "Anhänger | Kleiner Sommelier",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-57.png"
     },
     {
-        "id": "202529",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | 3-2-1-LOS!",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_jimpphat2kmp9vsspiritonnuke.png"
+        "id": "58",
+        "name": "Anhänger | Kleiner Fotograf",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-58.png"
     },
     {
-        "id": "202513",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Knappes Ding",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_dgtfailed1v3vsfuriaonnuke.png"
+        "id": "59",
+        "name": "Anhänger | Kleiner Geist",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-59.png"
     },
     {
-        "id": "20259",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Meister der Tec-9",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_fallentec9mastervspainonnuke.png"
+        "id": "60",
+        "name": "Anhänger | Kleiner Piepmatz",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-60.png"
     },
     {
-        "id": "2025112",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | dav1deuS – Doppel-Kill auf Anubis",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_dav1deus1v2vsfuriaonanubis.png"
+        "id": "61",
+        "name": "Anhänger | Kluger Kopf",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-61.png"
     },
     {
-        "id": "2025113",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | So wird’s gemacht",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_dav1deus1v3vsfuriaonanubis.png"
+        "id": "62",
+        "name": "Anhänger | Biomechaniker",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-62.png"
     },
     {
-        "id": "2025910",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Überlegenheit der Desert Eagle",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_910doubledeaglevsfazeonmirage.png"
+        "id": "63",
+        "name": "Anhänger | Kratze-Katze",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-63.png"
     },
     {
-        "id": "20259102",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Zwei Pistolen-Kopfschüsse",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_9102kpistolvsfazeonmirage.png"
+        "id": "64",
+        "name": "Anhänger | Draufgänger",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-64.png"
     },
     {
-        "id": "20259103",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | 910 – Dreifach-Kill gegen FaZe",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_9103ktowinmapvsfazeonmirage.png"
+        "id": "65",
+        "name": "Anhänger | Knuddelmonster",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-65.png"
     },
     {
-        "id": "2025210",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Unterwegs mit der MAC-10",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_karrigan2kmac10vsmongolzonanubis.png"
+        "id": "66",
+        "name": "Anhänger | Schnitzer",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-66.png"
     },
     {
-        "id": "20259101",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Ein Kill reicht",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_9101kvspainonmirage.png"
+        "id": "67",
+        "name": "Anhänger | Kleiner Zen-Meister",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-67.png"
     },
     {
-        "id": "2025132",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Zum Fürchten",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_mzinhoclose1v3vsvitalityondust2.png"
+        "id": "68",
+        "name": "Anhänger | Gesichtsstraffung",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-68.png"
     },
     {
-        "id": "2025123",
-        "name": "Souvenir Charm | Highlight – Austin 2025 | Probieren geht über Studieren",
-        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/highlight-aus2025_flameztesting123vsthemongolzoninferno.png"
+        "id": "69",
+        "name": "Anhänger | Kleiner Wadenbeißer",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-69.png"
+    },
+    {
+        "id": "70",
+        "name": "Anhänger | Kleiner Schlitzer",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-70.png"
+    },
+    {
+        "id": "71",
+        "name": "Anhänger | Kleiner Kloß",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-71.png"
+    },
+    {
+        "id": "72",
+        "name": "Anhänger | Bomben-Graffito",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-72.png"
+    },
+    {
+        "id": "73",
+        "name": "Anhänger | Glitzerbombe",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-73.png"
+    },
+    {
+        "id": "74",
+        "name": "Anhänger | Kleiner Naturfreund",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-74.png"
+    },
+    {
+        "id": "75",
+        "name": "Anhänger | Hungrige Augen",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-75.png"
+    },
+    {
+        "id": "76",
+        "name": "Anhänger | Augapfel",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-76.png"
+    },
+    {
+        "id": "77",
+        "name": "Anhänger | Kleiner Yeti",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-77.png"
+    },
+    {
+        "id": "78",
+        "name": "Anhänger | 8-Ball-IGL",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-78.png"
+    },
+    {
+        "id": "79",
+        "name": "Anhänger | Blitzbombe",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-79.png"
+    },
+    {
+        "id": "80",
+        "name": "Anhänger | Kleiner Feuerteufel",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-80.png"
+    },
+    {
+        "id": "81",
+        "name": "Anhänger | Butangaskartusche",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-81.png"
+    },
+    {
+        "id": "82",
+        "name": "Anhänger | Dr. Brian",
+        "image": "https://raw.githubusercontent.com/Nereziel/cs2-WeaponPaints/main/website/img/skins/keychain-82.png"
     }
 ]

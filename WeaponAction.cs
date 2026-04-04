@@ -332,12 +332,26 @@ namespace WeaponPaints
 						if (!PlayerHasKnife(player) && hasKnife)
 						{
 							var newKnife = new CBasePlayerWeapon(player.GiveNamedItem(CsItem.Knife));
-							newKnife.AddEntityIOEvent("Kill", newKnife, null, "", 0.01f);
 							var newWeapon = new CBasePlayerWeapon(player.GiveNamedItem(CsItem.USP));
 							player.GiveNamedItem(CsItem.Knife);
 							player.ExecuteClientCommand("slot3");
-							newWeapon.AddEntityIOEvent("Kill", newWeapon, null, "", 0.01f);
+
+							Server.NextFrame(() =>
+							{
+								try
+								{
+									if (newKnife != null && newKnife.IsValid)
+										newKnife.AddEntityIOEvent("Kill", newKnife, null, "", 0.01f);
+									if (newWeapon != null && newWeapon.IsValid)
+										newWeapon.AddEntityIOEvent("Kill", newWeapon, null, "", 0.01f);
+								}
+								catch (Exception ex)
+								{
+									Logger.LogWarning("Error AddEntityIOEvent " + ex.Message);
+								}
+							});
 						}
+
 
 						foreach (var entry in weaponsWithAmmo)
 						{

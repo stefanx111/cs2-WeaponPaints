@@ -487,7 +487,7 @@ namespace WeaponPaints
 				Server.NextFrame(() =>
 				{
 					player.PlayerPawn.Value.SetModel(
-						$"characters/models/{model}.vmdl"
+						$"agents/models/{model}.vmdl"
 					);
 				});
 			}
